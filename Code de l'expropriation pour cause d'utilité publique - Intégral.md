@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1993-12-31
+Version Consolidée au 1994-10-12
 
 # Partie législative
 
@@ -3528,8 +3528,20 @@ d'architecture.
 
 ###### Article R11-6
 
-Un arrêté conjoint du ministre de l'équipement, du ministre de l'intérieur et du ministre de l'économie et des finances fixe
-les conditions d'indemnisation du commissaire enquêteur et des membres des commissions d'enquête.
+Les commissaires enquêteurs et les membres des commissions d'enquête ont droit à une indemnité, à la charge du maître
+d'ouvrage, qui comprend des vacations et le remboursement des frais qu'ils engagent pour l'accomplissement de leur mission.
+
+Le préfet qui a désigné le commissaire enquêteur ou les membres de la commission d'enquête détermine le nombre des vacations
+allouées au commissaire enquêteur en tenant compte des difficultés de l'enquête, de la charge de travail qu'elle a
+occasionnée pour le commissaire enquêteur, de la nature et de la qualité du travail fourni par celui-ci.
+
+Il arrête, sur justificatifs, le montant des frais qui seront remboursés au commissaire enquêteur.
+
+Il fixe par arrêté le montant de l'indemnité ; cet arrêté est notifié au commissaire enquêteur et au maître d'ouvrage, lequel
+verse sans délai au commissaire enquêteur le montant de l'indemnité indiqué.
+
+Un arrêté conjoint des ministres chargés de l'environnement, de l'équipement, du budget et de l'intérieur fixe les modalités
+de calcul de l'indemnité.
 
 **Liens relatifs à cet article**
 
@@ -3539,17 +3551,21 @@ les conditions d'indemnisation du commissaire enquêteur et des membres des comm
 
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
+	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
 	**Modifié par**:
 
-	  - Décret n°85-453 du 23 avril 1985 - art. 22 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
+	  - Décret n°94-873 du 10 octobre 1994 - art. 3 () JORF 12 octobre 1994
 
 	**Cité par**:
 
 	  - Décret n°2006-504 du 3 mai 2006 - art. 8 (V)
 	  - Code de l'aviation civile - art. R242-1 (M)
 	  - Code de l'urbanisme - art. R*318-7 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-874 1994-10-10 art. 6
 
 
 ###### Article R11-8
@@ -4114,8 +4130,8 @@ personnel, soit en raison des fonctions qu'elles exercent ou ont exercées depui
 collectivité, de l'organisme ou du service qui assure la maîtrise d'ouvrage, la maîtrise d'oeuvre ou le contrôle de
 l'opération soumise à enquête ou au sein des associations concernées par cette opération.
 
-L'indemnisation des commissaires enquêteurs et des membres des commissions d'enquête est assurée par l'Etat, selon les
-modalités arrêtées conjointement par les ministres chargés du budget, de l'urbanisme, de l'intérieur et de l'environnement.
+L'indemnisation du commissaire enquêteur ou des membres de la commission d'enquête est assurée dans les conditions prévues
+aux articles 10 et 10-1 du décret n° 85-453 du 23 avril 1985.
 
 **Liens relatifs à cet article**
 
@@ -4126,16 +4142,17 @@ modalités arrêtées conjointement par les ministres chargés du budget, de l'u
 	**Liens**:
 
 	  - TXT_SOURCE: Loi n°83-630 1983-07-12
-	  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
-
-	**Créé par**:
-
-	  - Décret n°85-453 du 23 avril 1985 - art. 22 () JORF 24 avril 1984 en vigueur le 1er octobre 1985
-	  - Décret n°85-453 du 23 avril 1985 - art. 24 () JORF 24 avril 1984 en vigueur le 1er octobre 1985
+	  - SPEC_APPLI: Décret n°94-874 1994-10-10 art. 6
 
 	**Cite**:
 
+	  - Décret n°85-453 du 23 avril 1985 - art. 10 (M)
+	  - Décret n°85-453 du 23 avril 1985 - art. 10-1 (M)
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-5 (M)
+
+	**Modifié par**:
+
+	  - Décret n°94-873 du 10 octobre 1994 - art. 4 () JORF 12 octobre 1994
 
 	**Cité par**:
 
@@ -4817,44 +4834,36 @@ cadastral délivré par le service du cadastre en tient lieu.
 
 ###### Article R11-20
 
-Le commissaire de la République désigne, par arrêté, dans les conditions fixées au premier alinéa de l'article R. 11-4 et
-parmi les personnes mentionnées à l'article R. 11-5, un commissaire enquêteur ou une commission d'enquête. Le commissaire
-enquêteur ou la commission d'enquête désigné pour procéder à l'enquête prescrite en application de la section I peut être
-désigné pour procéder à  l'enquête prescrite en application de la section I [*déclaration d'utilité publique*] peut être
-désigné pour procéder également à l'enquête prévue à la section II du présent chapitre.
+Le préfet désigne, par arrêté, dans les conditions fixées au premier alinéa de l'article **R. 11-4 et parmi les personnes
+mentionnées à l'article **R. 11-5, un commissaire enquêteur ou une commission d'enquête. Le commissaire enquêteur ou la
+commission d'enquête désigné pour procéder à l'enquête prescrite en application de la section I peut être désigné pour
+procéder également à l'enquête prévue à la section II du présent chapitre. L'indemnisation du commissaire enquêteur ou des
+membres de la commission d'enquête est assurée dans les conditions prévues à l'article **R. 11-6. 
 
-Le même arrêté précise  [*contenu*:
+Le même arrêté précise : 
 
-1. L'objet de l'enquête *]parcellaire*, la date à laquelle celle-ci sera ouverte, sa durée, qui ne peut être inférieure à
-quinze jours ;
+1° L'objet de l'enquête, la date à laquelle celle-ci sera ouverte, sa durée qui ne peut être inférieure à quinze jours ; 
 
-2. Les jours et heures où les dossiers pourront être consultés dans les mairies et les observations recueillies sur des
-registres ouverts à cet effet qui seront établis sur feuillets non mobiles, cotés et paraphés par le maire ;
+2° Les jours et heures où les dossiers pourront être consultés dans les mairies et les observations recueillies sur des
+registres ouverts à cet effet qui seront établis sur feuillets non mobiles, cotés et paraphés par le maire ; 
 
-3. Le lieu où siège le commissaire enquêteur ou la commission d'enquête ;
+3° Le lieu où siège le commissaire enquêteur ou la commission d'enquête ; 
 
-4. Le délai dans lequel le commissaire enquêteur ou la commission d'enquête doit donner son avis à l'issue de l'enquête,
-ledit délai ne pouvant excéder un mois.
+4° Le délai dans lequel le commissaire enquêteur ou la commission d'enquête doit donner son avis à l'issue de l'enquête,
+ledit délai ne pouvant excéder un mois. 
 
 Un avis portant ces indications à la connaissance du public est publié par voie d'affiches et, éventuellement, par tous
-autres procédés, dans chacune des communes désignées par le commissaire de la République. Cette désignation porte au minimum
-sur toutes les communes sur le territoire desquelles l'opération doit avoir lieu. L'accomplissement de cette mesure de
-publicité incombe au maire ; il est certifié par lui.
+autres procédés, dans chacune des communes désignées par le préfet. Cette désignation porte au minimum sur toutes les
+communes sur le territoire desquelles l'opération doit avoir lieu. L'accomplissement de cette mesure de publicité incombe au
+maire ; il est certifié par lui. 
 
 Le même avis est en outre inséré en caractères apparents dans un des journaux diffusés dans le département.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'expropriation R11-24
-	  - TXT_ASSOCIE: Code de l'expropriation R11-25
-	  - TXT_SOURCE: Loi n°83-630 1983-07-12
-	  - SPEC_APPLI: Décret n°85-453 1985-04-23 art. 43 : application dans le temps
-
 	**Anciens textes**:
 
-	  - Décret n°59-701 1959-06-06 ART. 14 (Décret 77-393 1977-03-28)
+	  - Décret n°59-701 1959-06-06 art. 14 (Décret 77-393 1977-03-28)
 
 	**Codifié par**:
 
@@ -4863,22 +4872,37 @@ Le même avis est en outre inséré en caractères apparents dans un des journau
 	**Cité par**:
 
 	  - Décret n°81-542 du 13 mai 1981 - art. 27 (Ab)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R12-1 (M)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-24 (VT)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-25 (VT)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-27 (VT)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-30 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R12-1 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-630 1983-07-12
+	  - SPEC_APPLI: Décret n°94-874 1994-10-10 art. 6
 
 	**Modifié par**:
 
-	  - Décret n°85-453 du 23 avril 1985 - art. 25 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-	  - Décret n°85-453 du 23 avril 1985 - art. 26 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
+	  - Décret n°94-873 du 10 octobre 1994 - art. 5 () JORF 12 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-5 (M)
-	  - Code de l'expropriation pour cause d'utilité publique R11-1 à R11-31
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-6 (VT)
+	  - Code de l'expropriation pour cause d'utilité publique - art. R11-4
+	  - Code de l'expropriation pour cause d'utilité publique - art. R11-5
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R131-1 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R131-2 (M)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R131-4 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R131-5 (V)
 
 
 ### CHAPITRE II : Transfert de propriété et droit de rétrocession
