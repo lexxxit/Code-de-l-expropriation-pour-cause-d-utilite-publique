@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1987-06-02
+Version Consolidée au 1987-09-09
 
 # Partie législative
 
@@ -7403,6 +7403,40 @@ justifier de leur qualité.
 	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
 
+###### Article R13-69
+
+Lorsque la consignation est motivée par des inscriptions de privilèges, d'hypothèques ou d'un nantissement, qu'il y ait ou
+non des oppositions, l'expropriant peut, sur la demande de l'exproprié, verser à ce dernier, avant toute consignation, un
+acompte dans la limite maximum des trois quarts de la différence entre le montant de l'indemnité et celui des charges et
+accessoires.
+
+Lorsque la consignation est uniquement motivée par une ou plusieurs oppositions à paiement qui ne peuvent être exécutées, le
+montant de la ou des oppositions évalué dans l'exploit est consigné ; le surplus, s'il en existe un, est versé à l'exproprié.
+
+L'expropriant peut, nonobstant l'existence d'obstacles au paiement représentés exclusivement par des inscriptions de
+privilèges, d'hypothèques ou de nantissement, payer l'indemnité à l'exproprié, sous réserve du droit des tiers, lorsque son
+montant est inférieur à 50 000 francs.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-164 1961-02-13 art. 8 (Décret 62-1352 1962-11-14 art. 7)
+
+	**Codifié par**:
+
+	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+	**Modifié par**:
+
+	  - Décret n°87-738 du 3 septembre 1987 - art. 1 () JORF 9 septembre 1987
+
+	**Cité par**:
+
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R13-65 (VT)
+	  - Code général des collectivités territoriales - art. Rubrique 5 (V)
+
+
 ###### Article R13-70
 
 Lorsque l'indemnité d'expropriation est allouée à une femme mariée, la production du contrat de mariage ainsi que, le cas
@@ -8113,42 +8147,6 @@ conditions en harmonie avec les dispositions du chapitre Ier du présent titre.
 	**Abrogé par**:
 
 	  - Décret n°2005-467 du 13 mai 2005 - art. 56 () JORF 15 mai 2005 en vigueur le 1er août 2005
-
-
-## Règles générales
-
-### Paiement des indemnités
-
-#### Consignation
-
-###### Article R13-69
-
-Lorsque la consignation est motivée par des inscriptions de privilèges, d'hypothèques ou d'un nantissement, qu'il y ait ou
-non des oppositions, l'expropriant peut, sur la demande de l'exproprié, verser à ce dernier, avant toute consignation, un
-acompte dans la limite maximum des trois quarts de la différence entre le montant de l'indemnité et celui des charges et
-accessoires.
-
-Lorsque la consignation est uniquement motivée par une ou plusieurs oppositions à paiement qui ne peuvent être exécutées, le
-montant de la ou des oppositions évalué dans l'exploit est consigné ; le surplus, s'il en existe un, est versé à l'exproprié.
-
-L'expropriant peut, nonobstant l'existence d'obstacles au paiement représentés exclusivement par des inscriptions de
-privilèges, d'hypothèques ou de nantissement, payer l'indemnité à l'exproprié, sous réserve du droit des tiers, lorsque son
-montant est inférieur à cinq mille francs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-164 1961-02-13 ART. 8 (Décret 62-1352 1962-11-14 ART. 7)
-
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
-
-	**Cité par**:
-
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R13-65 (VT)
-	  - Code général des collectivités territoriales - art. Rubrique 5 (V)
 
 
 ## TITRE II : Dispositions propres à certaines catégories d'opérations
