@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1999-03-24
+Version Consolidée au 2000-06-22
 
 # Partie législative
 
@@ -8504,7 +8504,9 @@ Aux articles 6 et 7 du décret n° 79-1026 du 30 novembre 1979 pris pour l'appli
 relative à la création et à la protection des jardins familiaux ;
 
 - au titre Ier du décret n° 95-1115 du 17 octobre 1995 relatif à l'expropriation des biens exposés à certains risques
-naturels majeurs menaçant gravement des vies humaines.
+naturels majeurs menaçant gravement des vies humaines ;
+
+- au titre II du décret n° 2000-547 du 16 juin 2000 relatif à l'application des articles 94 et 95 du code minier.
 
 **Liens relatifs à cet article**
 
@@ -8528,6 +8530,8 @@ naturels majeurs menaçant gravement des vies humaines.
 	  - Décret n°70-836 du 10 septembre 1970 - art. 10 (Ab)
 	  - Décret n°73-879 1973-09-04
 	  - Décret n°95-1115 1995-10-17
+	  - Décret n°2000-547 2000-06-16
+	  - Code minier 94, 95
 	  - Code de l'urbanisme R122-20, R123-8, R123-24, R123-33, R123-36, R311-14, R311-17 à R311-19, R312-1 à R312-11, R312-19 à R312-24, R314-1 à R314-12
 	  - Loi n°1913-12-31
 	  - Loi n°1919-10-18
@@ -8539,6 +8543,10 @@ naturels majeurs menaçant gravement des vies humaines.
 
 	**Modifié par**:
 
-	  - Décret n°95-1115 du 17 octobre 1995 - art. 14 () JORF 19 octobre 1995
+	  - Décret n°2000-547 du 16 juin 2000 - art. 10 () JORF 22 juin 2000
+
+	**Abrogé par**:
+
+	  - Décret n°2005-467 du 13 mai 2005 - art. 56 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
 
