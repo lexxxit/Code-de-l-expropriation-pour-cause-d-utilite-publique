@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2000-09-21
+Version Consolidée au 2000-12-14
 
 # Partie législative
 
@@ -2592,6 +2592,11 @@ projets d'aménagement, des plans d'urbanisme approuvés ou par des plans d'occu
 - d'opérations de résorption de l'habitat insalubre ainsi que d'opérations régies par les articles 25 et 26 de la loi n°
 70-612 du 10 juillet 1970 ;
 
+2° bis Les immeubles en état manifeste d'abandon expropriés en application de l'article L. 2243-4 du code général des
+collectivités territoriales, les immeubles expropriés et situés dans un ensemble immobilier faisant l'objet d'un plan de
+sauvegarde en application de l'article L. 615-1 du code de la construction et de l'habitation, les immeubles expropriés en
+vue de leur restauration en application de l'article L. 313-4-1 du code de l'urbanisme ;
+
 3° Les immeubles expropriés en vue de l'épuration des eaux provenant d'un établissement industriel, commercial, artisanal ou
 agricole et, d'une façon générale, les immeubles expropriés en vue d'éviter la pollution des eaux par des déversements,
 écoulements, jets, dépôts directs ou indirects de matières de cet établissement, lorsque ce résultat ne peut être obtenu que
@@ -2668,12 +2673,15 @@ développement du territoire.
 	  - Loi n°70-612 du 10 juillet 1970 - art. 25 (T)
 	  - Loi n°70-612 du 10 juillet 1970 - art. 26 (T)
 	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - Code général des collectivités territoriales - art. L2243-4 (M)
 	  - Code forestier - art. L321-6 (M)
 	  - Code forestier - art. L424-1 (M)
 	  - Code de l'urbanisme - art. L221-1 (M)
 	  - Code de l'urbanisme - art. L221-2 (M)
 	  - Code de l'urbanisme - art. L311-1 (M)
+	  - Code de l'urbanisme - art. L313-4-1 (M)
 	  - Code de l'urbanisme - art. L325-1 (M)
+	  - Code de la construction et de l'habitation. - art. L615-1 (M)
 
 	**Codifié par**:
 
@@ -2681,7 +2689,7 @@ développement du territoire.
 
 	**Modifié par**:
 
-	  - Loi n°96-987 du 14 novembre 1996 - art. 26 () JORF 15 novembre 1996
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 184 () JORF 14 décembre 2000
 
 
 ###### Article L21-2
