@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2004-02-11
+Version Consolidée au 2004-02-24
 
 # Partie législative
 
@@ -3098,7 +3098,7 @@ Des dispositions particulières concernant l'expropriation figurent notamment :
 
 - aux articles L. 122-1, L. 213-1, L. 221-1, L. 221-2, L. 313-3, L. 313-4, L. 314-1 à L. 314-9 du code de l'urbanisme ;
 
-- aux articles 6, 9-1, 9-2 et 11 de la loi du 31 décembre 1913 sur les monuments historiques ;
+- aux articles L. 621-12, L. 621-13, L. 621-14, L. 621-18 et L. 621-21 du code du patrimoine ;
 
 - à l'article L. 341-14 du code de l'environnement ;
 
@@ -3115,6 +3115,7 @@ Des dispositions particulières concernant l'expropriation figurent notamment :
 	**Cite**:
 
 	  - Loi n°70-612 1970-07-10 art. 13 à 26
+	  - Loi n°76-1022 du 10 novembre 1976 - art. 2 (Ab)
 	  - Code général des collectivités territoriales L2243-1 à L2343-4
 	  - Code de la voirie routière - art. L151-2 (M)
 	  - Code de l'urbanisme - art. L122-1 (M)
@@ -3125,6 +3126,9 @@ Des dispositions particulières concernant l'expropriation figurent notamment :
 	  - Code de l'urbanisme - art. L313-4 (M)
 	  - Code de l'urbanisme L122-1, L213-1, L221-1, L221-2, L313-3, L313-4, L314-1 à L314-9
 	  - Code de l'environnement - art. L341-14 (V)
+	  - Code du patrimoine L621-12 à L621-14, L621-18, L621-21
+	  - Code du patrimoine. - art. L621-18 (M)
+	  - Code du patrimoine. - art. L621-21 (M)
 	  - Code rural L563-1
 	  - Loi n°1913-12-31 art. 6, art. 9-1, art. 9-2, art. 11
 
@@ -3134,7 +3138,7 @@ Des dispositions particulières concernant l'expropriation figurent notamment :
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+	  - Ordonnance 2004-178 2004-02-20 art. 7 3° JORF 24 février 2004
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
