@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-02-09
 
 # Partie législative
 
@@ -3107,7 +3107,7 @@ enquêteur ou de la commission d'enquête sont favorables :
 annexes, d'élargissement et de raccordement à d'autres voies publiques ;
 
 2° Les travaux de création ou d'établissement d'aérodromes de catégorie A, de canaux de navigation d'une longueur supérieure
-à 5 km, accessibles aux bateaux de plus de 1 500 tonnes de port en lourd, de chemins de fer d'intérêt général, de lignes de
+à 5 km, accessibles aux bateaux de plus de 1 500 tonnes de port en lourd, de lignes du réseau ferré général, de lignes de
 transport public par véhicules guidés sur coussins d'air (aérotrains), de canalisations d'intérêt général destinées au
 transport de gaz combustibles ou d'hydrocarbures, de centrales électriques d'une puissance égale ou supérieure à 100
 mégawatts, d'usines utilisant l'énergie des mers ainsi que d'aménagements hydroélectriques d'une puissance maximale brute
@@ -3135,11 +3135,10 @@ dépassant 1 000 litres par seconde.
 
 	**Modifié par**:
 
-	  - Décret n°99-225 du 22 mars 1999 - art. 29 () JORF 24 mars 1999
+	  - Décret n°2002-152 du 7 février 2002 - art. 1 () JORF 9 février 2002
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°99-225 du 22 mars 1999 - art. 30 (V)
 	  - TXT_SOURCE: Décret n°2002-152 du 7 février 2002
 	  - TXT_SOURCE: Décret n°2002-152 du 7 février 2002 - art. 1 ()
 	  - TXT_SOURCE: Décret n°2004-127 du 9 février 2004
