@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1993-01-09
+Version Consolidée au 1993-12-31
 
 # Partie législative
 
@@ -313,17 +313,23 @@ liste ne résulte pas de la déclaration d'utilité publique.
 
 ###### Article L11-9
 
-L'indemnisation des commissaires enquêteurs et des membres des commissions d'enquête est assurée par l'Etat.
+Les commissaires enquêteurs et les membres des commissions d'enquête sont indemnisés dans les conditions prévues à l'article
+8 de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de
+l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°93-24 du 8 janvier 1993 - art. 20 () JORF 9 janvier 1993
+	  - Loi n°83-630 du 12 juillet 1983 - art. 8, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°93-1352 du 30 décembre 1993 - art. 109 () JORF 31 décembre 1993
 
 
 ### CHAPITRE II : Transfert de propriété et droit de rétrocession
