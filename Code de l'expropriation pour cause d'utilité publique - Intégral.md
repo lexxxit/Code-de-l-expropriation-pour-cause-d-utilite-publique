@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1989-08-08
+Version Consolidée au 1992-07-14
 
 # Partie législative
 
@@ -2460,6 +2460,9 @@ immeubles est faite en vue de la réalisation d'opérations pour lesquelles la r
 dispositions des articles L. 221-1 et L. 221-2 du code de l'urbanisme ou de l'article 13 (2ème alinéa) de la loi n. 70-612 du
 10 juillet 1970.
 
+" 7°. - Les immeubles expropriés en vue de l'aménagement et de l'exploitation d'installations d'élimination ou de traitement
+des déchets. "
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -2496,8 +2499,7 @@ dispositions des articles L. 221-1 et L. 221-2 du code de l'urbanisme ou de l'ar
 
 	**Anciens textes**:
 
-	  - Ordonnance 58-997 1958-10-23 ART. 41
-	  - Loi n°75-1328 1975-12-31 ART. 41
+	  - Ordonnance 58-997 1958-10-23 ART. 41 (LOI 75-1328 1975-12-31 ART. 41)
 
 	**Cite**:
 
@@ -2516,7 +2518,7 @@ dispositions des articles L. 221-1 et L. 221-2 du code de l'urbanisme ou de l'ar
 
 	**Modifié par**:
 
-	  - Loi n°85-1273 du 4 décembre 1985 - art. 71 () JORF 5 décembre 1985
+	  - Loi n°92-646 du 13 juillet 1992 - art. 5 () JORF 14 juillet 1992
 
 
 ###### Article L21-2
