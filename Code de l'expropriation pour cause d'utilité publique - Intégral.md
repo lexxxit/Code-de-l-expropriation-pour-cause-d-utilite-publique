@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1995-02-02
+Version Consolidée au 1995-02-03
 
 # Partie législative
 
@@ -503,20 +503,23 @@ excès de pouvoir ou vice de forme. Le pourvoi doit être formé dans les quinze
 l'ordonnance par déclaration au greffe du tribunal ou de la cour de cassation. Il est notifié dans la huitaine à la partie
 adverse, le tout à peine de déchéance.
 
+En cas d'annulation par une décision définitive du juge administratif de la déclaration d'utilité publique ou de l'arrêté de
+cessibilité, tout exproprié peut faire constater par le juge de l'expropriation que l'ordonnance portant transfert de
+propriété est dépourvue de base légale.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 58-997 1958-10-23 ART. 30
+	  - Ordonnance 58-997 1958-10-23 art. 30
 
 	**Codifié par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
 
 	**Modifié par**:
 
-	  - Loi n°85-729 1985-07-18 art. 3, I, 3° jorf 19 juillet 1985
-	  - Loi n°85-729 du 18 juillet 1985 - art. 3 ()
+	  - Loi n°95-101 du 2 février 1995 - art. 4 () JORF 3 février 1995
 
 	**Cité par**:
 
@@ -2784,12 +2787,11 @@ publicité est renouvelée dans les conditions et délais fixés par décret.
 	  - Code de l'expropriation pour cause d'utilité pu... - art. L431-5 (VD)
 
 
-### CHAPITRE III : Atteinte portée aux exploitations agricoles par des ouvrages publics.
+### CHAPITRE III : Atteintes portées aux exploitations agricoles et à l'environnement ou au patrimoine culturel par des ouvrages publics.
 
 ###### Article L23-1
 
-Ainsi qu'il est dit à l'article 10 de la loi n° 62-933 du 8 août 1962, complémentaire à la loi d'orientation agricole
-modifiée par les articles 22 I et 22 II de la loi n° 67-1253 du 30 décembre 1967 :
+Ainsi qu'il est dit aux articles L. 123-24 à L. 123-26 et L. 352-1 du code rural ;
 
 "Lorsque les expropriations en vue de la réalisation de grands ouvrages publics sont susceptibles de compromettre la
 structure des exploitations dans une zone déterminée, l'obligation sera faite au maître de l'ouvrage, dans l'acte déclaratif
@@ -2837,9 +2839,28 @@ prévues au troisième alinéa du présent article n'ont pas permis de maintenir
 
 	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
 
+	**Modifié par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 2005
+	  - Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993
+	  - Loi n°95-101 du 2 février 1995 - art. 4 () JORF 3 février 1995
+
+
+###### Article L23-2
+
+Dans les cas où les atteintes à l'environnement ou au patrimoine culturel que risque de provoquer un projet d'aménagement ou
+d'ouvrage le justifient, la déclaration d'utilité publique peut comporter des prescriptions particulières destinées notamment
+à réduire ou à compenser les conséquences dommageables de ces aménagements ou ouvrages pour l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+
 	**Créé par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977 rectificatif JORF 29 juin 1977
+	  - Loi n°95-101 du 2 février 1995 - art. 4 () JORF 3 février 1995
 
 
 ### CHAPITRE IV : Dispositions particulières.
