@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1985-07-10
+Version Consolidée au 1985-07-19
 
 # Partie législative
 
@@ -347,47 +347,70 @@ chapitre III et de l'article L. 15-2.
 ###### Article L12-2
 
 L'ordonnance d'expropriation éteint, par elle-même et à sa date, tous droits réels ou personnels existant sur les immeubles
-expropriés [*effets*].
+expropriés. 
 
 Il en est de même des cessions amiables consenties après déclaration d'utilité publique et, lorsqu'il en est donné acte par
 ordonnance du juge de l'expropriation désigné comme il est dit à l'article L. 13-1, des cessions amiables antérieures à la
-déclaration d'utilité publique.
+déclaration d'utilité publique. 
+
+Les inscriptions de privilèges ou d'hypothèques éteints par application des dispositions mentionnées ci-dessus sont périmées
+à l'expiration d'un délai de six mois à compter du jour de la publication de l'ordonnance d'expropriation devenue
+irrévocable, de l'acte de cession amiable passé après déclaration d'utilité publique ou de l'ordonnance de donné acte d'une
+vente antérieure à la déclaration d'utilité publique. Cette péremption ne pourra être constatée à la publicité foncière que
+sur justification, par tout intéressé, du caractère irrévocable ou définitif des procédures susvisées emportant extinction
+des droits réels ou personnels existant sur les immeubles expropriés. 
+
+Les dispositions du présent article sont applicables aux acquisitions réalisées dans les conditions prévues aux articles L.
+123-9 et L. 213-5 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 58-997 1958-10-23 ART. 7 (LOI 62-846 1962-07-26 ART. 20)
+	  - Ordonnance 58-997 1958-10-23 art. 7 (Loi 62-846 1962-07-26 art. 20)
 
 	**Cité par**:
 
-	  - Loi n°70-612 du 10 juillet 1970 - art. 17 (M)
+	  - Loi n°70-612 du 10 juillet 1970 - art. 17 (VT)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. L12-3 (VT)
 	  - Code de la construction et de l'habitation. - art. L615-8 (V)
 	  - Code général des collectivités territoriales - art. L2243-4 (V)
 
 	**Codifié par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+	  - Décret n°77-392 du 28 mars 1977
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 3 () JORF 19 juillet 1985
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-1 (V)
+	  - Code de l'urbanisme - art. L123-9
+	  - Code de l'urbanisme - art. L213-5
+	  - Code de l'expropriation pour cause d'utilité publique - art. L13-1
 
 
 ###### Article L12-3
 
 Les droits des créanciers régulièrement inscrits sur les immeubles expropriés, soit avant la publication au bureau des
-hypothèques de l'ordonnance de donné acte ou de l'acte de cession consentie après la déclaration d'utilité publique, soit
-postérieurement à ladite publication en ce qui concerne les privilèges conservés suivant les prescriptions des articles 2108
-et 2109 du code civil, sont reportés sur l'indemnité compte tenu du rang de préférence qui leur est reconnu par les textes
-qui les régissent.
+hypothèques de l'ordonnance d'expropriation, de l'ordonnance de donné acte ou de l'acte de cession consentie après la
+déclaration d'utilité publique, soit postérieurement à ladite publication en ce qui concerne les privilèges conservés suivant
+les prescriptions des articles 2108 et 2109 du code civil, sont reportés sur l'indemnité compte tenu du rang de préférence
+qui leur est reconnu par les textes qui les régissent.
+
+Le renouvellement de droit commun des inscriptions de privilèges ou d'hypothèques est obligatoire jusqu'à la date de
+péremption prévue au troisième alinéa de l'article L. 12-2.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 58-997 1958-10-23 ART. 8
+	  - Ordonnance 58-997 1958-10-23 art. 8
 
 	**Cité par**:
 
@@ -398,12 +421,17 @@ qui les régissent.
 
 	**Codifié par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 3 () JORF 19 juillet 1985
 
 	**Cite**:
 
 	  - Code civil - art. 2108 (T)
 	  - Code civil - art. 2109 (T)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L12-2 (M)
 
 
 ###### Article L12-4
@@ -451,8 +479,8 @@ départementaux, y compris aux opérations préparatoires à ce scrutin (date in
 
 L'ordonnance d'expropriation ne peut être attaquée que par la voie du recours en cassation et seulement pour incompétence,
 excès de pouvoir ou vice de forme. Le pourvoi doit être formé dans les quinze jours [*délai*] à dater de la notification de
-l'ordonnance par déclaration au greffe du tribunal. Il est notifié dans la huitaine à la partie adverse, le tout à peine de
-déchéance.
+l'ordonnance par déclaration au greffe du tribunal ou de la cour de cassation. Il est notifié dans la huitaine à la partie
+adverse, le tout à peine de déchéance.
 
 **Liens relatifs à cet article**
 
@@ -463,6 +491,11 @@ déchéance.
 	**Codifié par**:
 
 	  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+
+	**Modifié par**:
+
+	  - Loi n°85-729 1985-07-18 art. 3, I, 3° jorf 19 juillet 1985
+	  - Loi n°85-729 du 18 juillet 1985 - art. 3 ()
 
 	**Cité par**:
 
@@ -1058,30 +1091,43 @@ modifications apportées aux biens par l'Etat.
 
 ###### Article L13-15
 
-I - Les biens sont estimés [*calcul*] à la date de la décision de première instance ; toutefois, et sous réserve de
-l'application des dispositions du II du présent article, sera seul pris en considération l'usage effectif des immeubles et
-droits réels immobiliers un an avant l'ouverture de l'enquête prévue à l'article L. 11-1 ou, dans le cas visé à l'article L.
-11-3, un an avant la déclaration d'utilité publique.
+I - Les biens sont estimés à la date de la décision de première instance ; toutefois, et sous réserve de l'application des
+dispositions du II du présent article, sera seul pris en considération l'usage effectif des immeubles et droits réels
+immobiliers un an avant l'ouverture de l'enquête prévue à l'article L. 11-1 ou, dans le cas visé à l'article L. 11-3, un an
+avant la déclaration d'utilité publique. Il est tenu compte des servitudes et des restrictions administratives affectant de
+façon permanente l'utilisation ou l'exploitation des biens à la mêmee date, sauf si leur institution révèle, de la part de
+l'expropriant, une intention dolosive.
 
 Quelle que soit la nature des biens, il ne pourra être tenu compte, même lorsqu'ils sont constatés par des actes de vente,
 des changements de valeur subis depuis cette date de référence, s'ils ont été provoqués :
 
-- par l'annonce des travaux, ou opérations dont la déclaration d'utilité publique est demandée ;
+par l'annonce des travaux ou opérations dont la déclaration d'utilité publique est demandée ;
 
-- par la perspective de modifications aux règles d'utilisation des sols ;
+par la perspective de modifications aux règles d'utilisation des sols ;
 
-- par la réalisation dans les trois années précédant l'enquête publique, de travaux publics dans l'agglomération où est situé
+par la réalisation dans les trois années précédant l'enquête publique, de travaux publics dans l'agglomération où est situé
 l'immeuble.
 
-II - 1. La qualification de terrains à bâtir [*définition*], au sens du présent code est réservée aux terrains qui, un an
-avant l'ouverture de l'enquête prévue à l'article L. 11-1 ou, dans le cas visé à l'article L. 11-3, un an avant la
-déclaration d'utilité publique sont, quelle que soit leur utilisation, effectivement desservis à la fois par une voie
-d'accès, par un réseau électrique, par un réseau d'eau et, dans la mesure où les règles relatives à l'urbanisme et à la santé
-publique l'exigent pour construire sur ces terrains, par un réseau d'assainissement, à condition que ces divers réseaux
-soient situés à proximité immédiate des terrains en cause et soient de dimensions adaptées à la capacité de construction de
-ces terrains ;
+II - 1° La qualification de terrains à bâtir, au sens du présent code, est réservée aux terrains qui, un an avant l'ouverture
+de l'enquête prévue à l'article L. 11-1 ou, dans le cas visé à l'article L. 11-3, un an avant la déclaration d'utilité
+publique sont, quelle que soit leur utilisation, tout à la fois:
 
-2. Les possibilités de construction à retenir pour l'évaluation des terrains à bâtir ainsi qualifiés conformément au 1. ci-
+a) Effectivement desservis par une voie d'accès, un réseau électrique, un réseau d'eau potable et, dans la mesure où les
+règles relatives à l'urbanisme et à la santé publique l'exigent pour construire sur ces terrains, un réseau d'assainissement,
+à condition que ces divers réseaux soient situés à proximité immédiate des terrains en cause et soient de dimensions adaptées
+à la capacité de construction de ces terrains. Lorsqu'il s'agit de terrains situés dans une zone désignée par un plan
+d'occupation des sols rendu public ou approuvé comme devant faire l'objet d'une opération d'aménagement d'ensemble, la
+dimension de ces réseaux est appréciée au regard de l'ensemble de la zone;
+
+b) situés dans un secteur désigné comme constructible par un plan d'occupation des sols rendu public ou approuvé  ou par un
+document d'urbanisme en tenant lieu, ou bien en l'absence d'un tel document, situés soit dans une partie actuellement
+urbanisée d' une commune, siot dans une partie de commune désignée conjointement comme constructible  par le conseil
+municipal et le représentant de l'état dans le département en application de l'article L. 111-1-3 du code de l'urbanisme .
+
+Les terrains qui, à l'une des dates indiquées ci-dessus , ne répondent pas à ces conditions sont évalués en fonction de leur
+seul usage effectif, conformément au paragraphe I du présent article.
+
+2° Les possibilités de construction à retenir pour l'évaluation des terrains à bâtir ainsi qualifiés conformément au 1. ci-
 dessus ne peuvent excéder celles qui résultent du plafond légal de densité.
 
 L'évaluation des terrains à bâtir tient compte des possibilités légales et effectives de construction qui existaient à l'une
@@ -1089,9 +1135,16 @@ ou l'autre des dates de référence prévues au 1. ci-dessus, de la capacité de
 l'utilisation des sols et notamment des servitudes d'utilité publique, y compris les restrictions administratives au droit de
 construire, sauf si leur institution révèle, de la part de l'expropriant, une intention dolosive ;
 
-3. Lorsqu'il s'agit de l'expropriation d'une installation sportive visée par la loi n. 2156 du 26 mai 1941, relative au
+3° Lorsqu'il s'agit de l'expropriation d'une installation sportive visée par la loi n° 2156 du 26 mai 1941, relative au
 recensement, à la protection et à l'utilisation des locaux et terrains de sport, des bassins de natation et des piscines
-ainsi qu'il est dit à l'article 4 de ladite loi modifié par l'article
+ainsi qu'il est dit à l'article 4 de ladite loi modifié par l'article 19 de la loi n° 75-988 du 29 octobre 1975 relative au
+développement de l'éducation physique et du sport, "l'indemnité d'expropriation doit être fixée en tenant compte
+exclusivement de la destination sportive de l'immeuble et des installations qu'il comporte".
+
+4° Lorsqu'il s'agit de l'expropriation d'un terrain  réservé par un plan d'occupation des sols au sens du 8° de l'article L.
+123-1 du code de l'urbanisme, le terrain est considéré, pour son évaluation, comme ayant cessé d'être compris dans un
+emplacement réservé; la date de référence prévue ci-dessus est alors celle de la publication du plan d'occupation des sols,
+de la modification ou de la révision dudit plan instituant l'emplacement réservé.
 
 **Liens relatifs à cet article**
 
@@ -1134,20 +1187,14 @@ ainsi qu'il est dit à l'article 4 de ladite loi modifié par l'article
 
 	  - Ordonnance 58-997 1958-10-23 ART. 21 II (LOI 75-1328 1975-12-31 ART. 38)
 
-	**Cite**:
-
-	  - Loi n°75-988 1975-10-29 ART. 19 ML1
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-1 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-3 (V)
-	  - Loi n°41-2156 1941-05-26 ART. 4 (citation)
-
 	**Codifié par**:
 
 	  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977 rectificatif JORF 29 JUIN 1977
+	  - Loi n°85-729 du 18 juillet 1985 - art. 3 ()
+	  - Loi n°85-729 du 18 juillet 1985 - art. 4 ()
 
 
 ###### Article L13-16
@@ -1194,29 +1241,43 @@ lois fiscales ou des déclarations faites par les contribuables avant l'ouvertur
 
 ###### Article L13-17
 
-Le montant de l'indemnité principale [*calcul*] ne peut excéder l'estimation faite par le service des domaines ou celle
-résultant de l'avis émis par la commission des opérations immobilières, si une mutation [*récente*] à titre gratuit ou
-onéreux, antérieure de moins de cinq ans à la date de la décision portant transfert de propriété, a donné lieu à une
-déclaration ou à une évaluation administrative, rendue définitive en vertu des lois fiscales, d'un montant inférieur à ladite
-estimation.
+Le montant de l'indemnité principale ne peut excéder l'estimation faite par le service des domaines ou celle résultant de
+l'avis émis par la commission des opérations immobilières, si une mutation à titre gratuit ou onéreux, antérieure de moins de
+cinq ans à la date de la décision portant transfert de propriété, a donné lieu à une évaluation administrative rendue
+définitive en vertu des lois fiscales ou à une déclaration d'un montant inférieur à ladite estimation.
 
 Lorsque les biens ont, depuis cette mutation, subi des modifications justifiées dans leur consistance matérielle ou
-juridique, leur état ou leur situation d'occupation, l'estimation qui en est faite conformément à l'alinéa précèdent doit en
+juridique, leur état ou leur situation d'occupation, l'estimation qui en est faite conformément à l'alinéa précédent doit en
 tenir compte.
 
-Un règlement d'administration publique précise, les conditions d'application du présent article, notamment lorsque
-l'expropriation porte, soit sur une partie seulement des biens ayant fait l'objet de la mutation définie au premier alinéa,
-soit sur des biens dont une partie seulement a fait l'objet de la mutation susvisée.
+Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment lorsque l'expropriation porte
+soit sur une partie seulement des biens ayant fait l'objet de la mutation définie au premier alinéa, soit sur des biens dont
+une partie seulement a fait l'objet de la mutation définie au premier alinéa, soit sur des biens dont une partie seulement a
+fait l'objet de la mutation susvisée.
+
+**Nota:**
+
+Dans sa décision n° 2012-236 QPC du 20 avril 2012 (NOR : CSCX1221371S), le Conseil constitutionnel a déclaré, sous la réserve
+énoncée au considérant 7, l'article L. 13-17 du code de l'expropriation pour cause d'utilité publique conforme à la
+Constitution.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 58-997 1958-10-23 ART. 21 IV (LOI 65-659 1965-07-10 ART. 3)
+	  - Ordonnance 58-997 1958-10-23 art. 21 IV
 
 	**Codifié par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 3 () JORF 19 juillet 1985
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 	**Cité par**:
 
@@ -1229,6 +1290,10 @@ soit sur des biens dont une partie seulement a fait l'objet de la mutation susvi
 	  - Code rural - art. R*241-60 (Ab)
 	  - Livre des procédures fiscales - art. L123 (V)
 	  - Livre des procédures fiscales - art. L144 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L322-9 (VD)
 
 
 ###### Article L13-18
