@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2004-11-04
+Version Consolidée au 2005-01-01
 
 # Partie législative
 
@@ -676,13 +676,16 @@ départementaux, y compris aux opérations préparatoires à ce scrutin (date in
 ###### Article L12-5
 
 L'ordonnance d'expropriation ne peut être attaquée que par la voie du recours en cassation et seulement pour incompétence,
-excès de pouvoir ou vice de forme. Le pourvoi doit être formé dans les quinze jours [*délai*] à dater de la notification de
-l'ordonnance par déclaration au greffe du tribunal ou de la cour de cassation. Il est notifié dans la huitaine à la partie
-adverse, le tout à peine de déchéance.
+excès de pouvoir ou vice de forme.
 
 En cas d'annulation par une décision définitive du juge administratif de la déclaration d'utilité publique ou de l'arrêté de
 cessibilité, tout exproprié peut faire constater par le juge de l'expropriation que l'ordonnance portant transfert de
 propriété est dépourvue de base légale.
+
+**Nota:**
+
+Décret 2004-1420 2004-12-23 art. 4 : Ces dispositions sont applicables aux recours dirigés contre les décisions rendues à
+compter du 1er janvier 2005.
 
 **Liens relatifs à cet article**
 
@@ -696,7 +699,11 @@ propriété est dépourvue de base légale.
 
 	**Modifié par**:
 
-	  - Loi n°95-101 du 2 février 1995 - art. 4 () JORF 3 février 1995
+	  - Décret n°2004-1420 du 23 décembre 2004 - art. 2 () JORF 29 décembre 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 	**Cité par**:
 
@@ -704,6 +711,10 @@ propriété est dépourvue de base légale.
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R12-5-1 (VT)
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L15-5 (M)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. R12-5-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L223-1 (VD)
 
 
 #### Section 2 : Droit de rétrocession.
@@ -1813,14 +1824,15 @@ La chambre doit rendre sa décision par un arrêt motivé. L'arrêt doit tenir c
 
 L'arrêt est notifié par extrait à la requête de la partie la plus diligente.
 
-Il pourra être déféré à la Cour de cassation. Les pouvoirs seront formés, instruits et jugés suivant la procédure prévue à la
-section II du titre II de la loi n° 47-1366 du 23 juillet 1947.
+Il pourra être déféré à la Cour de cassation.
+
+**Nota:**
+
+NOTA : Décret 2004-836 2004-08-20 art. 59 : Le présent décret entrera en vigueur le 1er janvier 2005. Il sera applicable aux
+procédures en cours. Toutefois, les articles 20 à 43 seront applicables uniquement aux recours dirigés à l'encontre des
+décisions rendues à compter du 1er janvier 2005.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°47-1366 1947-07-23
 
 	**Anciens textes**:
 
@@ -1829,6 +1841,14 @@ section II du titre II de la loi n° 47-1366 du 23 juillet 1947.
 	**Codifié par**:
 
 	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+
+	**Modifié par**:
+
+	  - Décret n°2004-836 du 20 août 2004 - art. 36 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Loi n°47-1366 1947-07-23
 
 
 #### Section 6 : Paiement et consignation.
@@ -5360,13 +5380,8 @@ observées.
 L'ordonnance ne peut être exécutée à l'encontre de chacun des intéressés que si elle lui a été préalablement notifiée par
 l'expropriant.
 
-La notification de l'ordonnance doit reproduire les termes de l'article L. 12-5 et faire connaître au destinataire que,
-indépendamment de la dénonciation du pourvoi à la partie adverse qui lui incombe, il doit, dans les quatre mois [*délai*]
-suivant le dépôt du pourvoi, si celui-ci n'est pas motivé, faire parvenir au secrétariat-greffe de la Cour de cassation un
-mémoire ampliatif, à peine d'irrecevabilité de son recours.
-
-Les dispositions de l'article 24 du décret n° 67-1210 du 22 décembre 1967 relatif aux formes de procéder devant la Cour de
-cassation ne sont pas applicables en cas de pourvoi formé contre une ordonnance d'expropriation.
+La notification de l'ordonnance doit reproduire les termes de l'article L. 12-5 du présent code et des articles 612 et 973 du
+nouveau code de procédure civile.
 
 Les frais et dépens afférents à l'ordonnance d'expropriation et au pourvoi en cassation contre celle-ci sont déterminés dans
 les conditions prévues aux articles R. 13-54 et R. 13-55.
@@ -5375,27 +5390,27 @@ les conditions prévues aux articles R. 13-54 et R. 13-55.
 
 	**Anciens textes**:
 
-	  - Décret n°59-1335 1959-11-20 art. 61-1 (Décret 72-788 1972-08-28 art. 185 II)
-
-	**Cite**:
-
-	  - Décret n°67-1210 1967-12-22 art. 24
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L12-5 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-54 (Ab)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-55 (V)
+	  - Décret n°59-1335 1959-11-20 art. 19
 
 	**Codifié par**:
 
 	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
-
 	**Cité par**:
 
 	  - Décret n°94-409 du 18 mai 1994 - art. 4 (VT)
 	  - Décret n°95-323 du 22 mars 1995 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-836 du 20 août 2004 - art. 37 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L12-5 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-54 (Ab)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-55 (V)
+	  - Nouveau code de procédure civile 612, 973
 
 
 #### Section 2 : Droit de rétrocession.
@@ -7094,12 +7109,11 @@ d'appel.
 ###### Article R13-47
 
 L'appel est interjeté par les parties ou par le commissaire du Gouvernement dans le délai de quinze jours à compter de la
-notification du jugement, par acte extrajudiciaire ou par lettre recommandée avec demande d'avis de réception [*conditions de
-forme*] adressé au secrétariat de la juridiction qui a rendu la décision.
+notification du jugement, par acte extrajudiciaire ou par déclaration faite ou adressée par pli recommandé, au greffe de la
+cour.
 
-Il peut l'être également par déclaration faite audit secrétariat et dont il est dressé procès-verbal.
-
-L'acte d'appel formé par l'exproprié doit comporter élection de domicile dans le ressort de la cour d'appel.
+L'acte d'appel formé par l'exproprié doit comporter élection de domicile dans le ressort de la cour d'appel. Il est
+accompagné d'une copie de la décision.
 
 **Liens relatifs à cet article**
 
@@ -7111,6 +7125,10 @@ L'acte d'appel formé par l'exproprié doit comporter élection de domicile dans
 
 	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
+	**Modifié par**:
+
+	  - Décret n°2004-836 du 20 août 2004 - art. 30 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+
 	**Cité par**:
 
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-12 (Ab)
@@ -7120,23 +7138,22 @@ L'acte d'appel formé par l'exproprié doit comporter élection de domicile dans
 ###### Article R13-48
 
 Dès qu'il en est saisi, le secrétaire notifie l'appel à chaque intimé et au commissaire du Gouvernement, par lettre
-recommandée avec demande d'avis de réception *conditions de forme*. Si l'appel est interjeté par le commissaire du
-Gouvernement, la notification en est faite aux parties. Dans tous les cas, le secrétaire de la chambre d'appel est
-simultanément informé.
-
-Dans les trois jours, le secrétaire de la juridiction transmet au secrétaire de la chambre les pièces de l'affaire. Il lui
-transmet en outre, sans délai, tous autres actes d'appel, mémoires ou pièces concernant ladite affaire et qui lui
-parviendraient ultérieurement.
+recommandée avec demande d'avis de réception. Si l'appel est interjeté par le commissaire du Gouvernement, la notification en
+est faite aux parties.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°59-1335 1959-11-20 art. 55
+	  - Décret n°59-1335 1959-11-20 art. 55 (Décret 66-776 1966-10-11 art. 1)
 
 	**Codifié par**:
 
 	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+	**Modifié par**:
+
+	  - Décret n°2004-836 du 20 août 2004 - art. 31 () JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article R13-49
