@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1995-02-03
+Version Consolidée au 1995-10-19
 
 # Partie législative
 
@@ -8402,10 +8402,13 @@ et locale ;
 nationales et à ses effets en ce qui concerne les propriétés frappées d'alignement ;
 
 - aux articles 4, 6 et 13 du décret n° 55-1064 du 4 août 1955 portant règlement d'administration publique pour l'application
-de la loi du 29 novembre 1952 sur les travaux mixtes.
+de la loi du 29 novembre 1952 sur les travaux mixtes ;
 
-"Aux articles 6 et 7 du décret n° 79-1026 du 30 novembre 1979 pris pour l'application de la loi n° 76-1022 du 10 novembre
-1976 relative à la création et à la protection des jardins familiaux".
+Aux articles 6 et 7 du décret n° 79-1026 du 30 novembre 1979 pris pour l'application de la loi n° 76-1022 du 10 novembre 1976
+relative à la création et à la protection des jardins familiaux ;
+
+- au titre Ier du décret n° 95-1115 du 17 octobre 1995 relatif à l'expropriation des biens exposés à certains risques
+naturels majeurs menaçant gravement des vies humaines.
 
 **Liens relatifs à cet article**
 
@@ -8415,34 +8418,31 @@ de la loi du 29 novembre 1952 sur les travaux mixtes.
 	  - Décret n°55-1064 du 4 août 1955 - art. 4 (M)
 	  - Décret n°55-1064 du 4 août 1955 - art. 6 (M)
 	  - Décret n°60-619 1960-06-20
-	  - Loi n°62-933 1962-08-08 ART. 10
+	  - Loi n°62-933 1962-08-08 art. 10
 	  - Décret n°62-1245 du 20 octobre 1962 - art. 3 (Ab)
-	  - Décret n°63-393 du 10 avril 1963 - art. 5 (M)
-	  - Décret n°63-393 du 10 avril 1963 - art. 6 (M)
-	  - Décret n°63-393 du 10 avril 1963 - art. 7 (Ab)
-	  - Décret n°63-393 du 10 avril 1963 - art. 8 (M)
+	  - Décret n°63-393 1963-04-10 art. 5 à 8
 	  - Loi n°66-1042 1966-12-30
 	  - Décret n°68-333 1968-04-05
 	  - Décret n°68-386 du 26 avril 1968 - art. 1 (M)
 	  - Décret n°68-386 du 26 avril 1968 - art. 2 (M)
 	  - Loi n°69-7 1969-01-03
 	  - Loi n°70-612 1970-07-10
-	  - Décret n°70-759 du 18 août 1970 - art. 1 (Ab)
-	  - Décret n°70-759 du 18 août 1970 - art. 2 (Ab)
-	  - Décret n°70-759 du 18 août 1970 - art. 3 (Ab)
-	  - Décret n°70-759 du 18 août 1970 - art. 4 (Ab)
+	  - Décret n°70-759 1970-08-18 art. 1 à 4
+	  - Décret n°70-836 1970-09-10 art. 6 à 8, art. 10
 	  - Décret n°70-836 du 10 septembre 1970 - art. 10 (Ab)
-	  - Décret n°70-836 du 10 septembre 1970 - art. 7 (Ab)
-	  - Décret n°70-836 du 10 septembre 1970 - art. 8 (Ab)
 	  - Décret n°73-879 1973-09-04
-	  - Décret n°79-1026 du 30 novembre 1979 - art. 6 (Ab)
-	  - Décret n°79-1026 du 30 novembre 1979 - art. 7 (Ab)
-	  - Code de l'urbanisme R312-1 à R312-11
+	  - Décret n°95-1115 1995-10-17
+	  - Code de l'urbanisme R122-20, R123-8, R123-24, R123-33, R123-36, R311-14, R311-17 à R311-19, R312-1 à R312-11, R312-19 à R312-24, R314-1 à R314-12
+	  - Loi n°1913-12-31
 	  - Loi n°1919-10-18
 	  - Loi n°1952-11-29
 
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
+	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+	**Modifié par**:
+
+	  - Décret n°95-1115 du 17 octobre 1995 - art. 14 () JORF 19 octobre 1995
 
 
