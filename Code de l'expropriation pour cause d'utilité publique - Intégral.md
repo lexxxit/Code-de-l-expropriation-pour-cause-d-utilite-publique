@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2002-02-28
+Version Consolidée au 2002-11-13
 
 # Partie législative
 
@@ -3351,6 +3351,213 @@ La notice explicative comprend, s'il y a lieu, les indications mentionnées à l
 
 ##### Sous-section 1 : Procédure d'enquête préalable de droit commun.
 
+###### Article **R11-4
+
+Le préfet désigne par arrêté un commissaire enquêteur ou une commission d'enquête dont il nomme le président. Les membres de
+la commission d'enquête sont en nombre impair. Lorsque l'enquête est préalable à une déclaration d'utilité publique, le
+commissaire enquêteur ou la commission d'enquête sont désignés dans les conditions fixées à l'article R. 11-14-3.
+
+Le préfet, après consultation du commissaire enquêteur ou du président de la commission d'enquête, précise par arrêté :
+
+1° L'objet de l'enquête, la date à laquelle celle-ci sera ouverte et sa durée qui ne peut être inférieure à quinze jours ;
+
+2° Les heures et le lieu où le public pourra prendre connaissance du dossier et formuler ses observations sur un registre
+ouvert à cet effet. Ce registre, à feuillets non mobiles, est coté et paraphé par le commissaire enquêteur, le président de
+la commission d'enquête ou l'un des membres de celle-ci.
+
+Un avis au public faisant connaitre l'ouverture de l'enquête est, par les soins du préfet, publié en caractères apparents
+huit jours au moins avant le début de l'enquête et rappelé dans les huit premiers jours de celle-ci dans deux journaux
+régionaux ou locaux diffusés dans tout le département ou tous les départements interéssés Pour les opérations d'importance
+nationale, ledit avis est, en outre, publié dans deux journaux à diffusion nationale huit jours avant le début de l'enquête.
+
+Huit jours au moins avant l'ouverture de l'enquête et durant toute la durée de celle-ci, cet avis est publié par voie
+d'affiches et, éventuellement, par tous autres procédés, dans chacune des communes désignées par le préfet ; cette
+désignation porte au minimum sur toutes les communes sur le territoire desquelles l'opération doit avoir lieu.
+L'accomplissement de cette mesure de publicité incombe au maire et est certifié par lui.
+
+Lorsque certaines de ces communes sont situées dans un autre département, le préfet prend l'accord du préfet de ce
+département pour cette désignation. Ce dernier fait assurer la publication de l'avis dans ces communes selon les modalités
+prescrites à l'alinéa précédent.
+
+**Nota:**
+
+Décret 2002-1341 du 5 novembre 2002 art. 8 : Le présent décret ne s'applique qu'aux enquêtes ouvertes par un arrêté pris
+postérieurement au 31 décembre 2002.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-701 1959-06-06 (Décret 76-432 1976-05-14 art. 2)
+
+	**Cité par**:
+
+	  - Décret n°70-492 du 11 juin 1970 - art. 20-3 (Ab)
+	  - Décret n°81-542 du 13 mai 1981 - art. 22 (Ab)
+	  - Décret n°91-400 du 25 avril 1991 - art. 1 (V)
+	  - Décret n°92-1364 du 23 décembre 1992 - art. 1 (M)
+	  - Décret n°95-323 du 22 mars 1995 - art. 1 (V)
+	  - Décret n°97-181 du 28 février 1997 - art. 4 (V)
+	  - Décret n°2000-547 du 16 juin 2000 - art. 8 (V)
+	  - Décret n°2004-309 du 29 mars 2004 - art. 5 (Ab)
+	  - Décret n°2005-992 du 16 août 2005 - art. 2 (Ab)
+	  - Décret n°2005-992 du 16 août 2005 - art. 7 (Ab)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R*11-10 (V)
+	  - CODE DES COMMUNES. - art. R*165-29 (Ab)
+	  - Code de l'aviation civile - art. R242-1 (M)
+	  - Code de l'environnement - art. R214-64-1 (VD)
+	  - Code de l'environnement - art. R214-9 (V)
+	  - Code de l'environnement - art. R561-3 (VD)
+	  - Code de l'environnement - art. R652-16 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-11 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-14 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-7 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-8 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R11-20 (VT)
+	  - Code de l'urbanisme - art. R*160-17 (M)
+	  - Code de l'urbanisme - art. R*215-6 (Ab)
+	  - Code de l'urbanisme - art. R*311-12 (M)
+	  - Code de l'urbanisme - art. R*311-16-1 (M)
+	  - Code de l'urbanisme - art. R*313-23 (V)
+	  - Code de l'urbanisme - art. R*318-10 (M)
+	  - Code de l'urbanisme - art. R*318-6 (V)
+	  - Code de l'urbanisme - art. R*421-52 (Ab)
+	  - Code de la santé publique - art. R1322-18 (V)
+	  - Code du domaine de l'Etat - art. R145-2 (V)
+	  - Code général de la propriété des personnes publ... - art. R2111-15 (VD)
+	  - Code général de la propriété des personnes publ... - art. R2111-17 (VT)
+	  - Code général de la propriété des personnes publ... - art. R2111-8 (VT)
+	  - Code général de la propriété des personnes publ... - art. R2111-9 (VT)
+	  - Code général des collectivités territoriales - art. R1311-6 (V)
+	  - Code général des collectivités territoriales - art. R1311-8 (V)
+	  - Code général des collectivités territoriales - art. R5215-16 (V)
+	  - Code rural - art. R152-30 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-630 1983-07-12
+
+	**Modifié par**:
+
+	  - Décret n°2002-1341 du 5 novembre 2002 - art. 4 () JORF 13 novembre 2002
+
+	**Cite**:
+
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-3 (M)
+
+
+###### Article **R11-5
+
+Le commissaire enquêteur ou les membres de la commission d'enquête sont choisis parmi les personnes figurant sur l'une des
+listes d'aptitude prévues au deuxième alinéa de l'article L. 123-4 du code de l'environnement.
+
+Ne peuvent être désignées pour exercer les fonctions de commissaire enquêteur les personnes appartenant à l'administration de
+la collectivité ou de l'organisme expropriant ou participant à son contrôle ou les personnes intéressées à l'opération soit à
+titre personnel, soit en raison des fonctions qu'elles exercent ou ont exercées depuis moins de cinq ans.
+
+**Nota:**
+
+Décret 2002-1341 du 5 novembre 2002 art. 8 : Le présent décret ne s'applique qu'aux enquêtes ouvertes par un arrêté pris
+postérieurement au 31 décembre 2002.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-701 1959-06-06 art. 3 (Décret 76-432 1976-05-14 ART. 3)
+
+	**Cité par**:
+
+	  - Décret n°60-619 du 20 juin 1960 - art. 9 (V)
+	  - Décret n°85-453 du 23 avril 1985 - art. 9 (M)
+	  - Arrêté du 8 avril 1994 - art. 1 (V)
+	  - Décret n°95-323 du 22 mars 1995 - art. 1 (V)
+	  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (Ab)
+	  - Arrêté du 20 janvier 1981 - art. 4 (Ab)
+	  - Arrêté du 27 février 1986 - art. 4 (Ab)
+	  - Arrêté du 27 février 1986 - art. 4 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-4 (M)
+	  - CODE DES COMMUNES. - art. R*315-7 (Ab)
+	  - Code de l'aviation civile - art. R242-1 (M)
+	  - Code de l'environnement - art. R*222-17 (Ab)
+	  - Code de l'environnement - art. R422-17 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R11-20 (VT)
+	  - Code de l'urbanisme - art. R*313-23 (V)
+	  - Code de l'urbanisme - art. R*318-10 (M)
+	  - Code de l'urbanisme - art. R*318-6 (V)
+	  - Code de la voirie routière - art. R*131-3 (M)
+	  - Code rural - art. R*222-17 (Ab)
+	  - Code rural et de la pêche maritime - art. R151-43 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+	**Modifié par**:
+
+	  - Décret n°2002-1341 du 5 novembre 2002 - art. 5 () JORF 13 novembre 2002
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L123-4 (V)
+
+
+###### Article **R11-6
+
+Sous réserve des dispositions de l'article R. 11-6-1 applicables aux enquêtes préalables à une déclaration d'utilité
+publique, l'indemnisation des commissaires enquêteurs et des membres des commissions d'enquête est assurée dans les
+conditions définies ci-après.
+
+Les commissaires enquêteurs et les membres des commissions d'enquête ont droit à une indemnité, à la charge du maître
+d'ouvrage, qui comprend des vacations et le remboursement des frais qu'ils engagent pour l'accomplissement de leur mission.
+
+Le préfet qui a désigné le commissaire enquêteur ou les membres de la commission d'enquête détermine le nombre des vacations
+allouées au commissaire enquêteur sur la base du nombre d'heures que le commissaire enquêteur déclare avoir consacrées à
+l'enquête, en tenant compte des difficultés de l'enquête ainsi que de la nature et de la qualité du travail fourni par celui-
+ci.
+
+Il arrête, sur justificatifs, le montant des frais qui seront remboursés au commissaire enquêteur.
+
+Il fixe par arrêté le montant de l'indemnité ; cet arrêté est notifié au commissaire enquêteur et au maître d'ouvrage, lequel
+verse sans délai au commissaire enquêteur le montant de l'indemnité indiqué.
+
+Un arrêté conjoint des ministres chargés de l'environnement, de l'équipement, du budget et de l'intérieur fixe les modalités
+de calcul de l'indemnité.
+
+**Nota:**
+
+Décret 2002-1341 du 5 novembre 2002 art. 8 : Le présent décret ne s'applique qu'aux enquêtes ouvertes par un arrêté pris
+postérieurement au 31 décembre 2002.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-701 du 6 juin 1959 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+	**Modifié par**:
+
+	  - Décret n°2002-1341 du 5 novembre 2002 - art. 6 () JORF 13 novembre 2002
+
+	**Cité par**:
+
+	  - Décret n°2006-504 du 3 mai 2006 - art. 8 (V)
+	  - Code de l'aviation civile - art. R242-1 (M)
+	  - Code de l'urbanisme - art. R*318-7 (M)
+
+	**Cite**:
+
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-6-1 (M)
+
+
 ###### Article **R11-7
 
 Sous réserve des dispositions prévues aux articles **R. 11-13 et **R. 11-14, l'enquête s'ouvre soit à la préfecture, soit à
@@ -3643,136 +3850,18 @@ délai d'enquête fixé dans l'arrêté du préfet visé à l'article **R. 11-4.
 	  - Code de l'urbanisme - art. R*318-10 (M)
 
 
-###### Article R11-4
+###### Article R11-6-1
 
-Le préfet désigne par arrêté un commissaire enquêteur ou une commission d'enquête dont il nomme le président. Les membres de
-la commission d'enquête sont en nombre impair.
+Pour les enquêtes préalables à une déclaration d'utilité publique, l'indemnisation des commissaires enquêteurs et des membres
+des commissions d'enquête est assurée dans les conditions prévues aux articles 10 et 10-2 du décret n° 85-453 du 23 avril
+1985.
 
-Le même arrêté précise :
+**Nota:**
 
-1° L'objet de l'enquête, la date à laquelle celle-ci sera ouverte et sa durée qui ne peut être inférieure à quinze jours ;
-
-2° Les heures et le lieu où le public pourra prendre connaissance du dossier et formuler ses observations sur un registre
-ouvert à cet effet. Ce registre, à feuillets non mobiles, est coté et paraphé par le commissaire enquêteur, le président de
-la commission d'enquête ou l'un des membres de celle-ci.
-
-Un avis au public faisant connaitre l'ouverture de l'enquête est, par les soins du préfet, publié en caractères apparents
-huit jours au moins avant le début de l'enquête et rappelé dans les huit premiers jours de celle-ci dans deux journaux
-régionaux ou locaux diffusés dans tout le département ou tous les départements interéssés Pour les opérations d'importance
-nationale, ledit avis est, en outre, publié dans deux journaux à diffusion nationale huit jours avant le début de l'enquête.
-
-Huit jours au moins avant l'ouverture de l'enquête et durant toute la durée de celle-ci, cet avis est publié par voie
-d'affiches et, éventuellement, par tous autres procédés, dans chacune des communes désignées par le préfet ; cette
-désignation porte au minimum sur toutes les communes sur le territoires desquelles l'opération doit avoir lieu.
-L'accomplissement de cette mesure de publicité incombe au maire et est certifié par lui.
-
-Lorsque certaines de ces communes sont situées dans un autre département, le préfet prend l'accord du préfet de ce
-département pour cette désignation. Ce dernier fait assurer la publication dans ces communes selon les modalités prescrites à
-l'alinéa précédent.
+NOTA : Décret 2002-1341 du 5 novembre 2002 art. 8 : Le présent décret ne s'applique qu'aux enquêtes ouvertes par un arrêté
+pris postérieurement au 31 décembre 2002.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-701 1959-06-06 (Décret 76-432 1976-05-14 art. 2)
-
-	**Cité par**:
-
-	  - Décret n°70-492 du 11 juin 1970 - art. 20-3 (Ab)
-	  - Décret n°81-542 du 13 mai 1981 - art. 22 (Ab)
-	  - Décret n°91-400 du 25 avril 1991 - art. 1 (V)
-	  - Décret n°92-1364 du 23 décembre 1992 - art. 1 (M)
-	  - Décret n°95-323 du 22 mars 1995 - art. 1 (V)
-	  - Décret n°97-181 du 28 février 1997 - art. 4 (V)
-	  - Décret n°2000-547 du 16 juin 2000 - art. 8 (V)
-	  - Décret n°2004-309 du 29 mars 2004 - art. 5 (Ab)
-	  - Décret n°2005-992 du 16 août 2005 - art. 2 (Ab)
-	  - Décret n°2005-992 du 16 août 2005 - art. 7 (Ab)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R*11-10 (V)
-	  - CODE DES COMMUNES. - art. R*165-29 (Ab)
-	  - Code de l'aviation civile - art. R242-1 (M)
-	  - Code de l'environnement - art. R214-64-1 (VD)
-	  - Code de l'environnement - art. R214-9 (V)
-	  - Code de l'environnement - art. R561-3 (VD)
-	  - Code de l'environnement - art. R652-16 (VT)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-11 (VT)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-14 (VT)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-7 (VT)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-8 (VT)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R11-20 (VT)
-	  - Code de l'urbanisme - art. R*160-17 (M)
-	  - Code de l'urbanisme - art. R*215-6 (Ab)
-	  - Code de l'urbanisme - art. R*311-12 (M)
-	  - Code de l'urbanisme - art. R*311-16-1 (M)
-	  - Code de l'urbanisme - art. R*313-23 (V)
-	  - Code de l'urbanisme - art. R*318-10 (M)
-	  - Code de l'urbanisme - art. R*318-6 (V)
-	  - Code de l'urbanisme - art. R*421-52 (Ab)
-	  - Code de la santé publique - art. R1322-18 (V)
-	  - Code du domaine de l'Etat - art. R145-2 (V)
-	  - Code général de la propriété des personnes publ... - art. R2111-15 (VD)
-	  - Code général de la propriété des personnes publ... - art. R2111-17 (VT)
-	  - Code général de la propriété des personnes publ... - art. R2111-8 (VT)
-	  - Code général de la propriété des personnes publ... - art. R2111-9 (VT)
-	  - Code général des collectivités territoriales - art. R1311-6 (V)
-	  - Code général des collectivités territoriales - art. R1311-8 (V)
-	  - Code général des collectivités territoriales - art. R5215-16 (V)
-	  - Code rural - art. R152-30 (V)
-
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-630 1983-07-12
-	  - SPEC_APPLI: Décret n°85-453 1985-04-23 art. 43 : application dans le temps
-
-	**Modifié par**:
-
-	  - Décret n°85-453 du 23 avril 1985 - art. 22 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-	  - Décret n°85-453 du 23 avril 1985 - art. 23 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-	  - Décret n°85-453 du 23 avril 1985 - art. 26 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-
-
-###### Article R11-5
-
-Le commissaire enquêteur ou les membres de la commission d'enquête sont choisis par le préfet parmi les personnes figurant
-sur l'une quelconque des listes d'aptitude prévues à l'article 2, troisième alinéa, de la loi n° 83-630 du 12 juillet 1983
-modifiée relative à la démocratisation des enquêtes publiques et à la protection de l'environnement.
-
-Ne peuvent être désignées pour exercer les fonctions de commissaire enquêteur les personnes appartenant à l'administration de
-la collectivité ou de l'organisme expropriant ou participant à son contrôle ou les personnes intéressées à l'opération soit à
-titre personnel, soit en raison des fonctions qu'elles exercent ou ont exercées depuis moins de cinq ans.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-701 1959-06-06 art. 3 (Décret 76-432 1976-05-14 ART. 3)
-
-	**Cité par**:
-
-	  - Décret n°60-619 du 20 juin 1960 - art. 9 (V)
-	  - Décret n°85-453 du 23 avril 1985 - art. 9 (M)
-	  - Arrêté du 8 avril 1994 - art. 1 (V)
-	  - Décret n°95-323 du 22 mars 1995 - art. 1 (V)
-	  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (Ab)
-	  - Arrêté du 20 janvier 1981 - art. 4 (Ab)
-	  - Arrêté du 27 février 1986 - art. 4 (Ab)
-	  - Arrêté du 27 février 1986 - art. 4 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-4 (M)
-	  - CODE DES COMMUNES. - art. R*315-7 (Ab)
-	  - Code de l'aviation civile - art. R242-1 (M)
-	  - Code de l'environnement - art. R*222-17 (Ab)
-	  - Code de l'environnement - art. R422-17 (V)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R11-20 (VT)
-	  - Code de l'urbanisme - art. R*313-23 (V)
-	  - Code de l'urbanisme - art. R*318-10 (M)
-	  - Code de l'urbanisme - art. R*318-6 (V)
-	  - Code de la voirie routière - art. R*131-3 (M)
-	  - Code rural - art. R*222-17 (Ab)
-	  - Code rural et de la pêche maritime - art. R151-43 (VD)
 
 	**Codifié par**:
 
@@ -3780,57 +3869,19 @@ titre personnel, soit en raison des fonctions qu'elles exercent ou ont exercées
 
 	**Cite**:
 
-	  - Loi n°83-630 du 12 juillet 1983 - art. 2, v. init.
+	  - Décret n°85-453 du 23 avril 1985 - art. 10 (M)
+	  - Décret n°85-453 du 23 avril 1985 - art. 10-2 (Ab)
 
-	**Liens**:
+	**Créé par**:
 
-	  - SPEC_APPLI: Décret n°98-622 du 20 juillet 1998 - art. 13 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°98-622 du 20 juillet 1998 - art. 9 () JORF 23 juillet 1998
-
-
-###### Article R11-6
-
-Les commissaires enquêteurs et les membres des commissions d'enquête ont droit à une indemnité, à la charge du maître
-d'ouvrage, qui comprend des vacations et le remboursement des frais qu'ils engagent pour l'accomplissement de leur mission.
-
-Le préfet qui a désigné le commissaire enquêteur ou les membres de la commission d'enquête détermine le nombre des vacations
-allouées au commissaire enquêteur en tenant compte des difficultés de l'enquête, de la charge de travail qu'elle a
-occasionnée pour le commissaire enquêteur, de la nature et de la qualité du travail fourni par celui-ci.
-
-Il arrête, sur justificatifs, le montant des frais qui seront remboursés au commissaire enquêteur.
-
-Il fixe par arrêté le montant de l'indemnité ; cet arrêté est notifié au commissaire enquêteur et au maître d'ouvrage, lequel
-verse sans délai au commissaire enquêteur le montant de l'indemnité indiqué.
-
-Un arrêté conjoint des ministres chargés de l'environnement, de l'équipement, du budget et de l'intérieur fixe les modalités
-de calcul de l'indemnité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-701 du 6 juin 1959 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-	**Modifié par**:
-
-	  - Décret n°94-873 du 10 octobre 1994 - art. 3 () JORF 12 octobre 1994
+	  - Décret n°2002-1341 du 5 novembre 2002 - art. 7 () JORF 13 novembre 2002
 
 	**Cité par**:
 
-	  - Décret n°2006-504 du 3 mai 2006 - art. 8 (V)
-	  - Code de l'aviation civile - art. R242-1 (M)
-	  - Code de l'urbanisme - art. R*318-7 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-874 1994-10-10 art. 6
+	  - Code de l'environnement - art. R123-12 (V)
+	  - Code de l'environnement - art. R123-26 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-6 (VT)
+	  - Code de l'urbanisme - art. R*313-23 (V)
 
 
 ###### Article R11-8
