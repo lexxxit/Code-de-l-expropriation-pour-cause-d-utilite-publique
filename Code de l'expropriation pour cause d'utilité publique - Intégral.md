@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1985-12-05
+Version Consolidée au 1987-03-11
 
 # Partie législative
 
@@ -2839,30 +2839,22 @@ artistique, historique, scientifique, légendaire ou pittoresque ;
 
 ###### Article R11-2
 
-Ne peuvent être déclarés d'utilité publique que par décret en Conseil d'Etat *autorité compétente*, même si les conclusions
-du commissaire ou de la commission chargée de l'enquête sont favorables :
+Ne peuvent être déclarés d'utilité publique que par décret en Conseil d'Etat, même si les conclusions du commissaire
+enquêteur ou de la commission d'enquête sont favorables :
 
-1. Les travaux de création ou d'établissement d'aérodromes de catégorie A, d'autoroutes, //DECR.1450 ART. 1 : de canaux de
-navigation d'une longueur supérieure à 5 km, acessibles aux bateaux de plus de 1500 tonnes de port en lourd,// de chemins de
-fer d'intérêt général, de lignes de transport public par véhicules guidés sur coussins d'air (aérotrains), de canalisations
-d'intérêt général destinées au transport de gaz combustibles ou d'ydrocarbures, de centrales thermiques, d'usines utilisant
-l'énergie des mers, d'aménagements hydroélectriques et d'installations liées à la production ou au développement de l'énergie
-atomique ;
+1° Les travaux de création d'autoroutes, à l'exclusion, sur autoroutes existantes, des travaux de réalisation d'ouvrages
+annexes, d'élargissement et de raccordement à d'autres voies publiques ;
 
-2. Les opérations prévues par l'article 73 du code minier ;
+2° Les travaux de création ou d'établissement d'aérodromes de catégorie A, de canaux de navigation d'une longueur supérieure
+à 5 km, accessibles aux bateaux de plus de 1 500 tonnes de port en lourd, de chemins de fer d'intérêt général, de lignes de
+transport public par véhicules guidés sur coussins d'air (aérotrains), de canalisations d'intérêt général destinées au
+transport de gaz combustibles ou d'hydrocarbures, de centrales thermiques, d'usines utilisant l'énergie des mers,
+d'aménagements hydroélectriques et d'installations liées à la production et au développement de l'énergie atomique ;
 
-3. Les travaux d'adduction des eaux d'un bassin fluvial dans un autre, lorsque cette adduction porte sur un débit maximal
-dépassant 1000 litres par seconde.
+3° Les travaux d'adduction des eaux d'un bassin fluvial dans un autre, lorsque cette adduction porte sur un débit maximal
+dépassant 1 000 litres par seconde.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté 1981-01-20 ART. 2 indemnités commissaire enquêteur
-	  - TXT_SOURCE: Décret n°2002-152 du 7 février 2002
-	  - TXT_SOURCE: Décret n°2002-152 du 7 février 2002 - art. 1 ()
-	  - TXT_SOURCE: Décret n°2004-127 du 9 février 2004
-	  - TXT_SOURCE: Décret n°2004-127 du 9 février 2004 - art. 4 (V)
 
 	**Cité par**:
 
@@ -2875,17 +2867,17 @@ dépassant 1000 litres par seconde.
 	  - Code de l'aviation civile - art. R221-10 (V)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-1 (VT)
 
-	**Anciens textes**:
-
-	  - Décret n°72-195 1972-02-29 ART. 2 (1, 2, 3,)
-
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
+	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
-	**Cite**:
+	**Liens**:
 
-	  - Code minier 73
+	  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°2002-152 du 7 février 2002
+	  - TXT_SOURCE: Décret n°2002-152 du 7 février 2002 - art. 1 ()
+	  - TXT_SOURCE: Décret n°2004-127 du 9 février 2004
+	  - TXT_SOURCE: Décret n°2004-127 du 9 février 2004 - art. 4 (V)
 
 
 ###### Article R11-3
