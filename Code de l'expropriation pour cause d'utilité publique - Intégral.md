@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2002-02-09
+Version Consolidée au 2002-02-28
 
 # Partie législative
 
@@ -9,10 +9,17 @@ Version Consolidée au 2002-02-09
 
 ###### Article L11-1
 
-L'expropriation d'immeubles *définition*, en tout ou partie, ou de droits réels immobiliers, ne peut être prononcée qu'autant
-qu'elle aura été précédée d'une déclaration d'utilité publique intervenue à la suite d'une enquête et qu'il aura été procédé
+L'expropriation d'immeubles, en tout ou partie, ou de droits réels immobiliers, ne peut être prononcée qu'autant qu'elle aura
+été précédée d'une déclaration d'utilité publique intervenue à la suite d'une enquête et qu'il aura été procédé
 contradictoirement à la détermination des parcelles à exproprier, ainsi qu'à la recherche des propriétaires, des titulaires
 de droits réels et des autres intéressés.
+
+L'enquête préalable à la déclaration d'utilité publique est menée par un commissaire enquêteur ou une commission d'enquête
+dont les modalités de désignation et les pouvoirs sont définis par les dispositions du chapitre III du titre II du livre Ier
+du code de l'environnement.
+
+Le commissaire enquêteur ou la commission d'enquête doivent rendre leurs conclusions six mois maximum après l'ouverture de
+l'enquête publique.
 
 **Liens relatifs à cet article**
 
@@ -59,21 +66,97 @@ de droits réels et des autres intéressés.
 
 	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
 
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 139 () JORF 28 février 2002
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'expropriation L11-3
+
+
+###### Article L11-1-1
+
+Lorsqu'un projet public de travaux, d'aménagements ou d'ouvrages constitue une des opérations mentionnées à l'article L.
+123-1 du code de l'environnement et que sa réalisation rend nécessaire l'expropriation d'immeubles ou de droits réels
+immobiliers, la déclaration de projet prévue à l'article L. 126-1 du code de l'environnement intervient, au vu des résultats
+de l'enquête prévue à l'article L. 11-1 du présent code, selon les modalités et dans les conditions suivantes :
+
+1. Si l'expropriation est poursuivie au profit d'une collectivité territoriale ou d'un de ses établissements publics,
+l'autorité compétente de l'Etat demande, au terme de l'enquête publique, à la collectivité ou à l'établissement intéressé de
+se prononcer, dans un délai qui ne peut excéder six mois, sur l'intérêt général du projet dans les conditions prévues à
+l'article L. 126-1 du code de l'environnement. Après transmission de la déclaration de projet ou à l'expiration du délai
+imparti à la collectivité ou à l'établissement intéressé, l'autorité de l'Etat compétente décide de la déclaration d'utilité
+publique.
+
+Lorsque l'opération est déclarée d'utilité publique, la légalité de la déclaration de projet mentionnée à l'alinéa précédent
+ne peut être contestée que par voie d'exception à l'occasion d'un recours dirigé contre la déclaration d'utilité publique.
+Les vices qui affecteraient la légalité externe de cette déclaration sont sans incidence sur la légalité de la déclaration
+d'utilité publique.
+
+2. Si l'expropriation est poursuivie au profit de l'Etat ou de l'un de ses établissements publics, la déclaration d'utilité
+publique tient lieu de déclaration de projet.
+
+3. L'acte déclarant l'utilité publique est accompagné d'un document qui expose les motifs et considérations justifiant le
+caractère d'utilité publique de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 145 () JORF 28 février 2002
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L123-1 (M)
+	  - Code de l'environnement - art. L126-1 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-1 (M)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L122-1 (V)
+	  - Code de l'environnement - art. R126-4 (VT)
+
+
+###### Article L11-1-2
+
+La décision de refus de déclarer l'utilité publique d'un projet ou d'une opération doit être motivée et comporter l'énoncé
+des considérations de droit et de fait la justifiant.
+
+Elle doit intervenir au plus tard un an après la clôture de l'enquête préalable. Ce délai est majoré de six mois lorsque la
+déclaration d'utilité publique ne peut être prononcée que par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 145 () JORF 28 février 2002
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L121-2 (VD)
 
 
 #### Section 1 : Déclaration d'utilité publique.
 
 ###### Article L11-2
 
-L'utilité publique est déclarée par décret en Conseil d'état. Si au vu des avis émis, les conclusions du commissaire ou de la
-commission chargée de l'enquête sont favorables, l'utilité publique pourra cependant être déclarée par arrêté ministériel ou
-par arrêté préfectoral.
+L'utilité publique est déclarée par arrêté ministériel ou par arrêté préfectoral.
 
-Toutefois, un règlement d'administration publique détermine les catégories de travaux ou d'opérations qui, en raison de leur
-nature ou de leur importance, ne pourront être déclarées d'utilité publique que par décret en Conseil d'Etat.
+Toutefois, un décret en Conseil d'Etat détermine les catégories de travaux ou d'opérations qui, en raison de leur nature ou
+de leur importance, ne pourront être déclarées d'utilité publique que par décret en Conseil d'Etat.
 
 Les conclusions du commissaire ou de la commission chargée de l'enquête d'utilité publique doivent être communiquées sur leur
 demande aux personnes physiques ou morales concernées.
@@ -90,7 +173,7 @@ demande aux personnes physiques ou morales concernées.
 
 	**Codifié par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+	  - Décret n°77-392 du 28 mars 1977
 
 	**Cité par**:
 
@@ -98,6 +181,18 @@ demande aux personnes physiques ou morales concernées.
 	  - Décret n°94-894 du 13 octobre 1994 - art. 19-1 (Ab)
 	  - Code minier - art. 71-2 (VT)
 	  - Code minier - art. 73 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 140 () JORF 28 février 2002
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L121-1 (VD)
 
 
 ###### Article L11-3
@@ -322,10 +417,17 @@ alinéa court à compter de cette date.
 ###### Article L11-8
 
 Le préfet détermine par arrêté de cessibilité la liste des parcelles ou des droits réels immobiliers à exproprier si cette
-liste ne résulte pas de la déclaration d'utilité publique.
+liste ne résulte pas de la déclaration d'utilité publique. 
 
 Lorsque la déclaration d'utilité publique prévoit, conformément à l'article L. 11-5-1, le retrait des emprises expropriées de
-la propriété initiale, l'arrêté de cessibilité précise l'emplacement de la ligne divisoire.
+la propriété initiale, l'arrêté de cessibilité précise l'emplacement de la ligne divisoire. 
+
+L'arrêté de cessibilité emporte transfert de gestion des dépendances du domaine public de la personne publique propriétaire
+autre que l'Etat au profit du bénéficiaire de l'acte déclaratif d'utilité publique, pris conformément à l'article L. 11-2. 
+
+En cas de désaccord entre le bénéficiaire de cet acte et la personne propriétaire, le juge de l'expropriation fixe les
+modalités de répartition des charges de gestion entre ces personnes ainsi que la réparation du préjudice éventuellement subi
+par le propriétaire.
 
 **Liens relatifs à cet article**
 
@@ -337,20 +439,25 @@ la propriété initiale, l'arrêté de cessibilité précise l'emplacement de la
 
 	  - Décret n°62-1245 du 20 octobre 1962 - art. 3 (Ab)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. L11-8 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L13-7-1 (VT)
 	  - Code de la voirie routière - art. R*123-4 (VT)
 	  - Code général de la propriété des personnes publ... - art. L2123-5 (VD)
 
 	**Codifié par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+	  - Décret n°77-392 du 28 mars 1977
 
 	**Modifié par**:
 
-	  - Loi n°96-987 du 14 novembre 1996 - art. 34 () JORF 15 novembre 1996
+	  - Loi n°2002-276 du 27 février 2002 - art. 145 () JORF 28 février 2002
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-5-1 (V)
+	  - Code de l'expropriation pour cause d'utilité publique - art. L11-5-1
 
 
 ###### Article L11-9
