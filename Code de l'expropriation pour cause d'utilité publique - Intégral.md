@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1992-07-14
+Version Consolidée au 1993-01-09
 
 # Partie législative
 
@@ -309,6 +309,21 @@ liste ne résulte pas de la déclaration d'utilité publique.
 	**Codifié par**:
 
 	  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+
+
+###### Article L11-9
+
+L'indemnisation des commissaires enquêteurs et des membres des commissions d'enquête est assurée par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+
+	**Créé par**:
+
+	  - Loi n°93-24 du 8 janvier 1993 - art. 20 () JORF 9 janvier 1993
 
 
 ### CHAPITRE II : Transfert de propriété et droit de rétrocession
