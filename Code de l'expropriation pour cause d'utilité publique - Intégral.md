@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1989-06-24
+Version Consolidée au 1989-08-08
 
 # Partie législative
 
@@ -1095,7 +1095,7 @@ I - Les biens sont estimés à la date de la décision de première instance ; t
 dispositions du II du présent article, sera seul pris en considération l'usage effectif des immeubles et droits réels
 immobiliers un an avant l'ouverture de l'enquête prévue à l'article L. 11-1 ou, dans le cas visé à l'article L. 11-3, un an
 avant la déclaration d'utilité publique. Il est tenu compte des servitudes et des restrictions administratives affectant de
-façon permanente l'utilisation ou l'exploitation des biens à la mêmee date, sauf si leur institution révèle, de la part de
+façon permanente l'utilisation ou l'exploitation des biens à la même date, sauf si leur institution révèle, de la part de
 l'expropriant, une intention dolosive.
 
 Quelle que soit la nature des biens, il ne pourra être tenu compte, même lorsqu'ils sont constatés par des actes de vente,
@@ -1110,41 +1110,48 @@ l'immeuble.
 
 II - 1° La qualification de terrains à bâtir, au sens du présent code, est réservée aux terrains qui, un an avant l'ouverture
 de l'enquête prévue à l'article L. 11-1 ou, dans le cas visé à l'article L. 11-3, un an avant la déclaration d'utilité
-publique sont, quelle que soit leur utilisation, tout à la fois:
+publique sont, quelle que soit leur utilisation, tout à la fois :
 
 a) Effectivement desservis par une voie d'accès, un réseau électrique, un réseau d'eau potable et, dans la mesure où les
 règles relatives à l'urbanisme et à la santé publique l'exigent pour construire sur ces terrains, un réseau d'assainissement,
 à condition que ces divers réseaux soient situés à proximité immédiate des terrains en cause et soient de dimensions adaptées
 à la capacité de construction de ces terrains. Lorsqu'il s'agit de terrains situés dans une zone désignée par un plan
 d'occupation des sols rendu public ou approuvé comme devant faire l'objet d'une opération d'aménagement d'ensemble, la
-dimension de ces réseaux est appréciée au regard de l'ensemble de la zone;
+dimension de ces réseaux est appréciée au regard de l'ensemble de la zone ;
 
-b) situés dans un secteur désigné comme constructible par un plan d'occupation des sols rendu public ou approuvé  ou par un
-document d'urbanisme en tenant lieu, ou bien en l'absence d'un tel document, situés soit dans une partie actuellement
-urbanisée d' une commune, siot dans une partie de commune désignée conjointement comme constructible  par le conseil
-municipal et le représentant de l'état dans le département en application de l'article L. 111-1-3 du code de l'urbanisme .
+b) Situés dans un secteur désigné comme constructible par un plan d'occupation des sols rendu public ou approuvé ou par un
+document d'urbanisme en tenant lieu, ou bien, en l'absence d'un tel document, situés soit dans une partie actuellement
+urbanisée d'une commune, soit dans une partie de commune désignée conjointement comme constructible par le conseil municipal
+et le représentant de l'Etat dans le département en application de l'article L. 111-1-3 du code de l'urbanisme.
 
-Les terrains qui, à l'une des dates indiquées ci-dessus , ne répondent pas à ces conditions sont évalués en fonction de leur
+Les terrains qui, à l'une des dates indiquées ci-dessus, ne répondent pas à ces conditions sont évalués en fonction de leur
 seul usage effectif, conformément au paragraphe I du présent article.
 
-2° Les possibilités de construction à retenir pour l'évaluation des terrains à bâtir ainsi qualifiés conformément au 1. ci-
+2° Les possibilités de construction à retenir pour l'évaluation des terrains à bâtir ainsi qualifiés conformément au 1° ci-
 dessus ne peuvent excéder celles qui résultent du plafond légal de densité.
 
 L'évaluation des terrains à bâtir tient compte des possibilités légales et effectives de construction qui existaient à l'une
-ou l'autre des dates de référence prévues au 1. ci-dessus, de la capacité des équipements susvisés, des servitudes affectant
+ou l'autre des dates de référence prévues au 1° ci-dessus, de la capacité des équipements susvisés, des servitudes affectant
 l'utilisation des sols et notamment des servitudes d'utilité publique, y compris les restrictions administratives au droit de
 construire, sauf si leur institution révèle, de la part de l'expropriant, une intention dolosive ;
 
 3° Lorsqu'il s'agit de l'expropriation d'une installation sportive visée par la loi n° 2156 du 26 mai 1941, relative au
-recensement, à la protection et à l'utilisation des locaux et terrains de sport, des bassins de natation et des piscines
+recensement, à la protection et à l'utilisation des locaux et terrains de sports, des bassins de natation et des piscines,
 ainsi qu'il est dit à l'article 4 de ladite loi modifié par l'article 19 de la loi n° 75-988 du 29 octobre 1975 relative au
 développement de l'éducation physique et du sport, "l'indemnité d'expropriation doit être fixée en tenant compte
-exclusivement de la destination sportive de l'immeuble et des installations qu'il comporte".
+exclusivement de la destination sportive de l'immeuble et des installations qu'il comporte."
 
-4° Lorsqu'il s'agit de l'expropriation d'un terrain  réservé par un plan d'occupation des sols au sens du 8° de l'article L.
+4° Lorsqu'il s'agit de l'expropriation d'un terrain réservé par un plan d'occupation des sols au sens du 8° de l'article L.
 123-1 du code de l'urbanisme, le terrain est considéré, pour son évaluation, comme ayant cessé d'être compris dans un
-emplacement réservé; la date de référence prévue ci-dessus est alors celle de la publication du plan d'occupation des sols,
-de la modification ou de la révision dudit plan instituant l'emplacement réservé.
+emplacement réservé ; la date de référence prévue ci-dessus est alors celle à laquelle est devenu opposable aux tiers le plus
+récent des actes rendant public, approuvant, révisant ou modifiant le plan d'occupation des sols et délimitant la zone dans
+laquelle est situé l'emplacement réservé.
+
+**Nota:**
+
+L'article 4 de la loi du 26 mai 1941 (Loi Borotra) reproduit au 3° du présent article a été abrogé par l'article 51 de la loi
+n° 84-610 du 16 juillet 1984.L'article L. 111-1-3 du code de l'urbanisme a été abrogé par l'article 202 XXXIX de l'ordonnance
+n° 2000-1208 du 13 décembre 2000.
 
 **Liens relatifs à cet article**
 
@@ -1185,16 +1192,24 @@ de la modification ou de la révision dudit plan instituant l'emplacement réser
 
 	**Anciens textes**:
 
-	  - Ordonnance 58-997 1958-10-23 ART. 21 II (LOI 75-1328 1975-12-31 ART. 38)
+	  - Ordonnance 58-997 1958-10-23 art. 21 II
+
+	**Cite**:
+
+	  - Loi n°75-988 du 29 octobre 1975 - art. 19, v. init.
+	  - Code de l'urbanisme - art. L111-1-3 (M)
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-1 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-3 (V)
+	  - Loi n°41-2156 1941-05-26 art. 4
 
 	**Codifié par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 3 ()
-	  - Loi n°85-729 du 18 juillet 1985 - art. 4 ()
+	  - Loi n°89-550 du 2 août 1989 - art. 8 () JORF 8 août 1989
 
 
 ###### Article L13-16
@@ -2058,15 +2073,13 @@ propriétés est réglée comme il est dit aux articles 10 et suivants de la mê
 	  - Code de l'expropriation pour cause d'utilité pu... - art. L521-8 (VD)
 
 
-#### Section III : Procédure d'extrême urgence.
-
 ###### Article L15-9
 
 Lorsque l'exécution des travaux de construction d'autoroutes, de routes express, de routes nationales ou de sections
-nouvelles de routes nationales et d'oléoducs régulièrement déclarés d'utilité publique risque d'être retardée par des
-difficultés tenant à la prise de possession d'un ou plusieurs terrains non bâtis, situés dans les emprises de l'ouvrage, un
-décret pris sur avis conforme du Conseil d'Etat pourra, à titre exceptionnel, autoriser la prise de possession de ces
-terrains.
+nouvelles de routes nationales, de voies de chemins de fer et d'oléoducs régulièrement déclarés d'utilité publique risque
+d'être retardée par des difficultés tenant à la prise de possession d'un ou plusieurs terrains non bâtis, situés dans les
+emprises de l'ouvrage, un décret pris sur avis conforme du Conseil d'Etat pourra, à titre exceptionnel, autoriser la prise de
+possession de ces terrains.
 
 Cette prise de possession a lieu dans les conditions fixées à l'article L. 15-7. Le projet motivé qui est soumis au Conseil
 d'Etat par l'administration conformément au premier alinéa de l'article L. 15-7 doit comporter un plan parcellaire fixant les
@@ -2078,13 +2091,13 @@ refus de recevoir, cette condition est remplacée par l'obligation pour l'admini
 
 Faute par l'administration de poursuivre la procédure d'expropriation dans le mois [*délai*] qui suit la prise de possession,
 le juge, saisi par le propriétaire, prononce le transfert de propriété si celui-ci n'a pas encore été ordonné et, en tout
-état de cause, fixe le prix du terrain et, éventuellement, l'indemnité spéciale prévue à l'alinéa 1er de l'article L. 15-8.
+état de cause, fixe le prix du terrain et, éventuellement, l'indemnité spéciale prévue à l'alinéa 1 de l'article L. 15-8.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
 
 	**Cité par**:
 
@@ -2102,7 +2115,7 @@ le juge, saisi par le propriétaire, prononce le transfert de propriété si cel
 
 	**Modifié par**:
 
-	  - Loi n°89-413 du 22 juin 1989 - art. 6 () JORF 24 juin 1989
+	  - Loi n°89-550 du 2 août 1989 - art. 9 () JORF 8 aôut 1989
 
 	**Cite**:
 
@@ -2788,7 +2801,7 @@ prévues au troisième alinéa du présent article n'ont pas permis de maintenir
 
 Des dispositions particulières concernant l'expropriation figurent notamment :
 
-- aux articles L. 122-1, L. 213-1, L. 221-1, L. 221-2, 313-3, L. 313-4, L. 314-1 à L. 314-9 du code de l'urbanisme ;
+- aux articles L. 122-1, L. 213-1, L. 221-1, L. 221-2, L. 313-3, L. 313-4, L. 314-1 à L. 314-9 du code de l'urbanisme ;
 
 - aux articles 6, 9-1, 9-2 et 11 de la loi du 31 décembre 1913 sur les monuments historiques ;
 
@@ -2797,18 +2810,22 @@ artistique, historique, scientifique, légendaire ou pittoresque ;
 
 - à l'article L. 151-2 du code de la voirie routière ;
 
-- aux articles 13 à 26 de la loi n. 70-612 du 10 juillet 1970 tendant à faciliter la suppression de l'habitat insalubre ;
+- aux articles 13 à 26 de la loi n° 70-612 du 10 juillet 1970 tendant à faciliter la suppression de l'habitat insalubre ;
 
-- à l'article 2 de la loi n. 76-1022 du 10 novembre 1976 relative à la création et à la protection des jardins familiaux.
+- à l'article 2 de la loi n° 76-1022 du 10 novembre 1976 relative à la création et à la protection des jardins familiaux ;
+
+- à l'article 7 de la loi n° 89-550 du 2 août 1989 portant dispositions diverses en matière d'urbanisme et d'agglomérations
+nouvelles, relatif aux biens en état d'abandon manifeste.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°1913-12-31 ART. 6, 9-1, 9-2 et 11
-	  - Loi n°1930-05-02 ART. 13
-	  - Loi n°70-612 1970-07-10 ART. 13 à 26
+	  - Loi n°1913-12-31 art. 6, art. 9-1, art. 9-2, art. 11
+	  - Loi n°1930-05-02 art. 13
+	  - Loi n°70-612 1970-07-10 art. 13 à 26
 	  - Loi n°76-1022 du 10 novembre 1976 - art. 2 (Ab)
+	  - Loi n°89-550 du 2 août 1989 - art. 7, v. init.
 	  - Code de la voirie routière - art. L151-2 (M)
 	  - Code de l'urbanisme - art. L122-1 (M)
 	  - Code de l'urbanisme - art. L213-1 (M)
@@ -2816,18 +2833,15 @@ artistique, historique, scientifique, légendaire ou pittoresque ;
 	  - Code de l'urbanisme - art. L221-2 (M)
 	  - Code de l'urbanisme - art. L313-3 (M)
 	  - Code de l'urbanisme - art. L313-4 (M)
-	  - Code de l'urbanisme L314-1 à L314-9
+	  - Code de l'urbanisme L122-1, L213-1, L221-1, L221-2, L313-3, L313-4, L314-1 à L314-9
 
 	**Codifié par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 16 () JORF 19 juillet 1985
-	  - Loi n°85-729 du 18 juillet 1985 - art. 17 () JORF 19 juillet 1985
-	  - Loi n°85-729 du 18 juillet 1985 - art. 7 () JORF 19 juillet 1985
-	  - Loi n°89-413 du 22 juin 1989 - art. 2 (V) JORF 24 juin 1989
+	  - Loi n°89-550 1989-08-02 art. 7 V JORF 8 aôut 1989
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
