@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1995-10-19
+Version Consolidée au 1996-02-24
 
 # Partie législative
 
@@ -2880,20 +2880,15 @@ artistique, historique, scientifique, légendaire ou pittoresque ;
 
 - aux articles 13 à 26 de la loi n° 70-612 du 10 juillet 1970 tendant à faciliter la suppression de l'habitat insalubre ;
 
-- à l'article 2 de la loi n° 76-1022 du 10 novembre 1976 relative à la création et à la protection des jardins familiaux ;
+- à l'article L. 563-1 du code rural ;
 
-- à l'article 7 de la loi n° 89-550 du 2 août 1989 portant dispositions diverses en matière d'urbanisme et d'agglomérations
-nouvelles, relatif aux biens en état d'abandon manifeste.
+- aux articles L. 2243-1 à L. 2343-4 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°1913-12-31 art. 6, art. 9-1, art. 9-2, art. 11
-	  - Loi n°1930-05-02 art. 13
-	  - Loi n°70-612 1970-07-10 art. 13 à 26
-	  - Loi n°76-1022 du 10 novembre 1976 - art. 2 (Ab)
-	  - Loi n°89-550 du 2 août 1989 - art. 7, v. init.
+	  - Code général des collectivités territoriales L2243-1 à L2343-4
 	  - Code de la voirie routière - art. L151-2 (M)
 	  - Code de l'urbanisme - art. L122-1 (M)
 	  - Code de l'urbanisme - art. L213-1 (M)
@@ -2902,6 +2897,10 @@ nouvelles, relatif aux biens en état d'abandon manifeste.
 	  - Code de l'urbanisme - art. L313-3 (M)
 	  - Code de l'urbanisme - art. L313-4 (M)
 	  - Code de l'urbanisme L122-1, L213-1, L221-1, L221-2, L313-3, L313-4, L314-1 à L314-9
+	  - Code rural L563-1
+	  - Loi n°1913-12-31 art. 6, art. 9-1, art. 9-2, art. 11
+	  - Loi n°1930-05-02 art. 13
+	  - Loi n°70-612 1970-07-10 art. 13 à 26
 
 	**Codifié par**:
 
@@ -2909,7 +2908,8 @@ nouvelles, relatif aux biens en état d'abandon manifeste.
 
 	**Modifié par**:
 
-	  - Loi n°89-550 1989-08-02 art. 7 V JORF 8 aôut 1989
+	  - Loi n°91-363 du 15 avril 1991 - art. 2 (V) JORF 17 avril 1991
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
