@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2005-08-01
+Version Consolidée au 2005-08-05
 
 # Partie législative
 
@@ -3330,7 +3330,7 @@ mégawatts et d'installations liées à la production et au développement de l'
 	  - Décret n°2004-127 du 9 février 2004 - art. 2 () JORF 11 février 2004
 
 
-###### Article R11-3
+###### Article **R11-3
 
 L'expropriant adresse au préfet pour être soumis à l'enquête un dossier qui comprend obligatoirement :
 
@@ -3344,10 +3344,10 @@ I.- Lorsque la déclaration d'utilité publique est demandée en vue de la réal
 
 4° Les caractéristiques principales des ouvrages les plus importants ;
 
-5° L'appréciation sommaire des dépenses.
+5° L'appréciation sommaire des dépenses ;
 
-6° L'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977, lorsque les ouvrages ou travaux n'en sont
-pas dispensés ou, s'il y a lieu, la notice exigée en vertu de l'article 4 du même décret.
+6° L'étude d'impact définie à l'article R. 122-3 du code de l'environnement, lorsque les ouvrages ou travaux n'en sont pas
+dispensés ou, s'il y a lieu, la notice exigée en vertu de l'article R. 122-9 du même code ;
 
 7° L'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pris pour l'application de l'article 14 de la
 loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, lorsque les travaux constituent un grand projet
@@ -3366,11 +3366,10 @@ l'acquisition des immeubles avant que le projet n'ait pu être établi :
 4° L'estimation sommaire des acquisitions à réaliser.
 
 Dans les cas prévus aux I et II ci-dessus, la notice explicative indique l'objet de l'opération et les raisons pour
-lesquelles notamment du point de vue de l'insertion dans l'environnement, parmi les partis envisagés, le projet soumis à
+lesquelles, notamment du point de vue de l'insertion dans l'environnement, parmi les partis envisagés, le projet soumis à
 l'enquête a été retenu.
 
-La notice explicative comprend, s'il y a lieu, les indications mentionnées à l'article 8-1 du décret n° 77-1141 du 12 octobre
-1977.
+La notice explicative comprend, s'il y a lieu, les indications mentionnées à l'article R. 122-15 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -3415,16 +3414,13 @@ La notice explicative comprend, s'il y a lieu, les indications mentionnées à l
 
 	**Cite**:
 
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 4 (Ab)
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 8-1 (Ab)
 	  - Loi n°82-1153 1982-12-30 art. 14
 	  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
 	  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 4 () JORF 28 mars 2001
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 
 ##### Sous-section 1 : Procédure d'enquête préalable de droit commun.
@@ -3972,13 +3968,13 @@ délai d'enquête fixé dans l'arrêté du préfet visé à l'article **R. 11-4.
 ###### Article R11-6-1
 
 Pour les enquêtes préalables à une déclaration d'utilité publique, l'indemnisation des commissaires enquêteurs et des membres
-des commissions d'enquête est assurée dans les conditions prévues aux articles 10 et 10-2 du décret n° 85-453 du 23 avril
-1985.
+des commissions d'enquête est assurée dans les conditions prévues aux articles R. 123-10 et R. 123-12 du code de
+l'environnement.
 
 **Nota:**
 
-NOTA : Décret 2002-1341 du 5 novembre 2002 art. 8 : Le présent décret ne s'applique qu'aux enquêtes ouvertes par un arrêté
-pris postérieurement au 31 décembre 2002.
+Décret 2002-1341 du 5 novembre 2002 art. 8 : Le présent décret ne s'applique qu'aux enquêtes ouvertes par un arrêté pris
+postérieurement au 31 décembre 2002.
 
 **Liens relatifs à cet article**
 
@@ -3986,21 +3982,23 @@ pris postérieurement au 31 décembre 2002.
 
 	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
-	**Cite**:
-
-	  - Décret n°85-453 du 23 avril 1985 - art. 10 (M)
-	  - Décret n°85-453 du 23 avril 1985 - art. 10-2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2002-1341 du 5 novembre 2002 - art. 7 () JORF 13 novembre 2002
-
 	**Cité par**:
 
+	  - Décret n°85-453 du 23 avril 1985 - art. 10-2 (Ab)
 	  - Code de l'environnement - art. R123-12 (V)
 	  - Code de l'environnement - art. R123-26 (V)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-6 (VT)
 	  - Code de l'urbanisme - art. R*313-23 (V)
+
+	**Cite**:
+
+	  - Décret n°2002-1341 2002-11-05
+	  - Code de l'environnement - art. R123-10 (V)
+	  - Code de l'expropriation pour cause d'utilite publique 8
+
+	**Modifié par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 JORF 5 août 2005
 
 
 ##### Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement.
@@ -4008,22 +4006,18 @@ pris postérieurement au 31 décembre 2002.
 ###### Article R11-14-1
 
 Les dispositions de la présente sous-section sont applicables aux enquêtes préalables à la déclaration d'utilité publique des
-aménagements, ouvrages ou travaux appartenant aux catégories définies par le décret n° 85-453 du 23 avril 1985.
+aménagements, ouvrages ou travaux appartenant aux catégories définies par les articles R. 123-1 à R. 123-33 du code de
+l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+	  - Décret n°77-393 du 28 mars 1977
 
 	**Liens**:
 
 	  - TXT_SOURCE: Loi n°83-630 1983-07-12
-
-	**Cite**:
-
-	  - Décret n°85-453 1985-04-23
-	  - Code de l'environnement L123-1 à L123-16
 
 	**Cité par**:
 
@@ -4046,7 +4040,15 @@ aménagements, ouvrages ou travaux appartenant aux catégories définies par le 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+	  - Décret n°2005-935 2005-08-02 art. 8 JORF 5 août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
+
+	**Cite**:
+
+	  - Code de l'environnement
 
 
 ###### Article R11-14-2
@@ -4134,21 +4136,32 @@ Ne peuvent être désignées pour exercer les fonctions de commissaire enquêteu
 titre personnel, soit en raison des fonctions qu'elles exercent ou ont exercées depuis moins de cinq ans.
 
 L'indemnisation du commissaire enquêteur ou des membres de la commission d'enquête est assurée dans les conditions prévues
-aux articles 10 et 10-1 du décret n° 85-453 du 23 avril 1985.
+aux articles R. 123-10 et R. 123-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+	  - Décret n°77-393 du 28 mars 1977
 
 	**Liens**:
 
 	  - TXT_SOURCE: Loi n°83-630 1983-07-12
+	  - SPEC_APPLI: Décret n°98-622 du 20 juillet 1998 - art. 13 (Ab)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+	  - Décret n°2005-935 2005-08-02 art. 8 JORF 5 août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
+
+	**Cite**:
+
+	  - Code de l'environnement
+	  - Code de l'environnement - art. R123-10
+	  - Code de l'environnement - art. R123-11
 
 	**Cité par**:
 
