@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2005-08-05
+Version Consolidée au 2006-01-01
 
 # Partie législative
 
@@ -2678,20 +2678,17 @@ l'ordonnance d'expropriation.
 
 ###### Article L16-8
 
-Ainsi qu'il est dit à l'article 1045 I du code général des impôts :
+Ainsi qu'il est dit à l'article 1045 I du code général des impôts : 
 
-"Les plans, procès verbaux, certificats, significations, contrats et autres actes, faits en vertu du titre Ier et du chapitre
-Ier du titre II du code de l'expropriation pour cause d'utilité publique, sont dispensés de la formalité de l'enregistrement
-et du timbre, à l'exception des décisions judiciaires, des contrats de vente, des actes fixant l'indemnité et des quittances
-qui, lorsqu'il y a lieu, sont soumis gratuitement à l'enregistrement ou à la formalité fusionnée visée à l'article 647.
+" Les plans, procès verbaux, certificats, significations, contrats et autres actes, faits en vertu du titre Ier et du
+chapitre Ier du titre II du code de l'expropriation pour cause d'utilité publique, sont dispensés de la formalité de
+l'enregistrement, à l'exception des décisions judiciaires, des contrats de vente, des actes fixant l'indemnité et des
+quittances qui, lorsqu'il y a lieu, sont soumis gratuitement à l'enregistrement ou à la formalité fusionnée visée à l'article
+647. 
 
-Il n'est perçu aucun droit pour l'exécution de la formalité de publicité foncière."
+Il n'est perçu aucun droit pour l'exécution de la formalité de publicité foncière. "
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1045 I, 647
 
 	**Anciens textes**:
 
@@ -2699,7 +2696,23 @@ Il n'est perçu aucun droit pour l'exécution de la formalité de publicité fon
 
 	**Codifié par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+	  - Décret n°77-392 du 28 mars 1977
+
+	**Modifié par**:
+
+	  - Loi n°2004-1485 2004-12-30 art. 95 I D Finances rectificative pour 2004 JORF 31 décembre 2004 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code général des impôts, CGI. - art. 1045
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 647
 
 	**Cité par**:
 
@@ -2708,20 +2721,15 @@ Il n'est perçu aucun droit pour l'exécution de la formalité de publicité fon
 
 ###### Article L16-9
 
-Ainsi qu'il est dit à l'article 1962 du code général des impôts :
+Ainsi qu'il est dit à l'article 1962 du code général des impôts : 
 
-"En matière d'expropriation pour cause d'utilité publique, les droits d'enregistrement ou la taxe de publicité foncière,
-ainsi que les droits de timbre perçus sur les acquisitions amiables faites antérieurement à la déclaration d'utilité publique
-sont restitués lorsque, dans les délais fixés par l'article R. 196-1 du livre des procédures fiscales, il est justifié que
-les immeubles acquis sont visés par cette déclaration d'utilité publique ou par l'arrêté de cessibilité. La restitution des
-droits ne peut s'appliquer qu'à la portion des immeubles qui a été reconnue nécessaire à l'exécution des travaux."
+" En matière d'expropriation pour cause d'utilité publique, les droits d'enregistrement ou la taxe de publicité foncière
+perçus sur les acquisitions amiables faites antérieurement à la déclaration d'utilité publique sont restitués lorsque, dans
+les délais fixés par l'article R. 196-1 du livre des procédures fiscales, il est justifié que les immeubles acquis sont visés
+par cette déclaration d'utilité publique ou par l'arrêté de cessibilité. La restitution des droits ne peut s'appliquer qu'à
+la portion des immeubles qui a été reconnue nécessaire à l'exécution des travaux. "
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1962
-	  - Livre des procédures fiscales R196-1
 
 	**Anciens textes**:
 
@@ -2729,7 +2737,23 @@ droits ne peut s'appliquer qu'à la portion des immeubles qui a été reconnue n
 
 	**Codifié par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+	  - Décret n°77-392 du 28 mars 1977
+
+	**Modifié par**:
+
+	  - Loi n°2004-1485 2004-12-30 art. 95 I D Finances rectificative pour 2004 JORF 31 décembre 2004 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code général des impôts, CGI. - art. 1962
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. R*196-1
 
 
 ## TITRE II : Dispositions propres à certaines catégories d'opérations
@@ -3099,39 +3123,81 @@ publicité est renouvelée dans les conditions et délais fixés par décret.
 
 ###### Article L23-1
 
-Ainsi qu'il est dit aux articles L. 123-24 à L. 123-26 et L. 352-1 du code rural ;
+Ainsi qu'il est dit aux articles L. 123-24 à L. 123-26 et L. 352-1 du code rural : 
 
-"Lorsque les expropriations en vue de la réalisation de grands ouvrages publics sont susceptibles de compromettre la
-structure des exploitations dans une zone déterminée, l'obligation sera faite au maître de l'ouvrage, dans l'acte déclaratif
-d'utilité publique, de remédier aux dommages causés en participant financièrement à l'exécution d'opérations de remembrement
-et de travaux connexes et à l'installation sur des exploitations nouvelles comparables des agriculteurs dont l'exploitation
-aurait disparue ou serait gravement déséquilibrée ou, s'ils l'acceptent, à la reconversion de leur activité.
+" Art.L. 123-24-Lorsque les expropriations en vue de la réalisation des aménagements ou ouvrages mentionnés aux articles L.
+122-1 à L. 122-3 du code de l'environnement sont susceptibles de compromettre la structure des exploitations dans une zone
+déterminée, l'obligation est faite au maître de l'ouvrage, dans l'acte déclaratif d'utilité publique, de remédier aux
+dommages causés en participant financièrement à l'exécution d'opérations d'aménagement foncier mentionnées au 1° de l'article
+L. 121-1 et de travaux connexes. 
 
-"La même obligation sera faite au maître de l'ouvrage dans l'acte déclaratif d'utilité publique en cas de création de zones
-industrielles ou à urbaniser ou de constitutions de réserves foncières.
+" La même obligation est faite au maître de l'ouvrage dans l'acte déclaratif d'utilité publique en cas de création de zones
+industrielles ou à urbaniser ou de constitutions de réserves foncières. 
 
-"Le Gouvernement prendra, par décret en Conseil d'Etat, des dispositions spéciales relatives à l'exécution des opérations de
-remembrement.
+" Lorsque les besoins de cohérence de l'aménagement rural d'un territoire le justifient et lorsque la commission communale ou
+intercommunale d'aménagement foncier lui en a fait la proposition, le conseil général peut décider, avec l'accord du maître
+d'ouvrage, d'étendre le périmètre d'aménagement foncier au-delà du périmètre perturbé par l'ouvrage. Lorsque le maître
+d'ouvrage est l'Etat ou un de ses établissements publics ou concessionnaires, l'accord est donné par le préfet du
+département. 
 
-"Ces dispositions détermineront les conditions suivant lesquelles :
+" Le président du conseil général conduit et met en oeuvre la procédure d'aménagement foncier mentionnée au premier alinéa.
+" 
 
-"- l'assiette des ouvrages ou des zones projetés pourra être prélevée sur l'ensemble des parcelles incluses dans le périmètre
-de remembrement délimité de telle sorte que le prélèvement n'affecte pas les exploitations dans une proportion incompatible
-avec leur rentabilité ;
+" Art.L. 123-25-Des décrets en Conseil d'Etat déterminent les dispositions spéciales relatives à l'exécution des opérations
+d'aménagement foncier réalisées en application de l'article L. 123-24, et notamment les conditions suivant lesquelles : 
 
-"Le Gouvernement déterminera, par décret, les conditions dans lesquelles le maître de l'ouvrage devra apporter une
-contribution financière aux sociétés d'aménagement foncier et d'établissement rural prévues par l'article 15 de la loi n°
-60-808 du 5 août 1960 ou aux sociétés d'aménagement régional prévues par l'article 9 de la loi n° 51-592 du 24 mai 1951,
-lorsque ces sociétés assurent l'établissement sur de nouvelles exploitations des agriculteurs expropriés dans les conditions
-prévues aux premier et deuxième alinéas du présent article, ainsi que des agriculteurs que les opérations de remembrement
-prévues au troisième alinéa du présent article n'ont pas permis de maintenir en place".
+" 1° L'assiette des ouvrages ou des zones projetés peut être prélevée sur l'ensemble des parcelles incluses dans le périmètre
+d'aménagement foncier délimité de telle sorte que le prélèvement n'affecte pas les exploitations dans une proportion
+incompatible avec leur rentabilité ; 
+
+" 2° L'association foncière intéressée et avec l'accord de ceux-ci, éventuellement la société d'aménagement foncier et
+d'établissement rural, les collectivités territoriales et leurs groupements et l'Etat peuvent devenir propriétaires des
+parcelles constituant l'emprise en vue de leur cession au maître d'ouvrage ; 
+
+" 3° Le montant du prix des terrains cédés au maître de l'ouvrage est réparti entre les propriétaires des terrains ayant fait
+l'objet de l'aménagement foncier proportionnellement à la valeur de leurs apports ; 
+
+" 4° Le maître de l'ouvrage ou son concessionnaire est autorisé à occuper les terrains constituant l'emprise des ouvrages ou
+des zones projetés avant le transfert de propriété résultant des opérations d'aménagement foncier ; 
+
+" 5° Les dépenses relatives aux opérations d'aménagement foncier et de certains travaux connexes du périmètre pertubé par
+l'ouvrage sont mises à la charge du maître de l'ouvrage. " 
+
+" Art.L. 123-26-Lorsqu'un aménagement foncier est réalisé en application de l'article L. 123-24, les dispositions des
+articles L. 123-1 à L. 123-34 sont applicables. 
+
+" Toutefois, dès lors que tout ou partie des apports d'un propriétaire sont situés dans le périmètre pertubé par l'ouvrage,
+sont autorisées les dérogations aux articles L. 123-1 et L. 123-18 qui seraient rendues inévitables en raison de
+l'implantation de l'ouvrage et des caractéristiques de la voirie mise en place à la suite de sa réalisation. Les dommages qui
+peuvent en résulter pour certains propriétaires et qui sont constatés à l'achèvement des opérations d'aménagement foncier
+sont considérés comme des dommages de travaux publics. 
+
+" Dès lors que tout ou partie des apports d'un propriétaire sont situés dans le périmètre pertubé par l'ouvrage, sont
+également autorisées, dans le cas où l'emprise de l'ouvrage est incluse dans le périmètre d'aménagement foncier, les
+dérogations aux dispositions du quatrième alinéa de l'article L. 123-4 qui seraient rendues inévitables en raison de la
+nature des terres occupées par l'ouvrage ; le défaut d'équivalence dans chacune des natures de culture est alors compensé par
+des attributions dans une ou plusieurs natures de culture différentes. 
+
+" Lorsque les expropriations en vue de la réalisation des aménagements ou ouvrages mentionnés aux articles L. 122-1 à L.
+122-3 du code de l'environnement sont susceptibles de compromettre la structure des exploitations dans une zone déterminée,
+l'obligation est faite au maître de l'ouvrage, dans l'acte déclaratif d'utilité publique, de remédier aux dommages causés en
+participant financièrement à l'installation, sur des exploitations nouvelles comparables, des agriculteurs dont
+l'exploitation aurait disparu ou serait gravement déséquilibrée, ou, s'ils l'acceptent, à la reconversion de leur
+activité.S'ils le demandent, ces agriculteurs bénéficient d'une priorité d'attribution par les sociétés d'aménagement foncier
+et d'établissement rural sur l'ensemble du territoire, sauf si, devant être installés sur une exploitation entièrement
+différente de la précédente, ils refusent de céder au maître de l'ouvrage ou aux sociétés susmentionnées les terres dont ils
+restent propriétaires dans un périmètre déterminé conformément au 3° de l'article L. 142-5. 
+
+" La même obligation est faite au maître de l'ouvrage dans l'acte déclaratif d'utilité publique en cas de création de zones
+industrielles ou à urbaniser ou de constitution de réserves foncières. 
+
+" Un décret détermine les conditions dans lesquelles le maître d'ouvrage devra apporter une contribution financière aux
+sociétés d'aménagement foncier et d'établissement rural ou aux sociétés d'aménagement régionales lorsque ces sociétés
+assurent l'établissement sur de nouvelles exploitations des agriculteurs expropriés dans les conditions prévues aux premier
+et deuxième alinéas du présent article, ainsi que des agriculteurs que les opérations d'aménagement foncier agricole et
+forestier prévues à l'article L. 123-24 n'ont pas permis de maintenir sur place ".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°62-933 1962-08-08 art. 10
-	  - Loi n°67-1253 1967-12-30 art. 22
 
 	**Cité par**:
 
@@ -3149,9 +3215,21 @@ prévues au troisième alinéa du présent article n'ont pas permis de maintenir
 
 	**Modifié par**:
 
-	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 2005
-	  - Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993
-	  - Loi n°95-101 du 2 février 1995 - art. 4 () JORF 3 février 1995
+	  - Ordonnance 2000-914 2000-09-18 art. 5 12° JORF 21 septembre 2000
+	  - Loi n°2005-157 2005-02-23 art. 80 I, 87 A I, XI, XII, XIV JORF 24 février 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2005-157 du 23 février 2005 - art. 80 () JORF 24 février 2005 en vigueur le 1er janvier 2006
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code rural - art. L123-24 (V)
+	  - PILOTE_SUIVEUR: Code rural - art. L123-25 (V)
+	  - PILOTE_SUIVEUR: Code rural - art. L123-26 (V)
+	  - PILOTE_SUIVEUR: Code rural - art. L352-1 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement L122-1 à L122-3
+	  - Code de l'expropriation pour cause d'utilité publique L123-24, L123-1 à L123-34, L123-1, L123-18, L142-5
 
 
 ###### Article L23-2
