@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-03-24
 
 # Partie législative
 
@@ -606,8 +606,8 @@ cette décision de retrait.
 Les droits des créanciers régulièrement inscrits sur les immeubles expropriés, soit avant la publication au bureau des
 hypothèques de l'ordonnance d'expropriation, de l'ordonnance de donné acte ou de l'acte de cession consentie après la
 déclaration d'utilité publique, soit postérieurement à ladite publication en ce qui concerne les privilèges conservés suivant
-les prescriptions des articles 2108 et 2109 du code civil, sont reportés sur l'indemnité compte tenu du rang de préférence
-qui leur est reconnu par les textes qui les régissent.
+les prescriptions des articles 2379 et 2380 du code civil, sont reportés sur l'indemnité compte tenu du rang de préférence
+qui leur est reconnu par les textes qui les régissent. 
 
 Le renouvellement de droit commun des inscriptions de privilèges ou d'hypothèques est obligatoire jusqu'à la date de
 péremption prévue au troisième alinéa de l'article L. 12-2.
@@ -631,13 +631,12 @@ péremption prévue au troisième alinéa de l'article L. 12-2.
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 3 () JORF 19 juillet 1985
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 	**Cite**:
 
-	  - Code civil - art. 2108 (T)
-	  - Code civil - art. 2109 (T)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L12-2 (M)
+	  - Code civil - art. 2379 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L12-2 (V)
 
 
 ###### Article L12-4
