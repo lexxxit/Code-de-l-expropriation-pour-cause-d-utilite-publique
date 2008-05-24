@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2008-05-25
 
 # Partie législative
 
@@ -5692,23 +5692,15 @@ qui concerne la désignation des immeubles ou l'identité des parties.
 ###### Article R12-5
 
 L'ordonnance ne peut être exécutée à l'encontre de chacun des intéressés que si elle lui a été préalablement notifiée par
-l'expropriant.
+l'expropriant. 
 
 La notification de l'ordonnance doit reproduire les termes de l'article L. 12-5 du présent code et des articles 612 et 973 du
-nouveau code de procédure civile.
+code de procédure civile. 
 
 Les frais et dépens afférents à l'ordonnance d'expropriation et au pourvoi en cassation contre celle-ci sont déterminés dans
 les conditions prévues à la section V du présent chapitre.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1335 1959-11-20 art. 19
-
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
 	**Cité par**:
 
@@ -5717,8 +5709,22 @@ les conditions prévues à la section V du présent chapitre.
 
 	**Modifié par**:
 
-	  - Décret n°2005-467 du 13 mai 2005 - art. 18 () JORF 15 mai 2005 en vigueur le 1er août 2005
-	  - Décret n°2005-467 du 13 mai 2005 - art. 23 () JORF 15 mai 2005 en vigueur le 1er août 2005
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 612 (V)
+	  - Code de procédure civile - art. 973 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L12-5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R221-6 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R221-8 (V)
 
 
 ##### Sous-section 2 : Perte de base légale de l'ordonnance d'expropriation.
@@ -7538,21 +7544,25 @@ notification prévue à l'article L. 13-3.
 ###### Article R13-42
 
 La notification des jugements et arrêts aux parties et au commissaire du Gouvernement se fait conformément aux dispositions
-des articles 675 et suivants du nouveau code de procédure civile.
+des articles 675 et suivants du code de procédure civile.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-1335 1959-11-20 art. 62
-
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
 	**Modifié par**:
 
-	  - Décret n°2005-467 du 13 mai 2005 - art. 39 () JORF 15 mai 2005 en vigueur le 1er août 2005
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 675
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R311-30 (V)
 
 
 #### Section 3 : Fixation des indemnités.
@@ -7823,22 +7833,26 @@ d'appel.
 
 ###### Article R13-48
 
-Il est fait application des dispositions de l'article 936 du nouveau code de procédure civile aux parties et au commissaire
-du Gouvernement.
+Il est fait application des dispositions de l' article 936 du code de procédure civile aux parties et au commissaire du
+Gouvernement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-1335 1959-11-20 art. 55
-
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
 	**Modifié par**:
 
-	  - Décret n°2005-467 du 13 mai 2005 - art. 43 () JORF 15 mai 2005 en vigueur le 1er août 2005
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 936
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R311-24 (V)
 
 
 ###### Article R13-49
@@ -9332,26 +9346,27 @@ conformément aux dispositions des chapitres III et V du présent titre.
 
 ###### Article R16-3
 
-Les dispositions du livre Ier du nouveau code de procédure civile s'appliquent devant les juridictions de l'expropriation
-sous réserve des dispositions particulières prévues par le présent code.
+Les dispositions du livre Ier du    code de procédure civile s'appliquent devant les juridictions de l'expropriation sous
+réserve des dispositions particulières prévues par le présent code. 
 
 Les dispositions particulières à la cour d'appel et à la Cour de cassation figurant respectivement au titre VI et au chapitre
-Ier du titre VII du livre II du nouveau code de procédure civile s'appliquent devant les juridictions de l'expropriation sous
+Ier du titre VII du livre II du    code de procédure civile s'appliquent devant les juridictions de l'expropriation sous
 réserve des dispositions particulières prévues par le présent code.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-701 du 6 juin 1959 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
 	**Modifié par**:
 
-	  - Décret n°2005-467 du 13 mai 2005 - art. 52 () JORF 15 mai 2005 en vigueur le 1er août 2005
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R211-6 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R311-29 (V)
 
 
 ## TITRE II : Dispositions propres à certaines catégories d'opérations
