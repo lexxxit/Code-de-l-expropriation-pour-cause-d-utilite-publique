@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2009-03-28
+Version Consolidée au 2009-04-09
 
 # Partie législative
 
@@ -3307,35 +3307,36 @@ Des dispositions particulières concernant l'expropriation figurent notamment :
 
 ###### Article **R11-1
 
-L'utilité publique, dans les cas autres que ceux énumérés à l'article **R. 11-2, est déclarée :
+L'utilité publique, dans les cas autres que ceux énumérés à l'article **R. 11-2, est déclarée : 
 
 1° Par arrêté du préfet du lieu des immeubles faisant l'objet de l'opération lorsque l'opération se situe sur le territoire
-d'un seul département ;
+d'un seul département ; 
 
 2° Par arrêté conjoint des préfets intéressés, lorsque l'opération concerne des immeubles situés sur le territoire de
-plusieurs départements.
+plusieurs départements. 
 
 Elle est prononcée par arrêté du ministre responsable du projet, pour les opérations poursuivies en vue de l'installation des
-administrations centrales, des services centraux de l'Etat et des services à compétence nationale.
+administrations centrales, des services centraux de l'Etat et des services à compétence nationale. 
+
+Les travaux de création de routes express sont déclarés d'utilité publique par arrêté du ministre chargé de la voirie
+routière nationale lorsque la voie appartient au domaine public de l'Etat, par arrêté préfectoral dans les autres cas.
+
+**Nota:**
+
+Décret n° 2009-382 du 6 avril 2009 article 3 : Les dispositions des articles R. 11-1 et R. 11-2 du code de l'expropriation
+pour cause d'utilité publique, dans leur rédaction issue de l'article 2 du présent décret, s'appliquent aux opérations pour
+lesquelles la clôture de l'enquête préalable est intervenue à compter du 1er mars 2008.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-195 1972-02-29 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-	**Modifié par**:
-
-	  - Décret n°2004-127 du 9 février 2004 - art. 1 () JORF 11 février 2004
 
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2004-127 du 9 février 2004
 	  - TXT_SOURCE: Décret n°2004-127 du 9 février 2004 - art. 4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-382 du 6 avril 2009 - art. 2
 
 	**Cité par**:
 
@@ -3349,15 +3350,15 @@ administrations centrales, des services centraux de l'Etat et des services à co
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-2 (M)
+	  - Code de l'expropriation pour cause d'utilité publique - art. R11-2
 
 
 ###### Article **R11-2
 
 Sont déclarés d'utilité publique par décret en Conseil d'Etat :
 
-1° Les travaux de création d'autoroutes et de routes express, à l'exclusion, sur les autoroutes et les routes express
-existantes, des travaux de réalisation d'ouvrages annexes, d'élargissement et de raccordement à d'autres voies publiques ;
+1° Les travaux de création d'autoroutes, à l'exclusion, sur les autoroutes  existantes, des travaux de réalisation d'ouvrages
+annexes, d'élargissement et de raccordement à d'autres voies publiques ;
 
 2° Les travaux de création d'aérodromes de catégorie A ;
 
@@ -3376,6 +3377,12 @@ mégawatts et d'installations liées à la production et au développement de l'
 7° Les travaux de transfert d'eau de bassin fluvial à bassin fluvial (hors voies navigables) dont le débit est supérieur ou
 égal à 1 mètre cube par seconde.
 
+**Nota:**
+
+Décret n° 2009-382 du 6 avril 2009 article 3 : Les dispositions des articles R. 11-1 et R. 11-2 du code de l'expropriation
+pour cause d'utilité publique, dans leur rédaction issue de l'article 2 du présent décret, s'appliquent aux opérations pour
+lesquelles la clôture de l'enquête préalable est intervenue à compter du 1er mars 2008.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -3389,10 +3396,6 @@ mégawatts et d'installations liées à la production et au développement de l'
 	  - Code de l'aviation civile - art. R221-10 (V)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-1 (VT)
 
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2002-152 du 7 février 2002
@@ -3402,7 +3405,7 @@ mégawatts et d'installations liées à la production et au développement de l'
 
 	**Modifié par**:
 
-	  - Décret n°2004-127 du 9 février 2004 - art. 2 () JORF 11 février 2004
+	  - Décret n°2009-382 du 6 avril 2009 - art. 2
 
 
 ###### Article **R11-3
