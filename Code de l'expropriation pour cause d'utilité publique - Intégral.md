@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2009-04-09
+Version Consolidée au 2010-01-13
 
 # Partie législative
 
@@ -4807,27 +4807,23 @@ La commission d'examen des opérations immobilières présentant un caractère s
 - un président ou son suppléant, choisis parmi les conseillers d'Etat, les conseillers à la Cour de cassation ou les
 conseillers maîtres à la Cour des comptes ;
 
-- le secrétaire général de la défense nationale ou son représentant ;
+- le     secrétaire général de la défense et de la sécurité nationale ou son représentant ;
 
 - un représentant du ministre de la défense ;
 
-- le directeur général des impôts ou, à défaut, le chef de service ou le sous-directeur chargé du domaine.
+- le directeur général des impôts ou, à défaut, le chef de service ou le sous-directeur chargé du domaine. 
 
 Le président et son suppléant sont nommés par arrêté du Premier ministre pour une durée de deux ans renouvelable.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
-	**Créé par**:
+	**Nouveaux textes**:
 
-	  - Décret n°2005-467 du 13 mai 2005 - art. 17 () JORF 15 mai 2005 en vigueur le 1er août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R122-6 (V)
 
 
 ###### Article R11-17-2
