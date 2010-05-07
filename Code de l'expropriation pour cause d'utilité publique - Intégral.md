@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2010-01-13
+Version Consolidée au 2010-05-08
 
 # Partie législative
 
@@ -3120,7 +3120,7 @@ publicité est renouvelée dans les conditions et délais fixés par décret.
 
 ###### Article L23-1
 
-Ainsi qu'il est dit aux articles L. 123-24 à L. 123-26 et L. 352-1 du code rural : 
+Ainsi qu'il est dit aux articles L. 123-24 à L. 123-26 et L. 352-1 du code rural et de la pêche maritime : 
 
 " Art.L. 123-24-Lorsque les expropriations en vue de la réalisation des aménagements ou ouvrages mentionnés aux articles L.
 122-1 à L. 122-3 du code de l'environnement sont susceptibles de compromettre la structure des exploitations dans une zone
@@ -3194,6 +3194,13 @@ assurent l'établissement sur de nouvelles exploitations des agriculteurs exprop
 et deuxième alinéas du présent article, ainsi que des agriculteurs que les opérations d'aménagement foncier agricole et
 forestier prévues à l'article L. 123-24 n'ont pas permis de maintenir sur place ".
 
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées en mars 2015 à l’occasion du prochain renouvellement général des conseils
+départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -3206,27 +3213,13 @@ forestier prévues à l'article L. 123-24 n'ont pas permis de maintenir sur plac
 	  - Décret n°68-386 du 26 avril 1968 - art. 1 (M)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. L13-11 (VT)
 
-	**Codifié par**:
-
-	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
-
 	**Modifié par**:
 
-	  - Ordonnance 2000-914 2000-09-18 art. 5 12° JORF 21 septembre 2000
-	  - Loi n°2005-157 2005-02-23 art. 80 I, 87 A I, XI, XII, XIV JORF 24 février 2005 en vigueur le 1er janvier 2006
-	  - Loi n°2005-157 du 23 février 2005 - art. 80 () JORF 24 février 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - PILOTE_SUIVEUR: Code rural - art. L123-24 (V)
-	  - PILOTE_SUIVEUR: Code rural - art. L123-25 (V)
-	  - PILOTE_SUIVEUR: Code rural - art. L123-26 (V)
-	  - PILOTE_SUIVEUR: Code rural - art. L352-1 (V)
-
-	**Cite**:
-
-	  - Code de l'environnement L122-1 à L122-3
-	  - Code de l'expropriation pour cause d'utilité publique L123-24, L123-1 à L123-34, L123-1, L123-18, L142-5
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6 (V)
 
 
 ###### Article L23-2
@@ -3262,7 +3255,7 @@ Des dispositions particulières concernant l'expropriation figurent notamment :
 
 - aux articles 13 à 26 de la loi n° 70-612 du 10 juillet 1970 tendant à faciliter la suppression de l'habitat insalubre ;
 
-- à l'article L. 563-1 du code rural ;
+- à l'article L. 563-1 du code rural et de la pêche maritime ;
 
 - aux articles L. 2243-1 à L. 2343-4 du code général des collectivités territoriales.
 
@@ -3288,13 +3281,9 @@ Des dispositions particulières concernant l'expropriation figurent notamment :
 	  - Code rural L563-1
 	  - Loi n°1913-12-31 art. 6, art. 9-1, art. 9-2, art. 11
 
-	**Codifié par**:
-
-	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
-
 	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 art. 7 3° JORF 24 février 2004
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
