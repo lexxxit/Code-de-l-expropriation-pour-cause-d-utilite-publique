@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-06-06
 
 # Partie législative
 
@@ -1417,9 +1417,11 @@ modifications apportées aux biens par l'Etat.
 I-Les biens sont estimés à la date de la décision de première instance ; toutefois, et sous réserve de l'application des
 dispositions du II du présent article, sera seul pris en considération l'usage effectif des immeubles et droits réels
 immobiliers un an avant l'ouverture de l'enquête prévue à l'article L. 11-1 ou, dans le cas visé à l'article L. 11-3, un an
-avant la déclaration d'utilité publique. Il est tenu compte des servitudes et des restrictions administratives affectant de
-façon permanente l'utilisation ou l'exploitation des biens à la même date, sauf si leur institution révèle, de la part de
-l'expropriant, une intention dolosive. 
+avant la déclaration d'utilité publique ou, dans le cas des projets ou programmes soumis au débat public prévu par l'article
+L. 121-8 du code de l'environnement ou par l'article 3 de la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris, au jour
+de la mise à disposition du public du dossier de ce débat. Il est tenu compte des servitudes et des restrictions
+administratives affectant de façon permanente l'utilisation ou l'exploitation des biens à la même date, sauf si leur
+institution révèle, de la part de l'expropriant, une intention dolosive. 
 
 Quelle que soit la nature des biens, il ne pourra être tenu compte, même lorsqu'ils sont constatés par des actes de vente,
 des changements de valeur subis depuis cette date de référence, s'ils ont été provoqués : 
@@ -1476,12 +1478,6 @@ travaux nécessaires pour assurer la sécurité ou la salubrité des locaux tels
 mesures de police prescrites au propriétaire ou à l'exploitant ainsi que de celui des frais de relogement dus en application
 des articles L. 521-1 à L. 521-4 du code de la construction et de l'habitation.
 
-**Nota:**
-
-L'article 4 de la loi du 26 mai 1941 (Loi Borotra) reproduit au 3° du présent article a été abrogé par l'article 51 de la loi
-n° 84-610 du 16 juillet 1984.L'article L. 111-1-3 du code de l'urbanisme a été abrogé par l'article 202 XXXIX de l'ordonnance
-n° 2000-1208 du 13 décembre 2000.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -1522,15 +1518,18 @@ n° 2000-1208 du 13 décembre 2000.
 	**Cite**:
 
 	  - Loi n°75-988 du 29 octobre 1975
+	  - Loi n°2010-597 du 3 juin 2010 - art. 3
 	  - Code de l'urbanisme - art. L111-1-3
 	  - Code de l'urbanisme - art. L123-1
 	  - Loi du 26 mai 1941
+	  - Code de l'environnement - art. L121-8
 	  - Code de l'expropriation pour cause d'utilité publique - art. L11-1
 	  - Code de l'expropriation pour cause d'utilité publique - art. L11-3
 
 	**Modifié par**:
 
-	  - Loi n°2009-323 du 25 mars 2009 - art. 88
+	  - Loi n°2010-597 du 3 juin 2010 - art. 5 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
 
 
 ###### Article L13-16
