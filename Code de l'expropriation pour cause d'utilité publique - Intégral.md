@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2010-06-06
+Version Consolidée au 2010-07-14
 
 # Partie législative
 
@@ -9,17 +9,25 @@ Version Consolidée au 2010-06-06
 
 ###### Article L11-1
 
-L'expropriation d'immeubles, en tout ou partie, ou de droits réels immobiliers, ne peut être prononcée qu'autant qu'elle aura
-été précédée d'une déclaration d'utilité publique intervenue à la suite d'une enquête et qu'il aura été procédé
-contradictoirement à la détermination des parcelles à exproprier, ainsi qu'à la recherche des propriétaires, des titulaires
-de droits réels et des autres intéressés.
+I. ― L'expropriation d'immeubles, en tout ou partie, ou de droits réels immobiliers ne peut être prononcée qu'autant qu'elle
+aura été précédée d'une déclaration d'utilité publique intervenue à la suite d'une enquête publique et qu'il aura été procédé
+contradictoirement à la détermination des parcelles à exproprier ainsi qu'à la recherche des propriétaires, des titulaires de
+droits réels et autres intéressés. 
 
-L'enquête préalable à la déclaration d'utilité publique est menée par un commissaire enquêteur ou une commission d'enquête
-dont les modalités de désignation et les pouvoirs sont définis par les dispositions du chapitre III du titre II du livre Ier
-du code de l'environnement.
+II. ― L'enquête publique préalable à la déclaration d'utilité publique de travaux, d'aménagements, de constructions ou
+d'ouvrages constituant une opération mentionnée à l'article L. 123-2 du code de l'environnement est régie par le chapitre III
+du titre II du livre Ier du même code. 
 
-Le commissaire enquêteur ou la commission d'enquête doivent rendre leurs conclusions six mois maximum après l'ouverture de
-l'enquête publique.
+III. ― L'enquête publique préalable à la déclaration d'utilité publique des opérations autres que celles mentionnées au II
+est menée par un commissaire enquêteur ou une commission d'enquête selon des modalités fixées par décret en Conseil d'Etat.
+Ce décret fixe notamment la durée, le champ de l'enquête, les informations soumises au public, les modalités de désignation
+et les pouvoirs du commissaire enquêteur ou de la commission d'enquête.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -40,10 +48,10 @@ l'enquête publique.
 	  - Décret n°2013-1211 du 23 décembre 2013 - art. 3 (VT)
 	  - Décret n°2013-1211 du 23 décembre 2013 - art. 6 (VT)
 	  - Arrêté du 23 septembre 2014 - art. 4 (VD)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-1-1 (V)
 	  - Code de l'environnement - art. L515-16 (V)
 	  - Code de l'environnement - art. R571-51 (VT)
 	  - Code de l'environnement - art. R571-52 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L11-1-1 (VT)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. L11-3 (VT)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. L13-14 (VT)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. L13-15 (VT)
@@ -58,68 +66,78 @@ l'enquête publique.
 	  - Code général de la propriété des personnes publ... - art. R1211-3 (VT)
 	  - Code rural - art. R123-30 (M)
 
-	**Anciens textes**:
-
-	  - Ordonnance 58-997 1958-10-23 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
-
 	**Modifié par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 139 () JORF 28 février 2002
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 239
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TXT_ASSOCIE: Code de l'expropriation L11-3
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L123-2
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L1 (VD)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L110-1 (VD)
 
 
 ###### Article L11-1-1
 
-Lorsqu'un projet public de travaux, d'aménagements ou d'ouvrages constitue une des opérations mentionnées à l'article L.
-123-1 du code de l'environnement et que sa réalisation rend nécessaire l'expropriation d'immeubles ou de droits réels
-immobiliers, la déclaration de projet prévue à l'article L. 126-1 du code de l'environnement intervient, au vu des résultats
-de l'enquête prévue à l'article L. 11-1 du présent code, selon les modalités et dans les conditions suivantes :
+En ce qui concerne les projets mentionnés au II de l'article L. 11-1, la déclaration de projet prévue à l'article L. 126-1 du
+code de l'environnement prend en considération l'étude d'impact, l'avis de l'autorité administrative de l'Etat compétente en
+matière d'environnement et le résultat de la consultation du public. Elle intervient selon les modalités et dans les
+conditions suivantes : 
 
 1. Si l'expropriation est poursuivie au profit d'une collectivité territoriale ou d'un de ses établissements publics,
 l'autorité compétente de l'Etat demande, au terme de l'enquête publique, à la collectivité ou à l'établissement intéressé de
 se prononcer, dans un délai qui ne peut excéder six mois, sur l'intérêt général du projet dans les conditions prévues à
 l'article L. 126-1 du code de l'environnement. Après transmission de la déclaration de projet ou à l'expiration du délai
 imparti à la collectivité ou à l'établissement intéressé, l'autorité de l'Etat compétente décide de la déclaration d'utilité
-publique.
+publique. 
 
 Lorsque l'opération est déclarée d'utilité publique, la légalité de la déclaration de projet mentionnée à l'alinéa précédent
 ne peut être contestée que par voie d'exception à l'occasion d'un recours dirigé contre la déclaration d'utilité publique.
 Les vices qui affecteraient la légalité externe de cette déclaration sont sans incidence sur la légalité de la déclaration
-d'utilité publique.
+d'utilité publique. 
 
 2. Si l'expropriation est poursuivie au profit de l'Etat ou de l'un de ses établissements publics, la déclaration d'utilité
-publique tient lieu de déclaration de projet.
+publique tient lieu de déclaration de projet. 
 
 3. L'acte déclarant l'utilité publique est accompagné d'un document qui expose les motifs et considérations justifiant le
 caractère d'utilité publique de l'opération.
 
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 239
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 145 () JORF 28 février 2002
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L123-1 (M)
-	  - Code de l'environnement - art. L126-1 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-1 (M)
+	  - Code de l'environnement - art. L126-1
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L11-1 (VT)
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L122-1 (V)
 	  - Code de l'environnement - art. R126-4 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L122-1 (VD)
 
 
 ###### Article L11-1-2
@@ -463,21 +481,27 @@ par le propriétaire.
 ###### Article L11-9
 
 Les commissaires enquêteurs et les membres des commissions d'enquête sont indemnisés dans les conditions prévues à l'article
-L. 123-14 du code de l'environnement.
+L. 123-18 du code de l'environnement.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 239
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L123-14 (M)
+	  - Code de l'environnement - art. L123-18
 
 
 ### CHAPITRE II : Transfert de propriété et droit de rétrocession
@@ -2391,28 +2415,35 @@ propriétés est réglée comme il est dit aux articles 10 et suivants de la mê
 ###### Article L15-9
 
 Lorsque l'exécution des travaux de construction d'autoroutes, de routes express, de routes nationales ou de sections
-nouvelles de routes nationales, de voies de chemins de fer et d'oléoducs régulièrement déclarés d'utilité publique risque
-d'être retardée par des difficultés tenant à la prise de possession d'un ou plusieurs terrains non bâtis, situés dans les
-emprises de l'ouvrage, un décret pris sur avis conforme du Conseil d'Etat pourra, à titre exceptionnel, autoriser la prise de
-possession de ces terrains.
+nouvelles de routes nationales, de voies de chemins de fer, de voies de tramways ou de transport en commun en site propre et
+d'oléoducs régulièrement déclarés d'utilité publique risque d'être retardée par des difficultés tenant à la prise de
+possession d'un ou plusieurs terrains non bâtis, situés dans les emprises de l'ouvrage, un décret pris sur avis conforme du
+Conseil d'Etat pourra, à titre exceptionnel, autoriser la prise de possession de ces terrains. 
 
 Cette prise de possession a lieu dans les conditions fixées à l'article L. 15-7. Le projet motivé qui est soumis au Conseil
 d'Etat par l'administration conformément au premier alinéa de l'article L. 15-7 doit comporter un plan parcellaire fixant les
-terrains que l'administration se propose d'occuper.
+terrains que l'administration se propose d'occuper. 
 
 Toutefois, la prise de possession ne pourra avoir lieu qu'après paiement provisionnel d'une somme égale à l'évaluation du
 service des domaines ou à l'offre de l'autorité expropriante si celle-ci est supérieure. En cas d'obstacle au paiement ou de
-refus de recevoir, cette condition est remplacée par l'obligation pour l'administration de consigner la somme correspondante.
+refus de recevoir, cette condition est remplacée par l'obligation pour l'administration de consigner la somme
+correspondante. 
 
-Faute par l'administration de poursuivre la procédure d'expropriation dans le mois [*délai*] qui suit la prise de possession,
-le juge, saisi par le propriétaire, prononce le transfert de propriété si celui-ci n'a pas encore été ordonné et, en tout
-état de cause, fixe le prix du terrain et, éventuellement, l'indemnité spéciale prévue à l'alinéa 1 de l'article L. 15-8.
+Faute par l'administration de poursuivre la procédure d'expropriation dans le mois qui suit la prise de possession, le juge,
+saisi par le propriétaire, prononce le transfert de propriété si celui-ci n'a pas encore été ordonné et, en tout état de
+cause, fixe le prix du terrain et, éventuellement, l'indemnité spéciale prévue à l'alinéa 1 de l'article L. 15-8.
+
+**Nota:**
+
+Loi n° 2010-788 du 13 juillet 2010 article 53 II : La procédure prévue à l'article L. 15-9 du code de l'expropriation pour
+cause d'utilité publique peut être appliquée en vue de la prise de possession immédiate par le bénéficiaire de la déclaration
+d'utilité publique des terrains bâtis ou non bâtis dont l'acquisition est nécessaire à l'exécution des travaux d'aménagement
+de la nouvelle branche du tram-train T4 en Ile-de-France jusqu'à Clichy-sous-Bois et Montfermeil.
+
+Les décrets nécessaires en application du même article L. 15-9, pris sur avis conforme du Conseil d'Etat, sont publiés au
+plus tard le 31 décembre 2012.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
 
 	**Cité par**:
 
@@ -2430,12 +2461,23 @@ le juge, saisi par le propriétaire, prononce le transfert de propriété si cel
 
 	**Modifié par**:
 
-	  - Loi n°89-550 du 2 août 1989 - art. 9 () JORF 8 aôut 1989
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 53 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L15-7 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L15-8 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L15-7 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L15-8 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L522-1 (VD)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L522-2 (VD)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L522-3 (VD)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L522-4 (VD)
 
 
 ### CHAPITRE VI : Dispositions diverses et fiscales
@@ -3223,19 +3265,33 @@ départementaux, y compris aux opérations préparatoires à ce scrutin (date in
 
 ###### Article L23-2
 
-Dans les cas où les atteintes à l'environnement ou au patrimoine culturel que risque de provoquer un projet d'aménagement ou
-d'ouvrage le justifient, la déclaration d'utilité publique peut comporter des prescriptions particulières destinées notamment
-à réduire ou à compenser les conséquences dommageables de ces aménagements ou ouvrages pour l'environnement.
+Dans les cas où les atteintes à l'environnement ou au patrimoine culturel que risque de provoquer un projet de travaux,
+d'ouvrages ou d'aménagements le justifient, la déclaration d'utilité publique peut comporter les mesures prévues à l'article
+L. 122-1 du code de l'environnement
+
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 239
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°95-101 du 2 février 1995 - art. 4 () JORF 3 février 1995
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L122-1
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L122-2 (VD)
 
 
 ### CHAPITRE IV : Dispositions particulières.
