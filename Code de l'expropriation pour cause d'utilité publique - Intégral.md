@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-13
 
 # Partie législative
 
@@ -1491,7 +1491,7 @@ développement de l'éducation physique et du sport, " l'indemnité d'expropriat
 exclusivement de la destination sportive de l'immeuble et des installations qu'il comporte. " 
 
 4° Lorsqu'il s'agit de l'expropriation d'un terrain réservé par un plan d'occupation des sols au sens du 8° de l'article L.
-123-1 du code de l'urbanisme, le terrain est considéré, pour son évaluation, comme ayant cessé d'être compris dans un
+123-1-5 du code de l'urbanisme, le terrain est considéré, pour son évaluation, comme ayant cessé d'être compris dans un
 emplacement réservé ; la date de référence prévue ci-dessus est alors celle à laquelle est devenu opposable aux tiers le plus
 récent des actes rendant public, approuvant, révisant ou modifiant le plan d'occupation des sols et délimitant la zone dans
 laquelle est situé l'emplacement réservé. 
@@ -1552,7 +1552,6 @@ des articles L. 521-1 à L. 521-4 du code de la construction et de l'habitation.
 
 	**Modifié par**:
 
-	  - Loi n°2010-597 du 3 juin 2010 - art. 5 (V)
 	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
 
 
@@ -3300,7 +3299,7 @@ du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environn
 
 Des dispositions particulières concernant l'expropriation figurent notamment :
 
-- aux articles L. 122-1, L. 213-1, L. 221-1, L. 221-2, L. 313-3, L. 313-4, L. 314-1 à L. 314-9 du code de l'urbanisme ;
+- aux articles L. 213-1, L. 221-1, L. 221-2, L. 313-3, L. 313-4, L. 314-1 à L. 314-9 du code de l'urbanisme ;
 
 - aux articles L. 621-12, L. 621-13, L. 621-14, L. 621-18 et L. 621-21 du code du patrimoine ;
 
@@ -3318,27 +3317,19 @@ Des dispositions particulières concernant l'expropriation figurent notamment :
 
 	**Cite**:
 
-	  - Loi n°70-612 1970-07-10 art. 13 à 26
-	  - Loi n°76-1022 du 10 novembre 1976 - art. 2 (Ab)
-	  - Code général des collectivités territoriales L2243-1 à L2343-4
-	  - Code de la voirie routière - art. L151-2 (M)
-	  - Code de l'urbanisme - art. L122-1 (M)
-	  - Code de l'urbanisme - art. L213-1 (M)
-	  - Code de l'urbanisme - art. L221-1 (M)
-	  - Code de l'urbanisme - art. L221-2 (M)
-	  - Code de l'urbanisme - art. L313-3 (M)
-	  - Code de l'urbanisme - art. L313-4 (M)
-	  - Code de l'urbanisme L122-1, L213-1, L221-1, L221-2, L313-3, L313-4, L314-1 à L314-9
-	  - Code de l'environnement - art. L341-14 (V)
-	  - Code du patrimoine L621-12 à L621-14, L621-18, L621-21
-	  - Code du patrimoine. - art. L621-18 (M)
-	  - Code du patrimoine. - art. L621-21 (M)
-	  - Code rural L563-1
-	  - Loi n°1913-12-31 art. 6, art. 9-1, art. 9-2, art. 11
+	  - Loi n°70-612 du 10 juillet 1970
+	  - Code général des collectivités territoriales - art. L2243-1
+	  - Code rural - art. L563-1
+	  - Code de l'urbanisme - art. L221-1
+	  - Code de l'urbanisme - art. L313-1
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 17 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
