@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2011-01-13
+Version Consolidée au 2011-12-31
 
 # Partie législative
 
@@ -3979,55 +3979,6 @@ renoncé [*tacitement*] à l'opération.
 	  - Code de l'urbanisme - art. R*318-10 (M)
 
 
-###### Article **R11-14
-
-Lorsque l'opération doit être réalisée sur le territoire de deux ou de plusieurs départements, l'enquête s'ouvre à la
-préfecture du département sur le territoire duquel la plus grande partie de l'opération doit être réalisée. Le préfet de ce
-département désigné éventuellement par le ou les ministres compétents d'après la nature des opérations, est chargé de
-centraliser les résultats de l'enquête.
-
-Un arrêté concerté des préfets intéressés désigne le commissaire enquêteur ou les membres et le président de la commission
-d'enquête. Le même arrêté fixe les conditions de l'enquête publique, telles qu'elles sont prévues aux articles **R. 11-4 et
-**R. 11-7 à **R. 11-10.
-
-Les dossiers et registres d'enquêtes déposés dans les lieux situé hors du département où l'enquête a été ouverte sont
-transmis au commissaire enquêteur ou au président de la commission d'enquête par l'intermédiaire du ou des préfets
-intéressés, lesquels formulent leur avis sur l'opération projetée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-701 du 6 juin 1959 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-	**Modifié par**:
-
-	  - Décret n°85-453 du 23 avril 1985 - art. 22 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-	  - Décret n°85-453 du 23 avril 1985 - art. 26 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
-
-	**Cite**:
-
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLIQUE R11-4, R11-7 à R11-10
-
-	**Cité par**:
-
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-7 (V)
-	  - Code de l'aviation civile - art. R242-1 (M)
-	  - Code de l'urbanisme - art. R*160-17 (M)
-	  - Code de l'urbanisme - art. R*313-23 (V)
-	  - Code général des collectivités territoriales - art. R1311-6 (V)
-	  - Code général des collectivités territoriales - art. R1311-8 (V)
-
-
 ###### Article *R11-10
 
 Le commissaire enquêteur ou la commission examine [*attributions*] les observations consignées ou annexées aux registres et
@@ -4111,6 +4062,55 @@ postérieurement au 31 décembre 2002.
 
 
 ##### Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement.
+
+###### Article **R11-14
+
+Lorsque l'opération doit être réalisée sur le territoire de deux ou de plusieurs départements, l'enquête s'ouvre à la
+préfecture du département sur le territoire duquel la plus grande partie de l'opération doit être réalisée. Le préfet de ce
+département désigné éventuellement par le ou les ministres compétents d'après la nature des opérations, est chargé de
+centraliser les résultats de l'enquête. 
+
+Un arrêté concerté des préfets intéressés désigne le commissaire enquêteur ou les membres et le président de la commission
+d'enquête. Le même arrêté fixe les conditions de l'enquête publique, telles qu'elles sont prévues aux articles **R. 11-4 et
+**R. 11-7 à **R. 11-10. 
+
+Les dossiers et registres d'enquêtes déposés dans les lieux situé hors du département où l'enquête a été ouverte sont
+transmis au commissaire enquêteur ou au président de la commission d'enquête par l'intermédiaire du ou des préfets
+intéressés, lesquels formulent leur avis sur l'opération projetée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-393 du 28 mars 1977
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2011-2018 du 29 décembre 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R242-1 (M)
+	  - Code de l'urbanisme - art. R*160-17 (M)
+	  - Code de l'urbanisme - art. R*313-23 (V)
+	  - Code général des collectivités territoriales - art. R1311-6 (V)
+	  - Code général des collectivités territoriales - art. R1311-8 (V)
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-7 (VT)
+	  - Code de l'expropriation pour cause d'utilité publique - art. R11-4
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-2 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-11 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-18 (V)
+
 
 ###### Article R11-14-1
 
