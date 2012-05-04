@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2011-12-31
+Version Consolidée au 2012-05-05
 
 # Partie législative
 
@@ -3392,7 +3392,7 @@ lesquelles la clôture de l'enquête préalable est intervenue à compter du 1er
 
 Sont déclarés d'utilité publique par décret en Conseil d'Etat :
 
-1° Les travaux de création d'autoroutes, à l'exclusion, sur les autoroutes  existantes, des travaux de réalisation d'ouvrages
+1° Les travaux de création d'autoroutes, à l'exclusion, sur les autoroutes existantes, des travaux de réalisation d'ouvrages
 annexes, d'élargissement et de raccordement à d'autres voies publiques ;
 
 2° Les travaux de création d'aérodromes de catégorie A ;
@@ -3403,7 +3403,7 @@ de 1 500 tonnes de port en lourd ;
 4° Les travaux de création ou de prolongement de lignes du réseau ferré national d'une longueur supérieure à 20 kilomètres à
 l'exclusion des travaux d'aménagement et de réalisation d'ouvrages annexes sur le réseau existant ;
 
-5° Les travaux de construction de canalisations d'intérêt général destinées au transport d'hydrocarbures liquides ;
+5° Abrogé ;
 
 6° Les travaux de création de centrales électriques d'une puissance égale ou supérieure à 100 mégawatts, d'usines utilisant
 l'énergie des mers ainsi que d'aménagements hydroélectriques d'une puissance maximale brute égale ou supérieure à 100
@@ -3414,9 +3414,7 @@ mégawatts et d'installations liées à la production et au développement de l'
 
 **Nota:**
 
-Décret n° 2009-382 du 6 avril 2009 article 3 : Les dispositions des articles R. 11-1 et R. 11-2 du code de l'expropriation
-pour cause d'utilité publique, dans leur rédaction issue de l'article 2 du présent décret, s'appliquent aux opérations pour
-lesquelles la clôture de l'enquête préalable est intervenue à compter du 1er mars 2008.
+
 
 **Liens relatifs à cet article**
 
@@ -3440,7 +3438,7 @@ lesquelles la clôture de l'enquête préalable est intervenue à compter du 1er
 
 	**Modifié par**:
 
-	  - Décret n°2009-382 du 6 avril 2009 - art. 2
+	  - Décret n°2012-615 du 2 mai 2012 - art. 12
 
 
 ###### Article **R11-3
