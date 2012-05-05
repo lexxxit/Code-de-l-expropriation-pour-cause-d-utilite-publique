@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2012-05-05
+Version Consolidée au 2012-05-06
 
 # Partie législative
 
@@ -7368,30 +7368,33 @@ antérieurement à la notification des offres de l'administration.
 
 Lorsqu'il s'agit de statuer sur des difficultés relatives à l'exécution d'une décision rendue en application du présent
 chapitre, la demande est portée à une audience tenue à cet effet par le juge de l'expropriation aux jour et heure indiqués
-par celui-ci.
+par celui-ci. 
 
 Il est, en ce cas, statué comme en matière de référé. L'appel est toutefois porté devant la chambre mentionnée à l'article L.
-13-22 ; les parties qui peuvent se faire assister ou représenter dans les conditions prévues à l'article **R. 13-51 sont
-dispensées du ministère d'avoué.
+13-22 ; les parties peuvent se faire assister ou représenter dans les conditions prévues à l'article **R. 13-51.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-1335 1959-11-20 art. 44 (Décret 66-776 1966-10-11 art. 1)
-
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+	  - Décret n°77-393 du 28 mars 1977
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R311-23 (V)
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-22 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-51 (M)
+	  - Code de l'expropriation pour cause d'utilité publique - art. L13-22
+	  - Code de l'expropriation pour cause d'utilité publique - art. R13-51
 
 
 ###### Article **R13-40
@@ -7809,26 +7812,30 @@ Le président arrête le rôle et en informe les assesseurs appelés à composer
 
 Les parties et le commissaire du Gouvernement sont convoqués à l'audience par le greffier.
 
-Les parties peuvent se faire assister ou représenter par un avocat régulièrement inscrit, par un avoué près la cour d'appel
-ou par un parent ou allié, jusqu'au sixième degré, muni d'un pouvoir régulier.
+Les parties peuvent se faire assister ou représenter par un avocat régulièrement inscrit ou par un parent ou allié, jusqu'au
+sixième degré, muni d'un pouvoir régulier.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-1335 1959-11-20 art. 58
-
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+	  - Décret n°77-393 du 28 mars 1977
 
 	**Modifié par**:
 
-	  - Décret n°2005-467 du 13 mai 2005 - art. 55 () JORF 15 mai 2005 en vigueur le 1er août 2005
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
 	**Cité par**:
 
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-39 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R311-27 (V)
 
 
 ###### Article **R13-53
