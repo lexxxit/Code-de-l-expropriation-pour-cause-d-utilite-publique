@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2012-05-06
+Version Consolidée au 2012-06-01
 
 # Partie législative
 
@@ -3340,6 +3340,8 @@ Des dispositions particulières concernant l'expropriation figurent notamment :
 
 #### Section 1 : Déclaration d'utilité publique.
 
+##### Sous-section 1 : Autorité compétente pour déclarer l'utilité publique.
+
 ###### Article **R11-1
 
 L'utilité publique, dans les cas autres que ceux énumérés à l'article **R. 11-2, est déclarée : 
@@ -3358,9 +3360,7 @@ routière nationale lorsque la voie appartient au domaine public de l'Etat, par 
 
 **Nota:**
 
-Décret n° 2009-382 du 6 avril 2009 article 3 : Les dispositions des articles R. 11-1 et R. 11-2 du code de l'expropriation
-pour cause d'utilité publique, dans leur rédaction issue de l'article 2 du présent décret, s'appliquent aux opérations pour
-lesquelles la clôture de l'enquête préalable est intervenue à compter du 1er mars 2008.
+
 
 **Liens relatifs à cet article**
 
@@ -3368,10 +3368,7 @@ lesquelles la clôture de l'enquête préalable est intervenue à compter du 1er
 
 	  - TXT_SOURCE: Décret n°2004-127 du 9 février 2004
 	  - TXT_SOURCE: Décret n°2004-127 du 9 février 2004 - art. 4 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2009-382 du 6 avril 2009 - art. 2
+	  - DEPLACE: Décret n°2011-2018 du 29 décembre 2011 - art. 4
 
 	**Cité par**:
 
@@ -3382,6 +3379,14 @@ lesquelles la clôture de l'enquête préalable est intervenue à compter du 1er
 	  - Code forestier (nouveau) - art. R142-4 (VD)
 	  - Code de l'environnement - art. R555-35 (V)
 	  - Code de la voirie routière - art. R*171-6 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R121-1 (V)
 
 	**Cite**:
 
@@ -3435,50 +3440,59 @@ mégawatts et d'installations liées à la production et au développement de l'
 	  - TXT_SOURCE: Décret n°2002-152 du 7 février 2002 - art. 1 ()
 	  - TXT_SOURCE: Décret n°2004-127 du 9 février 2004
 	  - TXT_SOURCE: Décret n°2004-127 du 9 février 2004 - art. 4 (V)
+	  - DEPLACE: Décret n°2011-2018 du 29 décembre 2011 - art. 4
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2012-615 du 2 mai 2012 - art. 12
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R121-2 (V)
+
+
+##### Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement.
+
+##### Sous-section 2 : Procédure d'enquête publique préalable en application du III de l'article L. 11-1.
 
 ###### Article **R11-3
 
-L'expropriant adresse au préfet pour être soumis à l'enquête un dossier qui comprend obligatoirement :
+L'expropriant adresse au préfet pour être soumis à l'enquête un dossier qui comprend obligatoirement : 
 
-I.- Lorsque la déclaration d'utilité publique est demandée en vue de la réalisation de travaux ou d'ouvrages :
+I.-Lorsque la déclaration d'utilité publique est demandée en vue de la réalisation de travaux ou d'ouvrages : 
 
-1° Une notice explicative ;
+1° Une notice explicative ; 
 
-2° Le plan de situation ;
+2° Le plan de situation ; 
 
-3° Le plan général des travaux ;
+3° Le plan général des travaux ; 
 
-4° Les caractéristiques principales des ouvrages les plus importants ;
+4° Les caractéristiques principales des ouvrages les plus importants ; 
 
-5° L'appréciation sommaire des dépenses ;
+5° L'appréciation sommaire des dépenses ; 
 
 6° L'étude d'impact définie à l'article R. 122-3 du code de l'environnement, lorsque les ouvrages ou travaux n'en sont pas
-dispensés ou, s'il y a lieu, la notice exigée en vertu de l'article R. 122-9 du même code ;
+dispensés ou, s'il y a lieu, la notice exigée en vertu de l'article R. 122-9 du même code ; 
 
 7° L'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pris pour l'application de l'article 14 de la
 loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, lorsque les travaux constituent un grand projet
-d'infrastructures tels que défini à l'article 3 du même décret.
+d'infrastructures tels que défini à l'article 3 du même décret. 
 
-II.- Lorsque la déclaration d'utilité publique est demandée en vue de l'acquisition d'immeubles, ou lorsqu'elle est demandée
+II.-Lorsque la déclaration d'utilité publique est demandée en vue de l'acquisition d'immeubles, ou lorsqu'elle est demandée
 en vue de la réalisation d'une opération d'aménagement ou d'urbanisme importante et qu'il est nécessaire de procéder à
-l'acquisition des immeubles avant que le projet n'ait pu être établi :
+l'acquisition des immeubles avant que le projet n'ait pu être établi : 
 
-1° Une notice explicative ;
+1° Une notice explicative ; 
 
-2° Le plan de situation ;
+2° Le plan de situation ; 
 
-3° Le périmètre délimitant les immeubles à exproprier ;
+3° Le périmètre délimitant les immeubles à exproprier ; 
 
-4° L'estimation sommaire des acquisitions à réaliser.
+4° L'estimation sommaire des acquisitions à réaliser. 
 
 Dans les cas prévus aux I et II ci-dessus, la notice explicative indique l'objet de l'opération et les raisons pour
 lesquelles, notamment du point de vue de l'insertion dans l'environnement, parmi les partis envisagés, le projet soumis à
-l'enquête a été retenu.
+l'enquête a été retenu. 
 
 La notice explicative comprend, s'il y a lieu, les indications mentionnées à l'article R. 122-15 du code de l'environnement.
 
@@ -3521,44 +3535,56 @@ La notice explicative comprend, s'il y a lieu, les indications mentionnées à l
 
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+	  - Décret n°77-393 du 28 mars 1977
 
 	**Cite**:
 
-	  - Loi n°82-1153 1982-12-30 art. 14
-	  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
-	  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
+	  - Loi n°82-1153 du 30 décembre 1982 - art. 14
+	  - Décret n°84-617 du 17 juillet 1984 - art. 3
+	  - Décret n°84-617 du 17 juillet 1984 - art. 5
+	  - Code de l'environnement - art. R122-15
+	  - Code de l'environnement - art. R122-3
+	  - Code de l'environnement - art. R122-9
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+	  - DEPLACE: Décret n°2011-2018 du 29 décembre 2011 - art. 4
 
+	**Abrogé par**:
 
-##### Sous-section 1 : Procédure d'enquête préalable de droit commun.
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-4 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-5 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-6 (VT)
+
 
 ###### Article **R11-4
 
 Le préfet désigne par arrêté un commissaire enquêteur ou une commission d'enquête dont il nomme le président. Les membres de
 la commission d'enquête sont en nombre impair. Lorsque l'enquête est préalable à une déclaration d'utilité publique, le
-commissaire enquêteur ou la commission d'enquête sont désignés dans les conditions fixées à l'article R. 11-14-3.
+commissaire enquêteur ou la commission d'enquête sont désignés dans les conditions fixées aux articles R. 123-5 et suivants
+du code de l'environnement. 
 
-Le préfet, après consultation du commissaire enquêteur ou du président de la commission d'enquête, précise par arrêté :
+Le préfet, après consultation du commissaire enquêteur ou du président de la commission d'enquête, précise par arrêté : 
 
-1° L'objet de l'enquête, la date à laquelle celle-ci sera ouverte et sa durée qui ne peut être inférieure à quinze jours ;
+1° L'objet de l'enquête, la date à laquelle celle-ci sera ouverte et sa durée qui ne peut être inférieure à quinze jours ; 
 
 2° Les heures et le lieu où le public pourra prendre connaissance du dossier et formuler ses observations sur un registre
 ouvert à cet effet. Ce registre, à feuillets non mobiles, est coté et paraphé par le commissaire enquêteur, le président de
-la commission d'enquête ou l'un des membres de celle-ci.
+la commission d'enquête ou l'un des membres de celle-ci. 
 
 Un avis au public faisant connaitre l'ouverture de l'enquête est, par les soins du préfet, publié en caractères apparents
 huit jours au moins avant le début de l'enquête et rappelé dans les huit premiers jours de celle-ci dans deux journaux
 régionaux ou locaux diffusés dans tout le département ou tous les départements interéssés Pour les opérations d'importance
-nationale, ledit avis est, en outre, publié dans deux journaux à diffusion nationale huit jours avant le début de l'enquête.
+nationale, ledit avis est, en outre, publié dans deux journaux à diffusion nationale huit jours avant le début de l'enquête. 
 
 Huit jours au moins avant l'ouverture de l'enquête et durant toute la durée de celle-ci, cet avis est publié par voie
 d'affiches et, éventuellement, par tous autres procédés, dans chacune des communes désignées par le préfet ; cette
 désignation porte au minimum sur toutes les communes sur le territoire desquelles l'opération doit avoir lieu.
-L'accomplissement de cette mesure de publicité incombe au maire et est certifié par lui.
+L'accomplissement de cette mesure de publicité incombe au maire et est certifié par lui. 
 
 Lorsque certaines de ces communes sont situées dans un autre département, le préfet prend l'accord du préfet de ce
 département pour cette désignation. Ce dernier fait assurer la publication de l'avis dans ces communes selon les modalités
@@ -3570,10 +3596,6 @@ Décret 2002-1341 du 5 novembre 2002 art. 8 : Le présent décret ne s'applique 
 postérieurement au 31 décembre 2002.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-701 1959-06-06 (Décret 76-432 1976-05-14 art. 2)
 
 	**Cité par**:
 
@@ -3587,7 +3609,6 @@ postérieurement au 31 décembre 2002.
 	  - Décret n°2004-309 du 29 mars 2004 - art. 5 (Ab)
 	  - Décret n°2005-992 du 16 août 2005 - art. 2 (Ab)
 	  - Décret n°2005-992 du 16 août 2005 - art. 7 (Ab)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R*11-10 (V)
 	  - CODE DES COMMUNES. - art. R*165-29 (Ab)
 	  - Code de l'aviation civile - art. R242-1 (M)
 	  - Code de l'environnement - art. R214-64-1 (VD)
@@ -3598,6 +3619,7 @@ postérieurement au 31 décembre 2002.
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-14 (VT)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-7 (VT)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-8 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. *R11-10 (VT)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. R11-20 (VT)
 	  - Code de l'urbanisme - art. R*160-17 (M)
 	  - Code de l'urbanisme - art. R*215-6 (Ab)
@@ -3620,25 +3642,35 @@ postérieurement au 31 décembre 2002.
 
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-630 1983-07-12
+	  - Décret n°77-393 du 28 mars 1977
 
 	**Modifié par**:
 
-	  - Décret n°2002-1341 du 5 novembre 2002 - art. 4 () JORF 13 novembre 2002
+	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-3 (M)
+	  - Code de l'environnement - art. R123-5
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-1 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-2 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-3 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-12 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-14 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-15 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-16 (V)
 
 
 ###### Article **R11-5
 
 Le commissaire enquêteur ou les membres de la commission d'enquête sont choisis parmi les personnes figurant sur l'une des
-listes d'aptitude prévues au deuxième alinéa de l'article L. 123-4 du code de l'environnement.
+listes d'aptitude prévues au premier alinéa de l'article L. 123-4 du code de l'environnement. 
 
 Ne peuvent être désignées pour exercer les fonctions de commissaire enquêteur les personnes appartenant à l'administration de
 la collectivité ou de l'organisme expropriant ou participant à son contrôle ou les personnes intéressées à l'opération soit à
@@ -3650,10 +3682,6 @@ Décret 2002-1341 du 5 novembre 2002 art. 8 : Le présent décret ne s'applique 
 postérieurement au 31 décembre 2002.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-701 1959-06-06 art. 3 (Décret 76-432 1976-05-14 ART. 3)
 
 	**Cité par**:
 
@@ -3680,35 +3708,43 @@ postérieurement au 31 décembre 2002.
 
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+	  - Décret n°77-393 du 28 mars 1977
 
 	**Modifié par**:
 
-	  - Décret n°2002-1341 du 5 novembre 2002 - art. 5 () JORF 13 novembre 2002
+	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L123-4 (V)
+	  - Code de l'environnement - art. L123-4
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-4 (VT)
 
 
 ###### Article **R11-6
 
 Sous réserve des dispositions de l'article R. 11-6-1 applicables aux enquêtes préalables à une déclaration d'utilité
 publique, l'indemnisation des commissaires enquêteurs et des membres des commissions d'enquête est assurée dans les
-conditions définies ci-après.
+conditions définies ci-après. 
 
 Les commissaires enquêteurs et les membres des commissions d'enquête ont droit à une indemnité, à la charge du maître
-d'ouvrage, qui comprend des vacations et le remboursement des frais qu'ils engagent pour l'accomplissement de leur mission.
+d'ouvrage, qui comprend des vacations et le remboursement des frais qu'ils engagent pour l'accomplissement de leur mission. 
 
 Le préfet qui a désigné le commissaire enquêteur ou les membres de la commission d'enquête détermine le nombre des vacations
 allouées au commissaire enquêteur sur la base du nombre d'heures que le commissaire enquêteur déclare avoir consacrées à
 l'enquête, en tenant compte des difficultés de l'enquête ainsi que de la nature et de la qualité du travail fourni par celui-
-ci.
+ci. 
 
-Il arrête, sur justificatifs, le montant des frais qui seront remboursés au commissaire enquêteur.
+Il arrête, sur justificatifs, le montant des frais qui seront remboursés au commissaire enquêteur. 
 
 Il fixe par arrêté le montant de l'indemnité ; cet arrêté est notifié au commissaire enquêteur et au maître d'ouvrage, lequel
-verse sans délai au commissaire enquêteur le montant de l'indemnité indiqué.
+verse sans délai au commissaire enquêteur le montant de l'indemnité indiqué. 
 
 Un arrêté conjoint des ministres chargés de l'environnement, de l'équipement, du budget et de l'intérieur fixe les modalités
 de calcul de l'indemnité.
@@ -3720,75 +3756,81 @@ postérieurement au 31 décembre 2002.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-701 du 6 juin 1959 - art. 4 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-	**Modifié par**:
-
-	  - Décret n°2002-1341 du 5 novembre 2002 - art. 6 () JORF 13 novembre 2002
+	  - Décret n°77-393 du 28 mars 1977
 
 	**Cité par**:
 
 	  - Décret n°2006-504 du 3 mai 2006 - art. 8 (V)
 	  - Code de l'aviation civile - art. R242-1 (M)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R11-20 (VT)
 	  - Code de l'urbanisme - art. R*318-7 (M)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2011-2018 du 29 décembre 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-6 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-7 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-8 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-9 (V)
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-6-1 (M)
+	  - Code de l'expropriation pour cause d'utilité publique - art. R11-6-1
 
 
 ###### Article **R11-7
 
 Sous réserve des dispositions prévues aux articles **R. 11-13 et **R. 11-14, l'enquête s'ouvre soit à la préfecture, soit à
-la sous-préfecture, soit à la mairie d'une des communes sur les territoires desquelles l'opération est projetée.
+la sous-préfecture, soit à la mairie d'une des communes sur les territoires desquelles l'opération est projetée. 
 
-Tous documents, plans et maquettes établis par l'expropriant peuvent préciser les opérations projetées.
+Tous documents, plans et maquettes établis par l'expropriant peuvent préciser les opérations projetées. 
 
 L'arrêté du préfet peut, en outre, ordonner le dépôt pendant le délai et à partir de la date fixés à l'article **R. 11-4,
 dans chacune des mairies des communes qu'il désigne à cet effet, d'un registre subsidiaire sur feuilles non mobiles, coté et
-paraphé par le maire, et d'un dossier sommaire donnant les caractéristiques principales des ouvrages les plus importants.
+paraphé par le maire, et d'un dossier sommaire donnant les caractéristiques principales des ouvrages les plus importants. 
 
 Lorsque l'opération doit être exécutée sur le territoire d'une seule commune, un double du dossier est obligatoirement déposé
-à la mairie de cette commune, si l'enquête est ouverte dans une autre localité *publicité*.
+à la mairie de cette commune, si l'enquête est ouverte dans une autre localité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-701 du 6 juin 1959 - art. 5 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
-
-	**Créé par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977 rectificatif JORF 29 juin 1977
-
-	**Modifié par**:
-
-	  - Décret n°85-453 du 23 avril 1985 - art. 22 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-	  - Décret n°85-453 du 23 avril 1985 - art. 26 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
+	  - Décret n°77-393 du 28 mars 1977
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
+	  - DEPLACE: Décret n°2011-2018 du 29 décembre 2011 - art. 4
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-13 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R242-1 (M)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-14 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-10 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-13 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-7 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-8 (V)
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité publique - art. R11-13
+	  - Code de l'expropriation pour cause d'utilité publique - art. R11-4
 
 
 ###### Article **R11-8
@@ -3798,8 +3840,8 @@ par les intéressés directement sur les registres d'enquête. Elles peuvent ég
 par le préfet pour l'ouverture de l'enquête, au commissaire enquêteur ou au président de la commission d'enquête, lequel les
 annexe au registre mentionné à l'article précité. 
 
-Il en est de même pour les observations qui seraient présentées par les chambres d'agriculture, les      chambres de commerce
-et d'industrie territoriales et les chambres de métiers et de l'artisanat de région. 
+Il en est de même pour les observations qui seraient présentées par les chambres d'agriculture, les chambres de commerce et
+d'industrie territoriales et les chambres de métiers et de l'artisanat de région. 
 
 Indépendamment des dispositions qui précèdent, les observations faites sur l'utilité publique de l'opération sont également
 reçues par le commissaire enquêteur ou par un des membres de la commission d'enquête aux lieu, jour et heure annoncés à
@@ -3819,9 +3861,17 @@ l'avance, lorsque l'arrêté prévu à l'article **R. 11-4 en a ainsi disposé.
 
 	  - Décret n°77-393 du 28 mars 1977
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+	  - DEPLACE: Décret n°2011-2018 du 29 décembre 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-17 (V)
 
 	**Cite**:
 
@@ -3836,26 +3886,17 @@ quatre heures, avec le dossier d'enquête, au commissaire enquêteur ou au prés
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-701 du 6 juin 1959 - art. 7 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
-
-	**Modifié par**:
-
-	  - Décret n°85-453 du 23 avril 1985 - art. 22 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-	  - Décret n°85-453 du 23 avril 1985 - art. 26 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
+	  - Décret n°77-393 du 28 mars 1977
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
+	  - DEPLACE: Décret n°2011-2018 du 29 décembre 2011 - art. 4
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-13 (M)
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
 	**Cité par**:
 
@@ -3863,40 +3904,48 @@ quatre heures, avec le dossier d'enquête, au commissaire enquêteur ou au prés
 	  - Code de l'urbanisme - art. R*318-10 (M)
 	  - Code de l'urbanisme - art. R*318-6 (V)
 
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-18 (V)
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité publique - art. R11-13
+
 
 ###### Article **R11-11
 
 Une copie du rapport dans lequel le commissaire enquêteur ou la commission énonce ses conclusions motivées est déposée à la
-mairie de la commune où s'est déroulée l'enquête [*publicité*] ainsi que dans les communes qui ont fait l'objet de la
-désignation prévue à l'article **R. 11-4. Une copie du même document est, en outre, déposée dans les sous-préfectures et
-préfectures des départements où se trouvent ces communes.
+mairie de la commune où s'est déroulée l'enquête ainsi que dans les communes qui ont fait l'objet de la désignation prévue à
+l'article **R. 11-4. Une copie du même document est, en outre, déposée dans les sous-préfectures et préfectures des
+départements où se trouvent ces communes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-701 1959-06-06 art. 8-1 (Décret 76-432 1976-05-14 art. 6)
-
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-	**Modifié par**:
-
-	  - Décret n°85-453 du 23 avril 1985 - art. 22 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
+	  - Décret n°77-393 du 28 mars 1977
 
 	**Cité par**:
 
 	  - Décret n°2006-504 du 3 mai 2006 - art. 11 (M)
 	  - Code de l'aviation civile - art. R242-1 (M)
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2011-2018 du 29 décembre 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-21 (V)
+
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
+	  - Code de l'expropriation pour cause d'utilité publique - art. R11-4
 
 
 ###### Article **R11-12
@@ -3911,22 +3960,9 @@ desdites conclusions en vue de leur diffusion aux demandeurs.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-701 1959-06-06 ART. 8-2 (Décret 76-432 1976-05-14 ART. 7)
-
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-	**Modifié par**:
-
-	  - Décret n°85-453 du 23 avril 1985 - art. 22 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-	  - Décret n°85-453 du 23 avril 1985 - art. 26 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
+	  - Décret n°77-393 du 28 mars 1977
 
 	**Cité par**:
 
@@ -3934,40 +3970,47 @@ desdites conclusions en vue de leur diffusion aux demandeurs.
 	  - Code de l'aviation civile - art. R242-1 (M)
 	  - Code de l'urbanisme - art. R*143-9 (Ab)
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2011-2018 du 29 décembre 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-24 (V)
+
 
 ###### Article **R11-13
 
 Lorsque l'opération projetée doit être exécutée sur le territoire et pour le compte d'une seule commune, l'enquête publique
 s'ouvre à la mairie de cette commune.
 
-Le registre d'enquête est clos et signé par le commissaire enquêteur ou le président de la commission d'enquête [*autorité
-compétente *] qui, dans un délai d'un mois à compter de la date de la clôture, transmet au maire le dossier et le registre
-accompagnés de ses conclusions motivées.
+Le registre d'enquête est clos et signé par le commissaire enquêteur ou le président de la commission d'enquête qui, dans un
+délai d'un mois à compter de la date de la clôture, transmet au maire le dossier et le registre accompagnés de ses
+conclusions motivées.
 
 Si les conclusions du commissaire enquêteur ou de la commission d'enquête sont défavorables à l'adoption du projet, le
 conseil municipal est appelé à émettre son avis par une délibération motivée dont le procès-verbal est joint au dossier
 transmis au sous-préfet ; celui-ci transmet ensuite l'ensemble des pièces au préfet, avec son avis. Faute de délibération
 dans un délai de trois mois à compter de la transmission du dossier au maire, le conseil municipal est regardé comme ayant
-renoncé [*tacitement*] à l'opération.
+renoncé à l'opération.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-701 1959-06-06 art. 9 (Décret 76-432 1976-05-14 art. 4 II)
-
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-	**Modifié par**:
-
-	  - Décret n°85-453 du 23 avril 1985 - art. 22 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-	  - Décret n°85-453 du 23 avril 1985 - art. 23 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
+	  - Décret n°77-393 du 28 mars 1977
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
+	  - DEPLACE: Décret n°2011-2018 du 29 décembre 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
 	**Cité par**:
 
@@ -3976,90 +4019,12 @@ renoncé [*tacitement*] à l'opération.
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-9 (VT)
 	  - Code de l'urbanisme - art. R*318-10 (M)
 
+	**Nouveaux textes**:
 
-###### Article *R11-10
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-22 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-23 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-9 (V)
 
-Le commissaire enquêteur ou la commission examine [*attributions*] les observations consignées ou annexées aux registres et
-entend toutes personnes qu'il paraît utile de consulter ainsi que l'expropriant s'il le demande.
-
-Le commissaire enquêteur ou la commission d'enquête rédige des conclusions motivées, en précisant si elles sont favorables ou
-non à l'opération. Le commissaire enquêteur ou le président de la commission d'enquête transmet le dossier avec ses
-conclusions soit au préfet si l'enquête est ouverte à la préfecture, soit au sous-préfet dans les autres cas. Le dossier est
-transmis, le cas échéant, par le sous-préfet au préfet avec son avis.
-
-Ces opérations, dont il est dressé procès-verbal, doivent être terminées dans un délai d'un mois à compter de l'expiration du
-délai d'enquête fixé dans l'arrêté du préfet visé à l'article **R. 11-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-701 1959-06-06 art. 8 (Décret 76-432 1976-05-14 ART. 5)
-
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-630 1983-07-12
-	  - SPEC_APPLI: Décret n°85-453 1985-04-23 art. 43 : application dans le temps
-	  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
-
-	**Modifié par**:
-
-	  - Décret n°85-453 1985-04-23 art. 22, art. 23 II, III, art. 26 JORF 24 avril 1985 en vigueur le 1er octobre 1985
-	  - Décret n°85-453 du 23 avril 1985 - art. 22 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-	  - Décret n°85-453 du 23 avril 1985 - art. 23 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-	  - Décret n°85-453 du 23 avril 1985 - art. 26 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-
-	**Cite**:
-
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R242-1 (M)
-	  - Code de l'urbanisme - art. R*318-10 (M)
-
-
-###### Article R11-6-1
-
-Pour les enquêtes préalables à une déclaration d'utilité publique, l'indemnisation des commissaires enquêteurs et des membres
-des commissions d'enquête est assurée dans les conditions prévues aux articles R. 123-10 et R. 123-12 du code de
-l'environnement.
-
-**Nota:**
-
-Décret 2002-1341 du 5 novembre 2002 art. 8 : Le présent décret ne s'applique qu'aux enquêtes ouvertes par un arrêté pris
-postérieurement au 31 décembre 2002.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-	**Cité par**:
-
-	  - Décret n°85-453 du 23 avril 1985 - art. 10-2 (Ab)
-	  - Code de l'environnement - art. R123-12 (V)
-	  - Code de l'environnement - art. R123-26 (V)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-6 (VT)
-	  - Code de l'urbanisme - art. R*313-23 (V)
-
-	**Cite**:
-
-	  - Décret n°2002-1341 2002-11-05
-	  - Code de l'environnement - art. R123-10 (V)
-	  - Code de l'expropriation pour cause d'utilite publique 8
-
-	**Modifié par**:
-
-	  - Décret n°2005-935 2005-08-02 art. 8 JORF 5 août 2005
-
-
-##### Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement.
 
 ###### Article **R11-14
 
@@ -4110,103 +4075,18 @@ intéressés, lesquels formulent leur avis sur l'opération projetée.
 	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-18 (V)
 
 
-###### Article R11-14-1
+###### Article *R11-10
 
-Les dispositions de la présente sous-section sont applicables aux enquêtes préalables à la déclaration d'utilité publique des
-aménagements, ouvrages ou travaux appartenant aux catégories définies par les articles R. 123-1 à R. 123-33 du code de
-l'environnement.
+Le commissaire enquêteur ou la commission examine les observations consignées ou annexées aux registres et entend toutes
+personnes qu'il paraît utile de consulter ainsi que l'expropriant s'il le demande. 
 
-**Liens relatifs à cet article**
+Le commissaire enquêteur ou la commission d'enquête rédige des conclusions motivées, en précisant si elles sont favorables ou
+non à l'opération. Le commissaire enquêteur ou le président de la commission d'enquête transmet le dossier avec ses
+conclusions soit au préfet si l'enquête est ouverte à la préfecture, soit au sous-préfet dans les autres cas. Le dossier est
+transmis, le cas échéant, par le sous-préfet au préfet avec son avis. 
 
-	**Codifié par**:
-
-	  - Décret n°77-393 du 28 mars 1977
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-630 1983-07-12
-
-	**Cité par**:
-
-	  - Décret n°85-453 du 23 avril 1985 - art. 4 (Ab)
-	  - Décret n°92-273 du 23 mars 1992 - art. 3 (AbD)
-	  - Arrêté du 25 avril 1995 - art. 2 (V)
-	  - Code de l'aviation civile - art. R211-5 (V)
-	  - Code de l'environnement - art. R123-4 (V)
-	  - Code de l'environnement - art. R214-64-1 (VD)
-	  - Code de l'urbanisme - art. R*122-11 (V)
-	  - Code de l'urbanisme - art. R*123-19 (V)
-	  - Code de l'urbanisme - art. R*123-23 (T)
-	  - Code de l'urbanisme - art. R*123-35-3 (Ab)
-	  - Code de l'urbanisme - art. R*311-12 (M)
-	  - Code de l'urbanisme - art. R*315-18-1 (Ab)
-	  - Code de l'urbanisme - art. R*423-58 (M)
-	  - Code de l'urbanisme - art. R313-11 (V)
-	  - Code de l'urbanisme - art. R421-17 (M)
-	  - Code forestier (nouveau) - art. R341-6 (VD)
-
-	**Modifié par**:
-
-	  - Décret n°2005-935 2005-08-02 art. 8 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
-
-	**Cite**:
-
-	  - Code de l'environnement
-
-
-###### Article R11-14-2
-
-L'expropriant adresse au préfet, pour être soumis à enquête, un dossier constitué conformément à l'article **R. 11-3 et
-comprenant, en outre, un document mentionnant les textes qui régissent l'enquête et indiquant la façon dont cette enquête
-s'insère dans la procédure administrative relative à l'opération considérée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-630 1983-07-12
-
-	**Cité par**:
-
-	  - Décret n°93-139 du 3 février 1993 - art. 6 (Ab)
-	  - Décret n°96-1008 du 18 novembre 1996 - art. 8 (Ab)
-	  - Code de l'aviation civile - art. R211-5 (V)
-	  - Code de l'environnement - art. R541-22 (V)
-	  - Code de l'urbanisme - art. R*123-19 (VT)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
-
-	**Cite**:
-
-	  - Code de l'environnement
-	  - Code de l'expropriation pour cause d'utilité publique - art. R11-3
-
-
-###### Article R11-14-3
-
-Le préfet saisit, en vue de la désignation d'un commissaire enquêteur ou d'une commission d'enquête, le président du tribunal
-administratif dans le ressort duquel doit être réalisée l'opération ou la plus grande partie de l'opération soumise à enquête
-et lui adresse à cette fin une demande précisant l'objet de l'enquête ainsi que la période d'enquête retenue.
-
-Le président du tribunal administratif ou le membre du tribunal délégué à cette fin désigne dans un délai de quinze jours un
-commissaire enquêteur ou les membres, en nombre impair, d'une commission d'enquête parmi lesquels il choisit un président.
-
-Un ou plusieurs suppléants peuvent être désignés dans les mêmes conditions ; ils remplacent les titulaires en cas
-d'empêchement de ces derniers et exercent alors leurs fonctions jusqu'au terme de la procédure.
+Ces opérations, dont il est dressé procès-verbal, doivent être terminées dans un délai d'un mois à compter de l'expiration du
+délai d'enquête fixé dans l'arrêté du préfet visé à l'article **R. 11-4.
 
 **Liens relatifs à cet article**
 
@@ -4216,34 +4096,36 @@ d'empêchement de ces derniers et exercent alors leurs fonctions jusqu'au terme 
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-630 1983-07-12
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+	  - DEPLACE: Décret n°2011-2018 du 29 décembre 2011 - art. 4
 
 	**Abrogé par**:
 
-	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
-
-	**Cite**:
-
-	  - Code de l'environnement
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
 	**Cité par**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (V)
-	  - Code de l'aviation civile - art. R211-5 (V)
-	  - Code général de la propriété des personnes publ... - art. R2124-27 (VT)
+	  - Code de l'aviation civile - art. R242-1 (M)
+	  - Code de l'urbanisme - art. R*318-10 (M)
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-4 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-19 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-20 (V)
 
 
-###### Article R11-14-4
+###### Article R11-6-1
 
-Ne peuvent être désignées pour exercer les fonctions de commissaire enquêteur les personnes intéressées à l'opération soit à
-titre personnel, soit en raison des fonctions qu'elles exercent ou ont exercées depuis moins de cinq ans.
+Pour les enquêtes préalables à une déclaration d'utilité publique, l'indemnisation des commissaires enquêteurs et des membres
+des commissions d'enquête est assurée dans les conditions prévues aux articles R. 123-25 à R. 123-27 du même code.
 
-L'indemnisation du commissaire enquêteur ou des membres de la commission d'enquête est assurée dans les conditions prévues
-aux articles R. 123-10 et R. 123-11 du code de l'environnement.
+**Nota:**
+
+Décret 2002-1341 du 5 novembre 2002 art. 8 : Le présent décret ne s'applique qu'aux enquêtes ouvertes par un arrêté pris
+postérieurement au 31 décembre 2002.
 
 **Liens relatifs à cet article**
 
@@ -4251,470 +4133,34 @@ aux articles R. 123-10 et R. 123-11 du code de l'environnement.
 
 	  - Décret n°77-393 du 28 mars 1977
 
-	**Liens**:
+	**Cité par**:
 
-	  - TXT_SOURCE: Loi n°83-630 1983-07-12
-	  - SPEC_APPLI: Décret n°98-622 du 20 juillet 1998 - art. 13 (Ab)
+	  - Décret n°85-453 du 23 avril 1985 - art. 10-2 (Ab)
+	  - Code de l'environnement - art. R123-12 (V)
+	  - Code de l'environnement - art. R123-26 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-6 (VT)
+	  - Code de l'urbanisme - art. R*313-23 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2005-935 2005-08-02 art. 8 JORF 5 août 2005
+	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
 
 	**Abrogé par**:
 
-	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
 	**Cite**:
 
-	  - Code de l'environnement
-	  - Code de l'environnement - art. R123-10
-	  - Code de l'environnement - art. R123-11
+	  - Code de l'environnement - art. R123-25
 
-	**Cité par**:
+	**Nouveaux textes**:
 
-	  - Code de l'aviation civile - art. R211-5 (V)
-
-
-###### Article R11-14-5
-
-Le préfet, après consultation du commissaire enquêteur ou du président de la commission d'enquête, précise par arrêté
-*contenu* :
-
-1° L'objet de l'enquête, la date à laquelle elle sera ouverte et sa durée qui ne peut être inférieure à un mois, ni excéder
-deux mois, sauf prorogation d'une durée maximum de quinze jours décidée par le commissaire enquêteur ou le président de la
-commission d'enquête ;
-
-2° Le siège de l'enquête où toute correspondance relative à l'enquête peut être adressée ;
-
-3° Les lieux, jours et heures où le public pourra consulter le dossier d'enquête et présenter ses observations sur le
-registre ouvert à cet effet ; ces jours comprennent au minimum les jours habituels d'ouverture au public du lieu de dépôt du
-dossier et peuvent en outre comprendre plusieurs demi-journées prises parmi les samedis, dimanches et jours fériés ;
-
-4° Les noms et qualités du commissaire enquêteur ou des membres de la commission d'enquête et de leurs suppléants éventuels ;
-
-5° Les lieux, jours et heures où le commissaire enquêteur ou un membre de la commission d'enquête se tiendra à la disposition
-du public pour recevoir ses observations ;
-
-6° Le ou les lieux où, à l'issue de l'enquête, le public pourra consulter le rapport et les conclusions du commissaire
-enquêteur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-	**Cité par**:
-
-	  - Décret n°93-1182 du 21 octobre 1993 - art. 2 (Ab)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R11-14-7 (VT)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R11-14-9 (VT)
-	  - Code de l'aviation civile - art. R211-5 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
-
-
-###### Article R11-14-6
-
-Lorsque l'opération doit être réalisée sur le territoire de plusieurs départements, l'enquête est ouverte et organisée par un
-arrêté conjoint des préfets des départements intéressés. Le préfet du département où doit être réalisée la plus grande partie
-de l'opération est alors chargé de coordonner l'organisation de l'enquête et d'en centraliser les résultats.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-393 du 28 mars 1977
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-630 1983-07-12
-	  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
-
-	**Cite**:
-
-	  - Code de l'environnement
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R211-5 (V)
-
-
-###### Article R11-14-7
-
-Un avis portant les indications mentionnées à l'article R. 11-14-5 à la connaissance du public est, par les soins du préfet,
-publié, en caractères apparents, dans deux journaux régionaux ou locaux diffusés dans le ou les départements concernés, au
-moins quinze jours avant le début de l'enquête et rappelé de même dans les huit premiers jours de celle-ci.
-
-Pour les opérations d'importance nationale, ledit avis est, en outre, publié dans deux journaux à diffusion nationale quinze
-jours au moins avant le début de l'enquête.
-
-Quinze jours au moins avant l'ouverture de l'enquête et durant toute la durée de celle-ci, cet avis est publié par voie
-d'affiches et, éventuellement, par tous autres procédés, dans chacune des communes désignées par le préfet ; cette
-désignation porte au minimum sur toutes les communes sur le territoire desquelles l'opération doit avoir lieu.
-L'accomplissement de cette mesure de publicité incombe au maire ; il est certifié par lui.
-
-Lorsque certaines de ces communes sont situées dans un autre département, le préfet prend l'accord du préfet de ce
-département pour cette désignation. Ce dernier fait assurer la publication de l'avis dans ces communes selon les modalités
-prescrites à l'alinéa précédent.
-
-En outre, dans les mêmes conditions de délai et de durée, et sauf impossibilité, il est procédé, par les soins de
-l'expropriant, à l'affichage du même avis sur les lieux ou en un lieu situé au voisinage des aménagements, ouvrages ou
-travaux projetés et visible de la voie publique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-	**Cité par**:
-
-	  - Décret n°93-742 du 29 mars 1993 - art. 5 (Ab)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R11-14-13 (VT)
-	  - Code de l'aviation civile - art. R211-5 (V)
-	  - Code de l'environnement - art. R214-64-1 (VD)
-	  - Code de l'environnement - art. R214-9 (V)
-	  - Code de l'environnement - art. R652-16 (VT)
-	  - Code de l'urbanisme - art. R*123-19 (VT)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
-
-	**Cite**:
-
-	  - Code de l'environnement
-	  - Code de l'expropriation pour cause d'utilité publique - art. R11-14-5
-
-
-###### Article R11-14-8
-
-Le préfet désigne le ou les lieux publics où un dossier et un registre sont tenus à la disposition du public ; ces lieux sont
-habituellement la mairie de la ou des communes sur le territoire desquelles l'opération est projetée et, le cas échéant, la
-préfecture ou la sous-préfecture.
-
-Lorsque l'opération doit être exécutée sur le territoire d'une seule commune, un dossier et un registre sont obligatoirement
-déposés à la mairie de cette commune.
-
-Lorsque l'opération soumise à enquête doit être exécutée sur le territoire de plusieurs communes, un exemplaire du dossier
-soumis à enquête est obligatoirement adressé pour information au maire de chacune des communes dont la mairie n'a pas été
-désignée comme lieu d'enquête.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-393 du 28 mars 1977
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
-
-	**Cite**:
-
-	  - Code de l'environnement
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R211-5 (V)
-
-
-###### Article R11-14-9
-
-Pendant la durée de l'enquête, les observations sur l'utilité publique de l'opération peuvent être consignées par les
-intéressés directement sur les registres d'enquête ; ces registres, établis sur feuillets non mobiles, sont cotés et paraphés
-par le commissaire enquêteur, le président de la commission d'enquête ou un membre de celle-ci. Elles peuvent également être
-adressées par correspondance au lieu fixé par le préfet, au commissaire enquêteur ou au président de la commission
-d'enquête ; elles sont tenues à la disposition du public. 
-
-Il en est de même pour les observations qui seraient présentées par les chambres d'agriculture, les      chambres de commerce
-et d'industrie territoriales et les chambres de métiers. 
-
-En outre, les observations faites sur l'utilité publique de l'opération sont également reçues par le commissaire enquêteur ou
-par un des membres de la commission d'enquête aux lieux, jours et heures annoncés à l'avance dans les conditions prévues à
-l'article R. 11-14-5.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-393 du 28 mars 1977
-
-	**Modifié par**:
-
-	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
-
-	**Cite**:
-
-	  - Code de l'environnement
-	  - Code de l'expropriation pour cause d'utilité publique - art. R11-14-5
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R211-5 (V)
-
-
-###### Article R11-14-10
-
-Lorsqu'il a l'intention de visiter les lieux concernés, à l'exception des lieux d'habitation, le commissaire enquêteur en
-informe le préfet, en lui précisant la date et l'heure de la visite projetée, afin de permettre à celui-ci d'en avertir au
-moins quarante-huit heures à l'avance les propriétaires et les occupants.
-
-Lorsque ceux-ci n'ont pu être prévenus, ou en cas d'opposition de leur part, le commissaire enquêteur ou la commission
-d'enquête en fait mention dans le rapport d'enquête.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-393 du 28 mars 1977
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
-
-	**Cite**:
-
-	  - Code de l'environnement
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R211-5 (V)
-
-
-###### Article R11-14-11
-
-Lorsqu'il entend faire compléter le dossier par un document existant dans les conditions prévues aux articles L. 123-9 et L.
-123-10 du code de l'environnement, le commissaire enquêteur ou le président de la commission d'enquête en fait la demande à
-l'expropriant ; cette demande ne peut porter que sur des documents en la possession de l'expropriant.
-
-Le document ainsi obtenu ou le refus motivé de l'expropriant est versé au dossier tenu au siège de l'enquête.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
-
-	**Cite**:
-
-	  - Code de l'environnement
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R211-5 (V)
-
-
-###### Article R11-14-12
-
-Lorsqu'il estime que l'importance ou la nature de l'opération, ou les conditions de déroulement de l'enquête publique rendent
-nécessaire l'organisation d'une réunion publique, le commissaire enquêteur ou le président de la commission d'enquête en fait
-part au préfet et à l'expropriant et leur indique les modalités qu'il propose pour l'organisation de cette réunion.
-
-Le préfet notifie au commissaire enquêteur ou au président de la commission d'enquête son accord ou son désaccord. Son
-éventuel désaccord est mentionné au dossier tenu au siège de l'enquête.
-
-En cas d'accord, le préfet et le commissaire enquêteur ou le président de la commission d'enquête arrêtent en commun, et en
-liaison avec l'expropriant, les modalités de l'information préalable du public et du déroulement de la réunion publique. Les
-dispositions ainsi arrêtées sont notifiées à l'expropriant.
-
-En tant que de besoin, la durée de l'enquête est prorogée dans les conditions prévues à l'article R. 11-14-13 pour permettre
-l'organisation de la réunion publique.
-
-A l'issue de la réunion publique, un rapport est établi par le commissaire enquêteur ou par le président de la commission
-d'enquête et adressé à l'expropriant.
-
-Ce rapport, ainsi que les observations éventuelles de l'expropriant sont annexés par le commissaire enquêteur ou par le
-président de la commission d'enquête au rapport de fin d'enquête.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
-
-	**Cite**:
-
-	  - Code de l'environnement
-	  - Code de l'expropriation pour cause d'utilité publique - art. R11-14-13
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R211-5 (V)
-
-
-###### Article R11-14-13
-
-Après avoir recueilli l'avis du préfet, le commissaire enquêteur ou la commission d'enquête peut, par décision motivée,
-prévoir que le délai de l'enquête sera prorogé d'une durée maximum de quinze jours.
-
-Sa décision doit être notifiée au préfet au plus tard huit jours avant la fin de l'enquête ; elle est portée à la
-connaissance du public, au plus tard à la date prévue initialement pour la fin de l'enquête, par un affichage [*publicité*]
-réalisé dans le conditions de lieu prévues au second alinéa de l'article R. 11-14-7 ainsi que, le cas échéant, par tout autre
-moyen approprié.
-
-Lorsqu'il est fait application des dispositions du présent article, l'accomplissement des formalités prévues à l'article R.
-11-14-14 est reporté à la clôture de l'enquête ainsi prorogée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
-
-	**Cite**:
-
-	  - Code de l'environnement
-	  - Code de l'expropriation pour cause d'utilité publique - art. R11-14-14
-	  - Code de l'expropriation pour cause d'utilité publique - art. R11-14-7
-
-	**Cité par**:
-
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R11-14-12 (VT)
-	  - Code de l'aviation civile - art. R211-5 (V)
-
-
-###### Article R11-14-14
-
-A l'expiration du délai d'enquête, le ou les registres d'enquête sont clos et signés, selon le ou les lieux du dépôt, par le
-préfet, le sous-préfet ou par le maire, puis transmis dans les vingt-quatre heures, avec le dossier d'enquête et les
-documents annexés, au commissaire enquêteur ou au président de la commission d'enquête. Toutefois, lorsque l'opération
-projetée doit être exécutée pour le compte d'une seule commune et sur son territoire, le registre d'enquête est clos et signé
-par le commissaire enquêteur.
-
-Le commissaire enquêteur ou la commission d'enquête examine les observations consignées ou annexées aux registres d'enquête
-et entend toute personne qu'il lui paraît utile de consulter ainsi que l'expropriant s'il le demande.
-
-Le commissaire enquêteur ou la commission d'enquête établit un rapport qui relate le déroulement de l'enquête et rédige des
-conclusions motivées, en précisant si elles sont favorables ou non à la déclaration d'utilité publique de l'opération.
-
-Le commissaire enquêteur ou le président de la commission d'enquête transmet, dans le délai d'un mois à compter de la date de
-clôture de l'enquête, le dossier avec les conclusions soit au préfet si l'enquête a pour siège la préfecture, soit au sous-
-préfet dans les autres cas. Le dossier est alors transmis, le cas échéant, par le sous-préfet au préfet avec son avis.
-
-Lorsque l'opération projetée doit être exécutée sur le territoire et pour le compte d'une seule commune et si les conclusions
-du commissaire enquêteur ou de la commission d'enquête sont défavorables à l'adoption du projet, le conseil municipal est
-appelé à émettre son avis par une délibération motivée dont le procès-verbal est joint au dossier transmis au sous-préfet ;
-celui-ci transmet ensuite l'ensemble des pièces au préfet avec son avis. Faute de délibération dans un délai de trois mois à
-compter de la transmission du dossier au maire, le conseil municipal est regardé comme ayant renoncé [*tacitement*] à
-l'opération.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-393 du 28 mars 1977
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
-
-	**Cite**:
-
-	  - Code de l'environnement
-
-	**Cité par**:
-
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R11-14-13 (VT)
-	  - Code de l'aviation civile - art. R211-5 (V)
-
-
-###### Article R11-14-15
-
-Le préfet adresse, dès leur réception, copie du rapport et des conclusions au président du tribunal administratif et à
-l'expropriant.
-
-Copie du rapport et des conclusions est également adressée à la mairie de chaque commune où s'est déroulée l'enquête ainsi
-qu'à la préfecture et à la sous-préfecture des départements où se trouvent ces communes, pour y être sans délai tenue à la
-disposition du public pendant un an à compter de la date de clôture de l'enquête.
-
-Par ailleurs, les personnes intéressées peuvent obtenir communication du rapport et des conclusions en s'adressant au préfet
-dans les conditions prévues au titre Ier de la loi du 17 juillet 1978.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-393 du 28 mars 1977
-
-	**Cite**:
-
-	  - Loi n°78-753 du 17 juillet 1978
-	  - Code de l'environnement
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R211-5 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-5 (T)
 
 
 ##### Sous-section 3 : Dispositions communes.
+
+##### Sous-section 3 : Avis et consultations spécifiques à certaines enquêtes.
 
 ###### Article **R11-16
 
