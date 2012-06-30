@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2012-06-01
+Version Consolidée au 2012-07-01
 
 # Partie législative
 
@@ -2831,12 +2831,12 @@ par des travaux s'étendant en dehors de l'établissement ;
 aménagé par l'Etat, les départements, les communes, les associations foncières ou les groupements de ces collectivités ainsi
 que leurs concessionnaires ; 
 
-5° Dans les périmètres de protection et de reconstitution forestières créés en application de l'article L. 321-6 du code
-forestier et dans les périmètres de restauration des terrains en montagne créés en application de l'article L. 424-1 du code
-forestier, les immeubles expropriés en application de ces dispositions. Les catégories de personnes auxquelles ces immeubles
-pourront être cédés de gré à gré sont fixées par décret en Conseil d'Etat. Pour ces cessions de gré à gré, une priorité sera
-accordée aux anciens propriétaires expropriés et à leurs ascendants et, en cas de refus de leur part, aux collectivités
-locales. 
+5° Dans les périmètres de protection et de reconstitution forestières créés en application des articles L133-1 à L133-3 et
+L133-8 du nouveau code forestier et dans les périmètres de restauration des terrains en montagne créés en application de
+l'article L. 424-1 du code forestier, les immeubles expropriés en application de ces dispositions. Les catégories de
+personnes auxquelles ces immeubles pourront être cédés de gré à gré sont fixées par décret en Conseil d'Etat. Pour ces
+cessions de gré à gré, une priorité sera accordée aux anciens propriétaires expropriés et à leurs ascendants et, en cas de
+refus de leur part, aux collectivités locales. 
 
 Les propriétaires ayant cédé leur terrain à l'amiable et leurs descendants bénéficient de la même priorité que les
 propriétaires expropriés ; 
@@ -2877,6 +2877,7 @@ développement du territoire.
 	  - CODE DES COMMUNES. - art. L*311-8 (MMN)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. L21-2 (VT)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. L21-3 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L21-4 (VT)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. R14-6 (VT)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. R21-1 (VT)
 	  - Code du domaine de l'Etat - art. R142 (Ab)
@@ -2888,29 +2889,27 @@ développement du territoire.
 	  - Code général de la propriété des personnes publ... - art. R3221-1 (VT)
 	  - Code général des collectivités territoriales - art. L2421-18 (V)
 
-	**Anciens textes**:
-
-	  - Ordonnance 58-997 1958-10-23 art. 41
-	  - Loi n°75-1328 1975-12-31 art. 41
-
 	**Cite**:
 
-	  - Loi n°70-612 du 10 juillet 1970 - art. 13 (V)
-	  - Loi n°70-612 du 10 juillet 1970 - art. 25 (T)
-	  - Loi n°95-115 du 4 février 1995 - art. 42 (V)
-	  - Code général des collectivités territoriales - art. L2243-4 (V)
-	  - Code de l'urbanisme - art. L221-1 (V)
-	  - Code de l'urbanisme - art. L311-1 (V)
-	  - Code de l'urbanisme - art. L313-4-1 (V)
-	  - Code de la construction et de l'habitation. - art. L615-1 (V)
+	  - Loi n°70-612 du 10 juillet 1970 - art. 13
+	  - Loi n°70-612 du 10 juillet 1970 - art. 25
+	  - Loi n°95-115 du 4 février 1995 - art. 42
+	  - Code général des collectivités territoriales - art. L2243-4
+	  - Code de l'urbanisme - art. L221-1
+	  - Code de l'urbanisme - art. L311-1
+	  - Code de l'urbanisme - art. L313-4-1
+	  - Code de la construction et de l'habitation. - art. L615-1
+	  - Code forestier (nouveau) - art. L133-1
+	  - Code forestier (nouveau) - art. L133-8
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
-	**Modifié par**:
+	**Nouveaux textes**:
 
-	  - Loi n°2003-710 du 1 août 2003 - art. 21 () JORF 2 août 2003
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L411-1 (VD)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L411-5 (VD)
 
 
 ###### Article L21-2
@@ -3450,8 +3449,6 @@ mégawatts et d'installations liées à la production et au développement de l'
 
 	  - Code de l'expropriation pour cause d'utilité pu... - art. R121-2 (V)
 
-
-##### Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement.
 
 ##### Sous-section 2 : Procédure d'enquête publique préalable en application du III de l'article L. 11-1.
 
@@ -4157,8 +4154,6 @@ postérieurement au 31 décembre 2002.
 
 	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-5 (T)
 
-
-##### Sous-section 3 : Dispositions communes.
 
 ##### Sous-section 3 : Avis et consultations spécifiques à certaines enquêtes.
 
