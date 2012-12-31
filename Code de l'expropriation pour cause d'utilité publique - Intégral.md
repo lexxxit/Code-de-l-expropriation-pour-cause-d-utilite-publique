@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2012-07-01
+Version Consolidée au 2013-01-01
 
 # Partie législative
 
@@ -254,32 +254,54 @@ déclarées d'utilité publique par décret, sans enquête préalable, sur avis 
 
 ###### Article L11-4
 
-Ainsi qu'il est dit : 
+Ainsi qu'il est dit : A l'article L. 123-14 du code de l'urbanisme : Lorsque la réalisation d'un projet public ou privé de
+travaux, de construction ou d'opération d'aménagement, présentant un caractère d'utilité publique ou d'intérêt général,
+nécessite une mise en compatibilité d'un plan local d'urbanisme, ce projet peut faire l'objet d'une déclaration d'utilité
+publique ou, si une déclaration d'utilité publique n'est pas requise, d'une déclaration de projet. 
 
-à l'article L. 123-8 du code de l'urbanisme : " La déclaration d'utilité publique d'une opération qui n'est pas compatible
-avec les prescriptions d'un plan d'occupation des sols rendu public ou approuvé ne peut intervenir que si l'enquête publique
-concernant cette opération a porté à la fois sur l'utilité publique et sur la modification du plan et si, en outre, l'acte
-déclaratif d'utilité publique est pris dans des conditions conformes aux prescriptions concernant l'approbation des plans
-d'occupation des sols. La déclaration d'utilité publique comporte alors modification du plan ; " 
+Dans ce cas, l'enquête publique porte à la fois sur l'utilité publique ou l'intérêt général du projet et sur la mise en
+compatibilité du plan qui en est la conséquence. 
 
-à l'article L. 124-2 du même code : " Les dispositions de l'article L. 123-8 et les textes pris pour son application sont
-applicables à un projet d'aménagement ou un plan d'urbanisme approuvé, lorsque doit être prononcée la déclaration d'utilité
-publique d'une opération qui n'est pas compatible avec les prescriptions de ce plan. "
+La déclaration d'utilité publique ou la déclaration de projet d'une opération qui n'est pas compatible avec les dispositions
+d'un plan local d'urbanisme ne peut intervenir qu'au terme de la procédure prévue par l'article L. 123-14-2.
 
 **Nota:**
 
-Les articles L. 123-8 et L. 124-2 du code de l'urbanisme cités dans cet article le sont dans leur version antérieure à leur
-modification par la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains.
+Ordonnance n° 2012-11 du 5 janvier 2012 article 19 : Les présentes dispositions entrent en vigueur à une date déterminée par
+décret en Conseil d'Etat et au plus tard le 1er janvier 2013. Toutefois, les dispositions en vigueur antérieurement à
+l'entrée en vigueur de l'ordonnance demeurent applicables :
+
+- aux procédures d'élaboration et de révision des schémas de cohérence territoriale et des plans locaux d'urbanisme
+prescrites à cette même date ;
+
+- aux procédures de modification des schémas de cohérence territoriale et des plans locaux d'urbanisme lorsque le projet de
+modification a été notifié aux personnes publiques associées à la date d'entrée en vigueur de l'ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+	  - Décret n°77-392 du 28 mars 1977
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977 rectificatif JORF 29 juin 1977
+	  - Ordonnance n°2012-11 du 5 janvier 2012 - art. 10
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L123-14
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-14-2
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L122-5 (VD)
 
 
 ###### Article L11-5
@@ -627,8 +649,8 @@ cette décision de retrait.
 
 ###### Article L12-3
 
-Les droits des créanciers régulièrement inscrits sur les immeubles expropriés, soit avant la publication au bureau des
-hypothèques de l'ordonnance d'expropriation, de l'ordonnance de donné acte ou de l'acte de cession consentie après la
+Les droits des créanciers régulièrement inscrits sur les immeubles expropriés, soit avant la publication au fichier
+immobilier de l'ordonnance d'expropriation, de l'ordonnance de donné acte ou de l'acte de cession consentie après la
 déclaration d'utilité publique, soit postérieurement à ladite publication en ce qui concerne les privilèges conservés suivant
 les prescriptions des articles 2379 et 2380 du code civil, sont reportés sur l'indemnité compte tenu du rang de préférence
 qui leur est reconnu par les textes qui les régissent. 
@@ -638,10 +660,6 @@ péremption prévue au troisième alinéa de l'article L. 12-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 58-997 1958-10-23 art. 8
-
 	**Cité par**:
 
 	  - Loi n°65-557 du 10 juillet 1965 - art. 16-1 (V)
@@ -649,18 +667,22 @@ péremption prévue au troisième alinéa de l'article L. 12-2.
 	  - Code de l'urbanisme - art. L123-9 (M)
 	  - Code de l'urbanisme - art. L230-5 (V)
 
-	**Codifié par**:
-
-	  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+	  - Ordonnance n°2010-638 du 10 juin 2010 - art. 13
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 	**Cite**:
 
-	  - Code civil - art. 2379 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L12-2 (V)
+	  - Code civil - art. 2379
+	  - Code de l'expropriation pour cause d'utilité publique - art. L12-2
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L222-3 (VD)
 
 
 ###### Article L12-4
@@ -4400,31 +4422,25 @@ l'article L. 11-7.
 ###### Article **R11-19
 
 L'expropriant adresse au préfet, pour être soumis à enquête dans chacune des communes où sont situés les immeubles à
-exproprier :
+exproprier : 
 
-1° Un plan parcellaire régulier des terrains et bâtiments ;
+1° Un plan parcellaire régulier des terrains et bâtiments ; 
 
 2° La liste des propriétaires établie à l'aide d'extraits des documents cadastraux délivrés par le service du cadastre ou à
-l'aide des renseignements délivrés par le conservateur des hypothèques au vu du fichier immobilier ou par tous autres moyens.
+l'aide des renseignements     délivrés par le service de la publicité foncière au vu du fichier immobilier ou par tous autres
+moyens.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-701 du 6 juin 1959 - art. 13 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977 rectificatif JORF 29 juin 1977
-
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+	  - Décret n°77-393 du 28 mars 1977
 
 	**Cité par**:
 
 	  - Décret n°81-542 du 13 mai 1981 - art. 27 (Ab)
 	  - Décret n°85-1373 du 24 décembre 1985 - art. 2 (M)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-22 (VT)
 	  - Code de l'urbanisme - art. R*322-10 (M)
 	  - Code de l'urbanisme - art. R313-26 (V)
 	  - Code de la voirie routière - art. R*152-2 (M)
@@ -4434,7 +4450,15 @@ l'aide des renseignements délivrés par le conservateur des hypothèques au vu 
 
 	**Modifié par**:
 
-	  - Décret n°85-453 du 23 avril 1985 - art. 26 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R131-3 (V)
 
 
 ###### Article **R11-21
@@ -4857,8 +4881,8 @@ invités à faire connaître directement leurs observations au commissaire enqu�
 ###### Article **R11-31
 
 Lorsque l'expropriation d'un droit réel immobilier a été requise sans qu'il soit nécessaire d'exproprier l'immeuble grevé,
-l'expropriant procède à la recherche du titulaire de ce droit à l'aide des renseignements délivrés par le conservateur des
-hypothèques ou par tous autres moyens.
+l'expropriant procède à la recherche du titulaire de ce droit à l'aide des renseignements     délivrés par le service de la
+publicité foncière ou par tous autres moyens. 
 
 Il dresse le plan de la propriété grevée et, s'il y a lieu, de la propriété à laquelle ce droit profite. Ces pièces sont
 ensuite déposées à la mairie de la situation des biens pour permettre l'ouverture de l'enquête dans les conditions précisées
@@ -4867,13 +4891,9 @@ cadastral délivré par le service du cadastre en tient lieu.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-701 du 6 juin 1959 - art. 25 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+	  - Décret n°77-393 du 28 mars 1977
 
 	**Cité par**:
 
@@ -4881,6 +4901,18 @@ cadastral délivré par le service du cadastre en tient lieu.
 	  - Décret n°94-894 du 13 octobre 1994 - art. 19-1 (Ab)
 	  - Décret n°95-323 du 22 mars 1995 - art. 1 (V)
 	  - Code de l'urbanisme - art. R*322-10 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R131-13 (V)
 
 
 ###### Article R11-20
@@ -7654,23 +7686,31 @@ A défaut de transcription ou de publication du titre précité, l'exproprié b�
 matrice des rôles de la commune au titre du bien exproprié. Lorsqu'il n'est pas inscrit à la matrice des rôles, l'exproprié
 est seulement tenu de justifier des transmissions intervenues depuis la dernière inscription à cette matrice.
 
-A défaut de la production de titres, la justification du droit peut résulter de copies ou d'extraits délivrés par le
-conservateur des hypothèques, d'attestations notariées ou d'actes de notoriété.
+A défaut de la production des titres, la justification du droit peut résulter de renseignements ou de copies de documents
+délivrés par le service de la publicité foncière, d'attestations notariées ou d'actes de notoriété.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°61-164 1961-02-13 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+	  - Décret n°77-393 du 28 mars 1977
 
 	**Cité par**:
 
 	  - Décret n°95-323 du 22 mars 1995 - art. 1 (V)
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R13-65 (VT)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+	**Nouveaux textes**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R323-1 (V)
 
 
 ###### Article **R13-63
