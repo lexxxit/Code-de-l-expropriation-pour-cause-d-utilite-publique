@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2013-05-30
+Version Consolidée au 2014-03-27
 
 # Partie législative
 
@@ -1499,7 +1499,7 @@ Les terrains qui, à l'une des dates indiquées ci-dessus, ne répondent pas à 
 seul usage effectif, conformément au paragraphe I du présent article. 
 
 2° Les possibilités de construction à retenir pour l'évaluation des terrains à bâtir ainsi qualifiés conformément au 1° ci-
-dessus ne peuvent excéder celles qui résultent du plafond légal de densité.
+dessus ne peuvent excéder celles qui résultent du plafond légal de densité. 
 
 L'évaluation des terrains à bâtir tient compte des possibilités légales et effectives de construction qui existaient à l'une
 ou l'autre des dates de référence prévues au 1° ci-dessus, de la capacité des équipements susvisés, des servitudes affectant
@@ -1522,7 +1522,15 @@ III.-La valeur d'un fonds de commerce portant sur l'exploitation d'un établisse
 prenant en compte la réalité de la gestion hôtelière de l'établissement et est réduite, le cas échéant, du montant estimé des
 travaux nécessaires pour assurer la sécurité ou la salubrité des locaux tels que résultant notamment de l'exécution des
 mesures de police prescrites au propriétaire ou à l'exploitant ainsi que de celui des frais de relogement dus en application
-des articles L. 521-1 à L. 521-4 du code de la construction et de l'habitation.
+des articles L. 521-1 à L. 521-4 du code de la construction et de l'habitation. 
+
+IV.-Le coût estimatif des travaux et mesures prescrits par une mesure de police propre à assurer la sécurité ou la salubrité
+des locaux, notifiée au propriétaire ou au syndicat des copropriétaires, et non réalisés au terme prévu par l'arrêté est
+déduit de l'estimation de la valeur d'un immeuble bâti. Lorsque les travaux et mesures prescrits concernent les parties
+communes d'un immeuble soumis au statut de la copropriété, la part des travaux et mesures déduits pour chaque lot de
+copropriété est effectuée au prorata de la quote-part de parties communes affectés à chaque lot. 
+
+Le montant de l'indemnité ne peut être réduit à la valeur du terrain nu.
 
 **Liens relatifs à cet article**
 
@@ -1535,8 +1543,6 @@ des articles L. 521-1 à L. 521-4 du code de la construction et de l'habitation.
 	  - Loi - art. 94 (VT)
 	  - Décret n°91-820 du 23 août 1991 - art. 1 (VT)
 	  - Loi n°2002-276 du 27 février 2002 - art. 155 (VT)
-	  - Code des transports - art. L6353-2 (V)
-	  - Code de l'énergie - art. L323-10 (VD)
 	  - Code de l'environnement - art. L515-11 (V)
 	  - Code de l'environnement - art. L566-12-2 (V)
 	  - Code de l'urbanisme - art. L111-11 (M)
@@ -1550,6 +1556,8 @@ des articles L. 521-1 à L. 521-4 du code de la construction et de l'habitation.
 	  - Code de l'urbanisme - art. L230-3 (V)
 	  - Code de l'urbanisme - art. L311-2 (M)
 	  - Code de l'urbanisme - art. L314-6 (V)
+	  - Code de l'énergie - art. L323-10 (VD)
+	  - Code des transports - art. L6353-2 (V)
 	  - Code du tourisme. - art. L342-25 (VT)
 	  - Code général des impôts, CGI. - art. 151 septies (VT)
 	  - Code général des impôts, CGI. - art. 151 sexies (VT)
@@ -1568,13 +1576,19 @@ des articles L. 521-1 à L. 521-4 du code de la construction et de l'habitation.
 	  - Code de l'urbanisme - art. L111-1-3
 	  - Code de l'urbanisme - art. L123-1
 	  - Loi du 26 mai 1941
+	  - Code de la construction et de l'habitation. - art. L521-1
 	  - Code de l'environnement - art. L121-8
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L11-3 (VT)
 	  - Code de l'expropriation pour cause d'utilité publique - art. L11-1
-	  - Code de l'expropriation pour cause d'utilité publique - art. L11-3
 
 	**Modifié par**:
 
 	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 88
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 
 ###### Article L13-16
