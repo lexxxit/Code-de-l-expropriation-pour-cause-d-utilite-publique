@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2016-01-01
 
 # Partie législative nouvelle
 
@@ -83,50 +83,6 @@ III du titre II du livre Ier de ce code.
 	**Anciens textes**:
 
 	  - Code de l'expropriation pour cause d'utilité pu... - art. L11-1, al. 2 et 3 v. 3.1 (VT)
-
-
-###### Article L110-2
-
-Sans préjudice des dispositions particulières contenues dans d'autres textes, les dispositions du présent titre régissent les
-enquêtes publiques qui ne sont pas préalables à une déclaration d'utilité publique pour lesquelles il est fait renvoi au code
-de l'expropriation pour cause d'utilité publique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
-
-	**Créé par**:
-
-	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 6
-
-	**Cité par**:
-
-	  - Décret n°2016-308 du 17 mars 2016 - art. 6
-	  - Code de l'environnement - art. R571-32 (M)
-	  - Code de l'environnement - art. R571-52 (M)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-25 (Ab)
-	  - Code de l'urbanisme - art. R*160-17 (VT)
-	  - Code de l'urbanisme - art. R*318-6 (M)
-	  - Code de l'énergie - art. R721-3 (M)
-	  - Code de la santé publique - art. R1322-18 (M)
-	  - Code de la voirie routière - art. R*141-10 (M)
-	  - Code de la voirie routière - art. R*151-3 (M)
-	  - Code de la voirie routière - art. R*151-5 (M)
-	  - Code de la voirie routière - art. R*171-6 (M)
-	  - Code général de la propriété des personnes publ... - art. R2111-15 (M)
-	  - Code général des collectivités territoriales - art. R1311-8 (M)
-	  - Code rural - art. R152-30 (M)
-	  - Code rural et de la pêche maritime - art. R161-25 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des relations entre le public et l'adminis... - art. L134-1 (VD)
 
 
 #### Chapitre II : Déroulement de l'enquête
@@ -855,7 +811,7 @@ justification, par tout intéressé, du caractère irrévocable ou définitif de
 des droits réels ou personnels existant sur les immeubles expropriés.
 
 Les dispositions du présent article sont applicables aux acquisitions réalisées dans les conditions prévues aux articles L.
-123-17 et L. 213-5 du code de l'urbanisme.
+152-2 et L. 213-5 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -863,14 +819,14 @@ Les dispositions du présent article sont applicables aux acquisitions réalisé
 
 	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-17 (V)
-	  - Code de l'urbanisme - art. L213-5 (M)
+	  - Code de l'urbanisme - art. L152-2 (VD)
+	  - Code de l'urbanisme - art. L213-5 (V)
 
 	**Cité par**:
 
@@ -1104,8 +1060,8 @@ Lorsqu'un délai d'un an s'est écoulé à compter de la publication d'un acte p
 opération, les propriétaires des biens à acquérir compris dans cette opération peuvent mettre en demeure l'expropriant au
 bénéfice duquel la déclaration d'utilité publique est intervenue de procéder à l'acquisition de leur bien dans un délai de
 deux ans à compter du jour de la demande. Ce délai peut être prorogé une fois pour une durée d'un an, sauf dans les cas où
-une décision de sursis à statuer a été opposée antérieurement à l'intéressé en application des dispositions des articles L.
-111-9 à L. 111-11 du code de l'urbanisme. 
+une décision de sursis à statuer a été opposée antérieurement à l'intéressé en application des dispositions de l'article L.
+424-1 du code de l'urbanisme. 
 
 Les dispositions du présent article ne sont pas applicables lorsque l'opération tend à la conservation des forêts. 
 
@@ -1118,13 +1074,13 @@ ne sont pas soumis au droit de préemption urbain.
 
 	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L111-9 (V)
+	  - Code de l'urbanisme - art. L424-1 (VD)
 
 	**Cité par**:
 
@@ -2019,8 +1975,8 @@ exclusivement de la destination sportive de l'immeuble et des installations qu'i
 ###### Article L322-6
 
 Lorsqu'il s'agit de l'expropriation d'un terrain compris dans un emplacement réservé par un plan local d'urbanisme en
-application du V de l'article L. 123-1-5 du code de l'urbanisme, par un document d'urbanisme en tenant lieu, ou par un plan
-d'occupation des sols en application du 8° de l'article L. 123-1 de ce code dans sa rédaction antérieure à la loi n°
+application des 1° à 4° de l'article L. 151-41 du code de l'urbanisme, par un document d'urbanisme en tenant lieu, ou par un
+plan d'occupation des sols en application du 8° de l'article L. 123-1 de ce code dans sa rédaction antérieure à la loi n°
 2000-1208 du 13 décembre 2000, le terrain est considéré, pour son évaluation, comme ayant cessé d'être compris dans un
 emplacement réservé. 
 
@@ -2032,18 +1988,18 @@ situé l'emplacement réservé.
 
 	**Cite**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 (V)
-	  - Code de l'urbanisme - art. L123-1 (V)
-	  - Code de l'urbanisme - art. L123-1-5 (M)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. L322-3 (VD)
+	  - Loi n°2000-1208 du 13 décembre 2000
+	  - Code de l'urbanisme - art. L123-1
+	  - Code de l'urbanisme - art. L151-41 (VD)
+	  - Code de l'expropriation pour cause d'utilité publique - art. L322-3
 
 	**Codifié par**:
 
 	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 
 ###### Article L322-7
@@ -4302,19 +4258,16 @@ l'environnement.
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-4 al. 1 phrase 3 (Ab)
 
 
-##### Section 1 : Désignation du commissaire enquêteur ou de la commission d'enquête
-
-##### Sous-section 1 : Enquêtes publiques préalables à une déclaration d'utilité publique
-
 ###### Article R111-2
 
-Sous réserve des cas où une autre autorité administrative est compétente pour y procéder, le préfet du département où doit se
-dérouler l'opération en vue de laquelle l'enquête publique est demandée désigne, par arrêté, un commissaire enquêteur.
-
-Lorsque cette opération doit se dérouler sur le territoire de plusieurs départements, cette désignation s'effectue par arrêté
-conjoint des préfets concernés.
+L'indemnisation du commissaire enquêteur ou des membres de la commission d'enquête est assurée dans les conditions prévues
+aux articles R. 123-25 à R. 123-27 du code de l'environnement.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art.
 
 	**Cité par**:
 
@@ -4322,19 +4275,20 @@ conjoint des préfets concernés.
 	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-3 (V)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. R131-2 (M)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
+	  - Décret n°2015-1342 du 23 octobre 2015 - art. 4
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
+	  - Code de l'environnement - art. R123-25 (V)
 
 	**Anciens textes**:
 
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-14 al. 2 phrase 1 (Ab)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-4 al. 1 phrase 1 (Ab)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-5 (T)
 
+
+##### Section 1 : Désignation du commissaire enquêteur ou de la commission d'enquête
 
 ##### Sous-section 2 : Enquêtes publiques relevant de l'article L. 110-2
 
@@ -4366,207 +4320,9 @@ second alinéa de l'article R. 111-2. Les membres de la commission d'enquête so
 	  - Code de l'expropriation pour cause d'utilité publique - art. R111-2
 
 
-###### Article R111-4
-
-Le commissaire enquêteur ou les membres de la commission d'enquête sont choisis parmi les personnes figurant sur les listes
-d'aptitude prévues à l'article L. 123-4 du code de l'environnement.
-
-Ne peuvent être désignées pour exercer les fonctions de commissaire enquêteur ou de membre de la commission d'enquête ni les
-personnes appartenant à l'administration de la collectivité ou de l'organisme bénéficiaire de l'opération projetée ou
-participant à son contrôle, ni les personnes intéressées à l'opération, soit à titre personnel, soit en raison des fonctions
-qu'elles exercent, ou ont exercées depuis moins de cinq ans.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1342 du 23 octobre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L123-4
-
-	**Cité par**:
-
-	  - Arrêté du 27 février 1986 - art. 4 (V)
-	  - Code de l'environnement - art. R422-17 (V)
-	  - Code de la sécurité sociale. - art. D311-1 (M)
-	  - Code de la voirie routière - art. R*131-3 (VT)
-
-	**Anciens textes**:
-
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-5 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code des relations entre le public et l'adminis... - art. R134-17 (VD)
-
-
 ##### Section 2 : Indemnisation du commissaire enquêteur ou des membres de la commission d'enquête
 
-##### Sous-section 1 : Enquêtes publiques préalables à une déclaration d'utilité publique
-
-###### Article R111-5
-
-L'indemnisation du commissaire enquêteur ou des membres de la commission d'enquête est assurée dans les conditions prévues
-aux articles R. 123-25 à R. 123-27 du code de l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2015-1342 du 23 octobre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R123-25
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R123-26 (V)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R131-2 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R11-6-1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-2 (VD)
-
-
 ##### Sous-section 2 : Enquêtes publiques relevant de l'article L. 110-2
-
-###### Article R111-6
-
-Le commissaire enquêteur et les membres de la commission d'enquête ont droit à une indemnité, à la charge du maître
-d'ouvrage, qui comprend des vacations et le remboursement des frais qu'ils engagent pour l'accomplissement de leur mission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1342 du 23 octobre 2015 - art. 4
-
-	**Anciens textes**:
-
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-6, al. 2 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R131-2 (M)
-	  - Code de l'urbanisme - art. R*318-7 (V)
-	  - Code de la sécurité sociale. - art. D311-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des relations entre le public et l'adminis... - art. R134-18 (VD)
-
-
-###### Article R111-7
-
-I. - Sous réserve des cas où une autre autorité administrative les a désignés, le préfet ayant désigné le commissaire
-enquêteur ou les membres de la commission d'enquête détermine le nombre de vacations qui leur sont allouées sur la base du
-nombre d'heures que le commissaire enquêteur ou les membres de la commission déclarent avoir consacrées à l'enquête, en
-tenant compte des difficultés de l'enquête ainsi que de la nature et de la qualité du travail fourni.
-
-Il arrête, sur justificatifs, le montant des frais qui sont remboursés au commissaire enquêteur ou aux membres de la
-commission d'enquête.
-
-Il fixe le montant de l'indemnité, par un arrêté qu'il notifie au commissaire enquêteur ou aux membres de la commission
-d'enquête et au maître d'ouvrage.
-
-II. - Lorsque l'opération en vue de laquelle l'enquête publique est demandée doit se dérouler sur le territoire de plusieurs
-départements, la détermination de l'indemnisation s'effectue par arrêté conjoint des préfets concernés selon les modalités
-définies au I.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1342 du 23 octobre 2015 - art. 4
-
-	**Anciens textes**:
-
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-6, al. 3 à 5 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-8 (VT)
-	  - Code de la sécurité sociale. - art. D311-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des relations entre le public et l'adminis... - art. R134-19 (VD)
-
-
-###### Article R111-8
-
-Le maître d'ouvrage verse sans délai au commissaire enquêteur ou aux membres de la commission d'enquête le montant de
-l'indemnité arrêté conformément à l'article R. 111-7.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1342 du 23 octobre 2015 - art. 4
-
-	**Anciens textes**:
-
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-6, al. 5 (Ab)
-
-	**Cite**:
-
-	  - Code de l'expropriation pour cause d'utilité publique - art. R111-7
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. D311-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des relations entre le public et l'adminis... - art. R134-20 (VD)
-
 
 ###### Article R111-9
 
@@ -4761,35 +4517,6 @@ situés les immeubles, pour qu'il soit soumis à l'enquête, un dossier comprena
 	**Anciens textes**:
 
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-3, al. 10 à 14 (Ab)
-
-
-###### Article R112-6
-
-La notice explicative prévue aux articles R. 112-4 et R. 112-5 indique l'objet de l'opération et les raisons pour lesquelles,
-parmi les partis envisagés, le projet soumis à l'enquête a été retenu, notamment du point de vue de son insertion dans
-l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1342 du 23 octobre 2015 - art. 4
-
-	**Anciens textes**:
-
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-3, al. 15 et 16 (Ab)
-
-	**Cite**:
-
-	  - Code de l'expropriation pour cause d'utilité publique - art. R112-4
 
 
 ###### Article R112-7
@@ -5832,27 +5559,19 @@ commission d'enquête est assurée dans les conditions prévues à l'article R. 
 ###### Article R131-2
 
 L'indemnisation du commissaire enquêteur ou des membres de la commission d'enquête est assurée soit dans les conditions
-prévues à l'article R. 111-5, lorsque l'enquête parcellaire est conduite en vue d'une expropriation pour cause d'utilité
+prévues à l'article R. 111-2, lorsque l'enquête parcellaire est conduite en vue d'une expropriation pour cause d'utilité
 publique, soit dans les conditions prévues aux articles R. 111-6 à R. 111-9, lorsque l'enquête parcellaire n'est pas engagée
 à une telle fin.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R11-20 al. 1, phrase 3 (Ab)
+	  - Décret n°2015-1342 du 23 octobre 2015 - art. 3 (V)
 
 	**Cite**:
 
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-5 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-2 (V)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-6 (V)
 
 
@@ -10926,124 +10645,5 @@ d'utilité publique.
 	  - Code de l'urbanisme - art. R442-13 (M)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. L411-3 (V)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. L411-4 (V)
-
-
-# Partie législative
-
-## TITRE II : Dispositions propres à certaines catégories d'opérations
-
-### CHAPITRE Ier : Cession des immeubles expropriés.
-
-###### Article L21-1
-
-Peuvent être cédés de gré à gré ou concédés temporairement à des personnes de droit privé ou de droit public et sous
-condition que ces personnes les utilisent aux fins prescrites par le cahier des charges annexé à l'acte de cession ou de
-concession temporaire : 
-
-1° Les immeubles expropriés en vue de la construction d'ensembles immobiliers à usage d'habitation avec leurs installations
-annexes ou en vue de la création de lotissements destinés à l'habitation ou à l'industrie ; 
-
-2° Les immeubles expropriés en vue :
-
-- de l'aménagement progressif et suivant des plans d'ensemble des zones affectées à l'habitation ou à des activités par des
-projets d'aménagement, des plans d'urbanisme approuvés ou par des plans d'occupation des sols rendus publics ou approuvés ;
-
-- d'opérations dans les zones d'aménagement concerté prévues à l'article L. 311-1 du code de l'urbanisme ;
-
-- d'opérations de résorption de l'habitat insalubre ainsi que d'opérations régies par les articles 25 et 26 de la loi n°
-70-612 du 10 juillet 1970 ; 
-
-2° bis Les immeubles en état manifeste d'abandon expropriés en application de l'article L. 2243-4 du code général des
-collectivités territoriales, les immeubles expropriés et situés dans un ensemble immobilier faisant l'objet d'un plan de
-sauvegarde en application de l'article L. 615-1 du code de la construction et de l'habitation ou pour lesquels l'état de
-carence a été déclaré en application de l'article L. 615-6 du même code, les immeubles expropriés en vue de leur restauration
-en application de l'article L. 313-4-1 du code de l'urbanisme ; 
-
-3° Les immeubles expropriés en vue de l'épuration des eaux provenant d'un établissement industriel, commercial, artisanal ou
-agricole et, d'une façon générale, les immeubles expropriés en vue d'éviter la pollution des eaux par des déversements,
-écoulements, jets, dépôts directs ou indirects de matières de cet établissement, lorsque ce résultat ne peut être obtenu que
-par des travaux s'étendant en dehors de l'établissement ; 
-
-4° Les immeubles expropriés compris dans le plan d'aménagement touristique ou sportif des abords d'un plan d'eau créé ou
-aménagé par l'Etat, les départements, les communes, les associations foncières ou les groupements de ces collectivités ainsi
-que leurs concessionnaires ; 
-
-5° Dans les périmètres de protection et de reconstitution forestières créés en application des articles L133-1 à L133-3 et
-L133-8 du nouveau code forestier et dans les périmètres de restauration des terrains en montagne créés en application de
-l'article L. 424-1 du code forestier, les immeubles expropriés en application de ces dispositions. Les catégories de
-personnes auxquelles ces immeubles pourront être cédés de gré à gré sont fixées par décret en Conseil d'Etat. Pour ces
-cessions de gré à gré, une priorité sera accordée aux anciens propriétaires expropriés et à leurs ascendants et, en cas de
-refus de leur part, aux collectivités locales. 
-
-Les propriétaires ayant cédé leur terrain à l'amiable et leurs descendants bénéficient de la même priorité que les
-propriétaires expropriés ; 
-
-6° Les immeubles expropriés pour la constitution de réserves foncières lorsque la cession ou la concession temporaire de ces
-immeubles est faite en vue de la réalisation d'opérations pour lesquelles la réserve a été constituée conformément aux
-dispositions des articles L. 221-1 et L. 221-2 du code de l'urbanisme ou de l'article 13 (2ème alinéa) de la loi n° 70-612 du
-10 juillet 1970 ; 
-
-7° Les immeubles expropriés en vue de l'aménagement et de l'exploitation d'installations d'élimination ou de traitement des
-déchets ; 
-
-8° Les immeubles expropriés par l'établissement public créé par l'article L. 325-1 du code de l'urbanisme en vue de la
-création, l'extension, la transformation ou la reconversion des espaces commerciaux et artisanaux dans les quartiers
-prioritaires de la politique de la ville.
-
-**Nota:**
-
-Conformément à l'article 30 de la loi n° 2014-173 du 21 février 2014, les présentes dispositions entrent en vigueur à la date
-fixée par le décret en Conseil d'Etat mentionné au I de l'article 5 de ladite loi et au plus tard le 1er janvier 2015.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°55-216 du 3 février 1955 - art. ANNEXE 3 (VT)
-	  - Décret n°55-216 du 3 février 1955 - art. ANNEXE 5 (VT)
-	  - Décret n°72-27 du 10 janvier 1972 - art. 3 (VT)
-	  - Décret n°72-770 du 17 août 1972 - art. 3 (VT)
-	  - Décret n°73-968 du 15 octobre 1973 - art. 3 (VT)
-	  - Décret n°87-191 du 24 mars 1987 - art. 3 (V)
-	  - Décret n°87-191 du 24 mars 1987 - art. 5 (V)
-	  - Décret n°95-1102 du 13 octobre 1995 - art. 2 (M)
-	  - Décret n°96-325 du 10 avril 1996 - art. 2 (M)
-	  - Décret n°2000-1237 du 19 décembre 2000 - art. 2 (Ab)
-	  - Décret n°2002-477 du 8 avril 2002 - art. 2 (Ab)
-	  - Décret n°2007-88 du 24 janvier 2007 - art. 2 (M)
-	  - Décret n°2007-785 du 10 mai 2007 - art. 2 (V)
-	  - Décret n°2008-773 du 30 juillet 2008 - art. 2 (M)
-	  - Décret n°2010-306 du 22 mars 2010 - art. 2 (M)
-	  - Décret n°2010-743 du 2 juillet 2010 - art. 2 (V)
-	  - CODE DES COMMUNES. - art. L*311-8 (MMN)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. L21-2 (VT)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. L21-3 (VT)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R14-6 (VT)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R21-1 (VT)
-	  - Code du domaine de l'Etat - art. R142 (Ab)
-	  - Code du domaine de l'Etat - art. R171 (Ab)
-	  - Code forestier (nouveau) - art. L133-5 (V)
-	  - Code forestier - art. L321-10 (VT)
-	  - Code forestier - art. R321-21 (T)
-	  - Code forestier - art. R321-31 (Ab)
-	  - Code général de la propriété des personnes publ... - art. R3221-1 (VT)
-	  - Code général des collectivités territoriales - art. L2421-18 (V)
-
-	**Cite**:
-
-	  - Loi n°70-612 du 10 juillet 1970 - art. 13
-	  - Loi n°70-612 du 10 juillet 1970 - art. 25
-	  - Loi n°95-115 du 4 février 1995 - art. 42
-	  - Code général des collectivités territoriales - art. L2243-4
-	  - Code de l'urbanisme - art. L221-1
-	  - Code de l'urbanisme - art. L311-1
-	  - Code de l'urbanisme - art. L313-4-1
-	  - Code de la construction et de l'habitation. - art. L615-1
-	  - Code forestier (nouveau) - art. L133-1
-	  - Code forestier (nouveau) - art. L133-8
-
-	**Modifié par**:
-
-	  - Loi n°2014-173 du 21 février 2014 - art. 26
 
 
