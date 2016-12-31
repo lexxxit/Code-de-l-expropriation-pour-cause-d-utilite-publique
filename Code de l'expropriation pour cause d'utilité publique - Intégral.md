@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2017-01-01
 
 # Partie législative nouvelle
 
@@ -288,15 +288,11 @@ justifiant son utilité publique.
 
 Dans les cas où les atteintes à l'environnement ou au patrimoine culturel que risque de provoquer un projet de travaux,
 d'ouvrages ou d'aménagements le justifient, la déclaration d'utilité publique comporte, le cas échéant, les mesures prévues
-au deuxième alinéa du IV de l'article L. 122-1 du code de l'environnement.
+au I de l'article L. 122-1-1 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
-
-	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
-
-	**Créé par**:
 
 	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
 
@@ -305,13 +301,13 @@ au deuxième alinéa du IV de l'article L. 122-1 du code de l'environnement.
 	  - Ordonnance n°2016-1058 du 3 août 2016 - art. 3
 	  - Code de l'expropriation pour cause d'utilité pu... - art. L641-1 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1058 du 3 août 2016 - art. 3
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L122-1 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'expropriation pour cause d'utilité pu... - art. L23-2 (VT)
+	  - Code de l'environnement - art. L122-1-1
 
 
 ##### Section 2 : Opération ayant des conséquences sur une exploitation agricole
@@ -4286,66 +4282,6 @@ aux articles R. 123-25 à R. 123-27 du code de l'environnement.
 	**Anciens textes**:
 
 	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-5 (T)
-
-
-##### Section 1 : Désignation du commissaire enquêteur ou de la commission d'enquête
-
-##### Sous-section 2 : Enquêtes publiques relevant de l'article L. 110-2
-
-###### Article R111-3
-
-Le préfet peut désigner une commission d'enquête dont il nomme le président, le cas échéant selon les modalités prévues au
-second alinéa de l'article R. 111-2. Les membres de la commission d'enquête sont nommés en nombre impair.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1342 du 23 octobre 2015 - art. 4
-
-	**Anciens textes**:
-
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-4 al. 1 phrases 1 et 2 (Ab)
-
-	**Cite**:
-
-	  - Code de l'expropriation pour cause d'utilité publique - art. R111-2
-
-
-##### Section 2 : Indemnisation du commissaire enquêteur ou des membres de la commission d'enquête
-
-##### Sous-section 2 : Enquêtes publiques relevant de l'article L. 110-2
-
-###### Article R111-9
-
-Un arrêté conjoint des ministres chargés, respectivement, de l'environnement, de l'équipement et du budget et du ministre de
-l'intérieur fixe les modalités de calcul de l'indemnité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-6, al. 6 (Ab)
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. D311-1 (M)
 
 
 #### Chapitre II : Déroulement de l'enquête
