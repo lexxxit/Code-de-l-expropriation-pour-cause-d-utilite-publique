@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-04-28
 
 # Partie législative nouvelle
 
@@ -4455,6 +4455,23 @@ situés les immeubles, pour qu'il soit soumis à l'enquête, un dossier comprena
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-3, al. 10 à 14 (Ab)
 
 
+###### Article R112-6
+
+La notice explicative prévue aux articles R. 112-4 et R. 112-5 indique l'objet de l'opération et les raisons pour lesquelles,
+parmi les partis envisagés, le projet soumis à l'enquête a été retenu, notamment du point de vue de son insertion dans
+l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-626 du 25 avril 2017 - art. 9
+
+
 ###### Article R112-7
 
 Tous documents, plans et maquettes établis par l'expropriant peuvent, en outre, venir préciser l'opération en vue de laquelle
@@ -5027,75 +5044,6 @@ demandeurs.
 	  - Code de l'expropriation pour cause d'utilité pu... - art. L112-1 (V)
 
 
-##### Section 7 : Enquêtes publiques relevant de l'article L. 110-2
-
-###### Article R112-25
-
-Sous réserve des dispositions qui leur sont particulières et de celles de la présente section, les dispositions du présent
-chapitre sont applicables aux enquêtes relevant de l'article L. 110-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-626 du 25 avril 2017 - art. 9
-
-	**Cite**:
-
-	  - Code de l'expropriation pour cause d'utilité publique - art. L110-2
-
-
-###### Article R112-26
-
-L'autorité administrative compétente pour ouvrir l'enquête publique en assure également l'organisation jusqu'à sa clôture.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-626 du 25 avril 2017 - art. 9
-
-
-###### Article R112-27
-
-L'avis assurant la publicité de l'enquête est publié selon les modalités et la durée prévues à l'article R. 112-15, dans la
-ou les communes sur le territoire desquelles l'opération faisant l'objet de l'enquête doit avoir lieu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-626 du 25 avril 2017 - art. 9
-
-	**Cite**:
-
-	  - Code de l'expropriation pour cause d'utilité publique - art. R112-15
-
-
 ### TITRE  II : DÉCLARATION DE L'UTILITÉ PUBLIQUE
 
 #### Chapitre Ier : Dispositions générales
@@ -5494,21 +5442,16 @@ commission d'enquête est assurée dans les conditions prévues à l'article R. 
 
 ###### Article R131-2
 
-L'indemnisation du commissaire enquêteur ou des membres de la commission d'enquête est assurée soit dans les conditions
-prévues à l'article R. 111-2, lorsque l'enquête parcellaire est conduite en vue d'une expropriation pour cause d'utilité
-publique, soit dans les conditions prévues aux articles R. 111-6 à R. 111-9, lorsque l'enquête parcellaire n'est pas engagée
-à une telle fin.
+Lorsque l'enquête parcellaire est conduite concomitamment à l'enquête publique préalable à la déclaration d'utilité publique,
+l'indemnisation du commissaire enquêteur ou des membres de la commission d'enquête est assurée dans les conditions prévues à
+l'article R. 111-2. Dans les autres cas, leur indemnisation est assurée dans les conditions prévues aux articles R. 134-18 à
+R. 134-21 du code des relations du public et de l'administration.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-2 (V)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-6 (V)
+	  - Décret n°2017-626 du 25 avril 2017 - art. 9
 
 
 ##### Section 2 : Déroulement de l'enquête
